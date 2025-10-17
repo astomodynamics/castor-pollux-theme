@@ -1,0 +1,117 @@
+{
+  "name": "castor-pollux-theme",
+  "displayName": "Castor & Pollux Theme Collection",
+  "description": "Premium celestial themes inspired by the twin stars constellation, featuring cosmic dark themes and material design",
+  "version": "3.4.0",
+  "publisher": "local",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Castor Navy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-navy-dark.json"
+      },
+      {
+        "label": "Pollux Cosmic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-cosmic-dark.json"
+      },
+      {
+        "label": "Castor Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-midnight-dark.json"
+      },
+      {
+        "label": "Pollux Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-nebula-dark.json"
+      },
+      {
+        "label": "Castor Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-eclipse-dark.json"
+      },
+      {
+        "label": "Castor Deep Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-deep-ocean-dark.json"
+      },
+      {
+        "label": "Pollux Solar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-solar-dark.json"
+      },
+      {
+        "label": "Castor Arctic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-arctic-dark.json"
+      },
+      {
+        "label": "Pollux Sapphire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-sapphire-dark.json"
+      },
+      {
+        "label": "Castor Azure",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-azure-dark.json"
+      },
+      {
+        "label": "Pollux Indigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-indigo-dark.json"
+      },
+      {
+        "label": "Material Light",
+        "uiTheme": "vs",
+        "path": "./themes/material-light.json"
+      },
+      {
+        "label": "Nocturne Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nocturne-dark-theme.json"
+      },
+      {
+        "label": "Aurora Light",
+        "uiTheme": "vs",
+        "path": "./themes/aurora-light-theme.json"
+      },
+      {
+        "label": "Castor CLI Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-cli-dark-theme.json"
+      },
+      {
+        "label": "Pollux CLI Light",
+        "uiTheme": "vs",
+        "path": "./themes/pollux-cli-light-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/castor-pollux-theme"
+  },
+  "keywords": [
+    "theme",
+    "castor",
+    "pollux",
+    "constellation",
+    "celestial",
+    "cosmic",
+    "material design",
+    "dark",
+    "light",
+    "color-theme",
+    "navy",
+    "nebula",
+    "space"
+  ]
+}
