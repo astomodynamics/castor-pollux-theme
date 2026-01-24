@@ -2,7 +2,7 @@
   "name": "castor-pollux-theme",
   "displayName": "Castor & Pollux Theme Collection",
   "description": "Premium celestial themes inspired by the twin stars constellation, featuring cosmic dark themes and material design",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "publisher": "local",
   "license": "MIT",
   "engines": {
@@ -117,6 +117,36 @@
         "label": "Castor Cerulean",
         "uiTheme": "vs-dark",
         "path": "./themes/castor-cerulean-dark.json"
+      },
+      {
+        "label": "Castor Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-ember-dark.json"
+      },
+      {
+        "label": "Pollux Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-forest-dark.json"
+      },
+      {
+        "label": "Castor Amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-amethyst-dark.json"
+      },
+      {
+        "label": "Pollux Copper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-copper-dark.json"
+      },
+      {
+        "label": "Castor Crimson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-crimson-dark.json"
+      },
+      {
+        "label": "Pollux Aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-aurora-dark.json"
       }
     ]
   },
