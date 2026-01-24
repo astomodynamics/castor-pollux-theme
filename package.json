@@ -147,6 +147,31 @@
         "label": "Pollux Aurora",
         "uiTheme": "vs-dark",
         "path": "./themes/pollux-aurora-dark.json"
+      },
+      {
+        "label": "Castor Zenn Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-zenn-dark.json"
+      },
+      {
+        "label": "Pollux Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-obsidian-dark.json"
+      },
+      {
+        "label": "Castor Slate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-slate-dark.json"
+      },
+      {
+        "label": "Pollux Abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-abyss-dark.json"
+      },
+      {
+        "label": "Castor Carbon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-carbon-dark.json"
       }
     ]
   },
