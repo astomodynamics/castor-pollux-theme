@@ -197,6 +197,21 @@
         "label": "Castor Storm",
         "uiTheme": "vs-dark",
         "path": "./themes/castor-storm-dark.json"
+      },
+      {
+        "label": "Castor Admiralty",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-admiralty-dark.json"
+      },
+      {
+        "label": "Pollux Sovereign",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-sovereign-dark.json"
+      },
+      {
+        "label": "Castor Gilded Navy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-gilded-navy-dark.json"
       }
     ]
   },
