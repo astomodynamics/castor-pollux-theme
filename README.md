@@ -1,122 +1,126 @@
 # Castor & Pollux Theme Collection
 
-Premium VS Code themes inspired by the twin stars of the Gemini constellation, featuring celestial aesthetics and cosmic color palettes.
+A collection of 37 premium themes for VS Code and Cursor, inspired by the twin stars of the Gemini constellation. Deep navy backgrounds, celestial color palettes, and carefully tuned contrast for long coding sessions.
 
-## Themes Included
+## Themes (37 total)
 
-### 🌟 Castor & Pollux Themes (Recommended!)
+### Navy & Gold (NEW)
 
-- **Castor Navy Dark** ⭐ NEW! - A stunning navy blue theme that embodies the essence of the celestial twins with rich, deep blue tones. Features a beautiful dark navy background (#0a1628) perfect for extended coding sessions with a premium, professional look.
+Hand-crafted navy/blue themes with golden yellow highlights, semantic highlighting, and bracket pair colorization.
 
-- **Pollux Cosmic Dark** - Experience cosmic aesthetics with deep space backgrounds and vibrant constellation colors (Blue #4796E3, Purple #9177C7, Red #CA6673). Perfect for those who love sleek, modern space-inspired themes.
+| Theme | Background | Accent | Vibe |
+|-------|-----------|--------|------|
+| **Castor Admiralty** | `#0a1225` Deep navy | `#e8b931` Warm gold | Naval officer, teal-blue functions |
+| **Pollux Sovereign** | `#060c1f` Near-black navy | `#ffb627` Electric amber | High contrast, dramatic |
+| **Castor Gilded Navy** | `#08101e` Rich navy | `#d4a528` Antique gold | Refined, Nord-inspired strings |
 
-- **Material Light** - A clean, vibrant theme using iconic Material Design colors with modern aesthetics. Feels professional and polished!
+### Celestial Blues
 
-### Constellation Themes
+| Theme | Background | Style |
+|-------|-----------|-------|
+| **Castor Navy Dark** | `#050d18` | Deep navy, constellation blue + cosmic purple |
+| **Pollux Cosmic Dark** | `#0d1117` | Deep space, vibrant constellation colors |
+| **Castor Midnight** | `#0a0e1a` | Midnight blue, rich contrast |
+| **Castor Deep Ocean** | Deep ocean | Celestial sea blues |
+| **Castor Arctic** | Arctic | Cool blues, crisp whites |
+| **Castor Azure** | Azure | Bright sky aesthetics |
+| **Castor Cerulean** | Cerulean | Warm cerulean tones |
+| **Pollux Sapphire** | Sapphire | Rich sapphire blues |
+| **Pollux Indigo** | Indigo | Deep indigo, purple undertones |
+| **Pollux Glacier** | Glacier | Icy blue, frozen palette |
 
-- **Castor Midnight** - Deep midnight blue with rich contrast
-- **Pollux Nebula** - Nebula-inspired with cosmic purples and blues
-- **Castor Eclipse** - Dark eclipse theme with dramatic colors
-- **Castor Deep Ocean** - Deep ocean blue inspired by celestial seas
-- **Pollux Solar** - Solar-inspired warmth with golden accents
-- **Castor Arctic** - Cool arctic blues and crisp whites
-- **Pollux Sapphire** - Rich sapphire tones with deep blues
-- **Castor Azure** - Bright azure sky aesthetics
-- **Pollux Indigo** - Deep indigo with purple undertones
+### Dark & Dramatic
 
-### Premium Themes
+| Theme | Style |
+|-------|-------|
+| **Castor Eclipse** | Dramatic eclipse colors |
+| **Castor Twilight** | Dusky twilight gradients |
+| **Castor Cobalt** | Bold cobalt blue |
+| **Pollux Nebula** | Cosmic purples and blues |
+| **Pollux Solar** | Solar warmth, golden accents |
+| **Pollux Steel** | Industrial steel tones |
+| **Pollux Aurora** | Northern lights palette |
 
-- **Nocturne Dark** - A stunning dark theme combining deep blue backgrounds with pastel accent colors. Perfect for nighttime coding with excellent contrast and readability.
+### Deep Navy (Zenn-inspired)
 
-- **Aurora Light** - A beautiful light theme with soft, soothing colors that are easy on the eyes during daytime coding.
+| Theme | Style |
+|-------|-------|
+| **Castor Zenn Dark** | Zenn-inspired deep navy |
+| **Pollux Obsidian** | Obsidian black-navy |
+| **Castor Slate** | Slate gray-navy |
+| **Pollux Abyss** | Abyssal dark blue |
+| **Castor Carbon** | Carbon-dark base |
 
-### Classic Themes
+### Navy & Blue Series
 
-- **Castor CLI Dark** - A dark theme with vibrant accent colors inspired by terminal aesthetics
-- **Pollux CLI Light** - A clean light theme with professional accent colors
+| Theme | Style |
+|-------|-------|
+| **Castor Prussian** | Prussian blue base |
+| **Pollux Mariana** | Mariana trench depths |
+| **Castor Ink** | Ink-dark navy |
+| **Pollux Baltic** | Baltic sea tones |
+| **Castor Storm** | Stormy blue-gray |
+
+### Warm & Vibrant
+
+| Theme | Style |
+|-------|-------|
+| **Castor Ember** | Warm ember and fire tones |
+| **Castor Amethyst** | Purple amethyst crystal |
+| **Castor Crimson** | Deep crimson reds |
+| **Pollux Forest** | Forest green depths |
+| **Pollux Copper** | Warm copper metallic |
+
+### Light Themes
+
+| Theme | Style |
+|-------|-------|
+| **Material Light** | Clean Material Design colors |
+| **Aurora Light** | Soft, soothing daytime palette |
+| **Pollux CLI Light** | Professional terminal-inspired light |
+
+### Classic
+
+| Theme | Style |
+|-------|-------|
+| **Nocturne Dark** | Deep blue + pastel accents, nighttime coding |
+| **Castor CLI Dark** | Vibrant terminal-inspired dark |
 
 ## Installation
 
-### For Cursor IDE:
+### Cursor
+
 ```bash
 cp -r castor-pollux-theme ~/.cursor/extensions/
 ```
 
-### For VS Code:
+### VS Code
+
 ```bash
 cp -r castor-pollux-theme ~/.vscode/extensions/
 ```
 
-Then:
-1. Restart or reload the window (Ctrl+Shift+P → "Developer: Reload Window")
-2. Select theme: Ctrl+Shift+P → "Preferences: Color Theme"
-3. Choose your preferred Castor or Pollux theme
+Then reload and select your theme:
 
-## Color Palettes
-
-### Castor Navy Dark
-- Background: `#0a1628` (Rich navy blue)
-- Foreground: `#e8f0fe` (Soft white)
-- Blue: `#4796E3` (Constellation blue)
-- Purple: `#9177C7` (Cosmic purple)
-- Red: `#CA6673` (Stellar red)
-- Cyan: `#5bc5dc` (Bright cyan)
-- Green: `#50d4a0` (Mint green)
-- Yellow: `#f0c674` (Warm yellow)
-
-### Pollux Cosmic Dark
-- Background: `#0d1117` (Deep space)
-- Foreground: `#e6edf3` (Soft white)
-- Blue: `#4796E3` (Constellation blue)
-- Purple: `#9177C7` (Cosmic purple)
-- Red: `#CA6673` (Stellar red)
-- Cyan: `#39c5cf` (Bright cyan)
-- Green: `#3fb950` (Vibrant green)
-- Yellow: `#d29922` (Warm yellow)
-
-### Material Light
-- Background: `#ffffff` (Pure white)
-- Foreground: `#202124` (Dark gray)
-- Blue: `#4285F4` (Material blue)
-- Red: `#EA4335` (Material red)
-- Yellow: `#FBBC04` (Material yellow)
-- Green: `#34A853` (Material green)
-- Purple: `#A142F4` (Material purple)
-- Cyan: `#24C1E0` (Material cyan)
-
-### Nocturne Dark
-- Background: `#011627` (Deep ocean blue)
-- Foreground: `#d6deeb` (Soft white)
-- Blue: `#89b4fa` (Night blue)
-- Purple: `#cba6f7` (Twilight mauve)
-- Cyan: `#94e2d5` (Ocean teal)
-- Green: `#a6e3a1` (Aurora green)
-- Yellow: `#f9e2af` (Starlight yellow)
-- Red: `#f38ba8` (Sunset red)
-
-### Aurora Light
-- Background: `#eff1f5` (Soft white)
-- Foreground: `#4c4f69` (Dark gray)
-- Blue: `#1e66f5` (Sky blue)
-- Purple: `#8839ef` (Dawn mauve)
-- Cyan: `#179299` (Morning teal)
-- Green: `#40a02b` (Forest green)
-- Yellow: `#df8e1d` (Sunrise yellow)
-- Red: `#d20f39` (Daybreak red)
+1. `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS)
+2. "Developer: Reload Window"
+3. `Ctrl+Shift+P` -> "Preferences: Color Theme"
+4. Pick any Castor or Pollux theme
 
 ## Features
 
-- Carefully selected color palettes for optimal readability
-- Consistent syntax highlighting across languages
-- Beautiful UI colors for sidebars, tabs, and panels
-- Excellent contrast ratios
-- Support for bracket matching, git decorations, and more
-- Italic keywords for better code scanning
-- Celestial-inspired aesthetics with professional polish
+- 37 themes: 34 dark, 3 light
+- Semantic highlighting and semantic token colors (Navy & Gold series)
+- Bracket pair colorization with distinct colors
+- Minimap, command center, and modern UI element styling
+- Comprehensive token scopes: decorators, template strings, CSS pseudo-classes, JSON properties, escape characters
+- Italic keywords and control flow for visual scanning
+- Consistent git decoration, diff, and error/warning colors
+- Designed for TypeScript, Python, Rust, Go, CSS, HTML, Markdown, and more
 
 ## About
 
-The Castor & Pollux theme collection is named after the twin stars of the Gemini constellation. Castor and Pollux represent the Dioscuri of Greek mythology, symbolizing duality and harmony - perfect for balancing dark and light coding themes.
+Named after the twin stars of the Gemini constellation. Castor and Pollux represent the Dioscuri of Greek mythology - duality and harmony, dark and light.
 
 ## License
 
