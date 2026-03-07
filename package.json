@@ -212,6 +212,11 @@
         "label": "Castor Gilded Navy",
         "uiTheme": "vs-dark",
         "path": "./themes/castor-gilded-navy-dark.json"
+      },
+      {
+        "label": "Castor Georgia Tech",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-georgia-tech-dark.json"
       }
     ]
   },

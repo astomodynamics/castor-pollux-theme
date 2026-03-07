@@ -1,8 +1,8 @@
 # Castor & Pollux Theme Collection
 
-A collection of 37 premium themes for VS Code and Cursor, inspired by the twin stars of the Gemini constellation. Deep navy backgrounds, celestial color palettes, and carefully tuned contrast for long coding sessions.
+A collection of 38 premium themes for VS Code and Cursor, inspired by the twin stars of the Gemini constellation. Deep navy backgrounds, celestial color palettes, and carefully tuned contrast for long coding sessions.
 
-## Themes (37 total)
+## Themes (38 total)
 
 ### Navy & Gold (NEW)
 
@@ -13,6 +13,12 @@ Hand-crafted navy/blue themes with golden yellow highlights, semantic highlighti
 | **Castor Admiralty** | `#0a1225` Deep navy | `#e8b931` Warm gold | Naval officer, teal-blue functions |
 | **Pollux Sovereign** | `#060c1f` Near-black navy | `#ffb627` Electric amber | High contrast, dramatic |
 | **Castor Gilded Navy** | `#08101e` Rich navy | `#d4a528` Antique gold | Refined, Nord-inspired strings |
+
+### School Spirit
+
+| Theme | Background | Accent | Vibe |
+|-------|-----------|--------|------|
+| **Castor Georgia Tech** | `#001528` GT Navy | `#B3A369` Tech Gold | Official GT colors, teal functions |
 
 ### Celestial Blues
 
@@ -109,7 +115,7 @@ Then reload and select your theme:
 
 ## Features
 
-- 37 themes: 34 dark, 3 light
+- 38 themes: 35 dark, 3 light
 - Semantic highlighting and semantic token colors (Navy & Gold series)
 - Bracket pair colorization with distinct colors
 - Minimap, command center, and modern UI element styling
