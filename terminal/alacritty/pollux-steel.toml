@@ -1,0 +1,33 @@
+# Pollux Steel - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#10131a"
+foreground = "#d8dce8"
+
+[colors.cursor]
+text = "#10131a"
+cursor = "#8090b0"
+
+[colors.selection]
+text = CellForeground
+background = "#5070a044"
+
+[colors.normal]
+black = "#1c2230"
+red = "#c06060"
+green = "#60a080"
+yellow = "#b0a060"
+blue = "#5070a0"
+magenta = "#8878a0"
+cyan = "#5890a0"
+white = "#b8c0d4"
+
+[colors.bright]
+black = "#4a5468"
+red = "#d08080"
+green = "#80b090"
+yellow = "#c0b070"
+blue = "#7090c0"
+magenta = "#a090b8"
+cyan = "#78a8b8"
+white = "#f0f2f8"

@@ -1,0 +1,18 @@
+# Castor Slate - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Slate"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#1e2028"
+foreground = "#c9d1d9"
+cursor_bg = "#58a6ff"
+cursor_fg = "#1e2028"
+cursor_border = "#58a6ff"
+selection_bg = "#1f6feb44"
+selection_fg = "#c9d1d9"
+
+[colors.ansi]
+ansi = ["#21262d", "#ff7b72", "#7ee787", "#e3b341", "#58a6ff", "#bc8cff", "#79c0ff", "#b1bac4"]
+brights = ["#484f58", "#ffa198", "#a5d6a7", "#f3e5ab", "#79c0ff", "#d2a8ff", "#a5d6ff", "#f0f6fc"]

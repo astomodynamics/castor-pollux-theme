@@ -1,0 +1,14 @@
+# Pollux Abyss - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Abyss'
+background-color='#080b12'
+foreground-color='#c5d3e8'
+cursor-background-color='#4fc3f7'
+cursor-foreground-color='#080b12'
+highlight-background-color='#29b6f644'
+highlight-foreground-color='#c5d3e8'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#111926', '#ef5350', '#69f0ae', '#ffd740', '#29b6f6', '#b388ff', '#4fc3f7', '#9eb3c7', '#3d4d5e', '#ff8a80', '#b9f6ca', '#ffe57f', '#81d4fa', '#d1c4e9', '#80deea', '#eceff1']

@@ -1,0 +1,14 @@
+# Castor Amethyst - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Amethyst'
+background-color='#16121a'
+foreground-color='#ebe6f0'
+cursor-background-color='#d4a5f0'
+cursor-foreground-color='#16121a'
+highlight-background-color='#b87dd944'
+highlight-foreground-color='#ebe6f0'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#2a1e38', '#e06080', '#70d890', '#e0c070', '#70a0e0', '#b87dd9', '#60c8d0', '#ddd5e8', '#5a506b', '#f080a0', '#90e8b0', '#f0d890', '#90b8f0', '#d4a5f0', '#80d8e0', '#ffffff']

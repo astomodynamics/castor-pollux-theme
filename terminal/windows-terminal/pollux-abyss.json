@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Abyss",
+  "background": "#080b12",
+  "foreground": "#c5d3e8",
+  "cursorColor": "#4fc3f7",
+  "selectionBackground": "#29b6f644",
+  "black": "#111926",
+  "red": "#ef5350",
+  "green": "#69f0ae",
+  "yellow": "#ffd740",
+  "blue": "#29b6f6",
+  "purple": "#b388ff",
+  "cyan": "#4fc3f7",
+  "white": "#9eb3c7",
+  "brightBlack": "#3d4d5e",
+  "brightRed": "#ff8a80",
+  "brightGreen": "#b9f6ca",
+  "brightYellow": "#ffe57f",
+  "brightBlue": "#81d4fa",
+  "brightPurple": "#d1c4e9",
+  "brightCyan": "#80deea",
+  "brightWhite": "#eceff1"
+}

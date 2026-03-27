@@ -1,0 +1,23 @@
+{
+  "name": "Castor Azure",
+  "background": "#0d1621",
+  "foreground": "#e0f0ff",
+  "cursorColor": "#66b3ff",
+  "selectionBackground": "#3399ff44",
+  "black": "#1a2b42",
+  "red": "#ff668c",
+  "green": "#52d9c4",
+  "yellow": "#cce0ff",
+  "blue": "#3399ff",
+  "purple": "#99ccff",
+  "cyan": "#66b3ff",
+  "white": "#cfe5ff",
+  "brightBlack": "#385573",
+  "brightRed": "#ff85a3",
+  "brightGreen": "#75ead9",
+  "brightYellow": "#e6f0ff",
+  "brightBlue": "#52adff",
+  "brightPurple": "#b3d9ff",
+  "brightCyan": "#85c7ff",
+  "brightWhite": "#ffffff"
+}

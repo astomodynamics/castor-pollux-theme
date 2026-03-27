@@ -1,0 +1,23 @@
+{
+  "name": "Castor Crimson",
+  "background": "#1a1014",
+  "foreground": "#f0e6ea",
+  "cursorColor": "#e86080",
+  "selectionBackground": "#d8406044",
+  "black": "#2d1a22",
+  "red": "#d84060",
+  "green": "#60c080",
+  "yellow": "#d8b060",
+  "blue": "#6090d0",
+  "purple": "#c070b0",
+  "cyan": "#50b8c0",
+  "white": "#e8d8dd",
+  "brightBlack": "#6b5058",
+  "brightRed": "#e86080",
+  "brightGreen": "#80d8a0",
+  "brightYellow": "#e8c880",
+  "brightBlue": "#80a8e0",
+  "brightPurple": "#d890c8",
+  "brightCyan": "#70d0d8",
+  "brightWhite": "#ffffff"
+}

@@ -1,0 +1,14 @@
+# Pollux Cosmic Dark - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Cosmic Dark'
+background-color='#0d1420'
+foreground-color='#e6edf3'
+cursor-background-color='#4796E3'
+cursor-foreground-color='#0d1420'
+highlight-background-color='#9177C744'
+highlight-foreground-color='#e6edf3'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#484f58', '#ff7b72', '#3fb950', '#d29922', '#4796E3', '#9177C7', '#39c5cf', '#b1bac4', '#6e7681', '#CA6673', '#56d364', '#e3b341', '#79c0ff', '#d2a8ff', '#56d4dd', '#f0f6fc']

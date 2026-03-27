@@ -1,0 +1,18 @@
+# Pollux Obsidian - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Obsidian"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0c0c0c"
+foreground = "#d4d4d4"
+cursor_bg = "#00d4ff"
+cursor_fg = "#0c0c0c"
+cursor_border = "#00d4ff"
+selection_bg = "#00a8cc44"
+selection_fg = "#d4d4d4"
+
+[colors.ansi]
+ansi = ["#1a1a1a", "#ff3366", "#00ff88", "#ffcc00", "#00a8cc", "#cc66ff", "#00d4ff", "#b0b0b0"]
+brights = ["#505050", "#ff6699", "#66ffaa", "#ffdd55", "#55ccee", "#dd99ff", "#55e5ff", "#ffffff"]

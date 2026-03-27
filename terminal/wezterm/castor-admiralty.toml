@@ -1,0 +1,18 @@
+# Castor Admiralty - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Admiralty"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0a1225"
+foreground = "#c8d4e6"
+cursor_bg = "#e8b931"
+cursor_fg = "#0a1225"
+cursor_border = "#e8b931"
+selection_bg = "#1e3a6080"
+selection_fg = "#c8d4e6"
+
+[colors.ansi]
+ansi = ["#152240", "#e06c75", "#6bc9a0", "#e8b931", "#5b9bd5", "#c19af5", "#56b6c2", "#c8d4e6"]
+brights = ["#3d5578", "#f08c95", "#8edbb8", "#f5d76e", "#7db5e8", "#d4b4ff", "#79cdd6", "#ffffff"]

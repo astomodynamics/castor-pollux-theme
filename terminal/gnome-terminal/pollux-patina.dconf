@@ -1,0 +1,14 @@
+# Pollux Patina - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Patina'
+background-color='#0c1614'
+foreground-color='#b8ccc6'
+cursor-background-color='#50b8a0'
+cursor-foreground-color='#0c1614'
+highlight-background-color='#50b8a040'
+highlight-foreground-color='#b8ccc6'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1e322c', '#c86858', '#50b8a0', '#c88060', '#5898c0', '#a080b8', '#48b0b8', '#b8ccc6', '#3e5e54', '#e08878', '#70d0b8', '#e0a080', '#78b0d0', '#bca0d0', '#68c8d0', '#e8f0ec']

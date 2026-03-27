@@ -1,0 +1,14 @@
+# Castor Deep Ocean - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Deep Ocean'
+background-color='#0a1520'
+foreground-color='#d9f0ff'
+cursor-background-color='#3dd9ff'
+cursor-foreground-color='#0a1520'
+highlight-background-color='#20b8d844'
+highlight-foreground-color='#d9f0ff'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#16293a', '#ff577f', '#3fffa8', '#ffdb70', '#3dd9ff', '#8cd4ff', '#5dffc7', '#c5e8f7', '#3a5566', '#ff799c', '#6fffbf', '#ffe68f', '#63e5ff', '#a6e0ff', '#82ffd6', '#ffffff']

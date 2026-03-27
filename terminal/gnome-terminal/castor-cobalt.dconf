@@ -1,0 +1,14 @@
+# Castor Cobalt - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Cobalt'
+background-color='#0a0e1a'
+foreground-color='#e4ecf7'
+cursor-background-color='#5c8fcc'
+cursor-foreground-color='#0a0e1a'
+highlight-background-color='#2060c044'
+highlight-foreground-color='#e4ecf7'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1a2540', '#e05070', '#40c090', '#d0a050', '#2060c0', '#8070c0', '#40a0c0', '#c5d4e8', '#3a4a6b', '#f07090', '#60d0a0', '#e0b060', '#4080e0', '#a090d0', '#60b0d0', '#ffffff']

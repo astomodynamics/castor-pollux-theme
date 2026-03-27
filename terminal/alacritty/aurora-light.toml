@@ -1,0 +1,33 @@
+# Aurora Light - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#eff1f5"
+foreground = "#4c4f69"
+
+[colors.cursor]
+text = "#eff1f5"
+cursor = "#dc8a78"
+
+[colors.selection]
+text = CellForeground
+background = "#ccd0da80"
+
+[colors.normal]
+black = "#5c5f77"
+red = "#d20f39"
+green = "#40a02b"
+yellow = "#df8e1d"
+blue = "#1e66f5"
+magenta = "#8839ef"
+cyan = "#179299"
+white = "#acb0be"
+
+[colors.bright]
+black = "#6c6f85"
+red = "#d20f39"
+green = "#40a02b"
+yellow = "#df8e1d"
+blue = "#1e66f5"
+magenta = "#ea76cb"
+cyan = "#04a5e5"
+white = "#bcc0cc"

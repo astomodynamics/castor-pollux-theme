@@ -1,0 +1,23 @@
+{
+  "name": "Castor Deep Ocean",
+  "background": "#0a1520",
+  "foreground": "#d9f0ff",
+  "cursorColor": "#3dd9ff",
+  "selectionBackground": "#20b8d844",
+  "black": "#16293a",
+  "red": "#ff577f",
+  "green": "#3fffa8",
+  "yellow": "#ffdb70",
+  "blue": "#3dd9ff",
+  "purple": "#8cd4ff",
+  "cyan": "#5dffc7",
+  "white": "#c5e8f7",
+  "brightBlack": "#3a5566",
+  "brightRed": "#ff799c",
+  "brightGreen": "#6fffbf",
+  "brightYellow": "#ffe68f",
+  "brightBlue": "#63e5ff",
+  "brightPurple": "#a6e0ff",
+  "brightCyan": "#82ffd6",
+  "brightWhite": "#ffffff"
+}

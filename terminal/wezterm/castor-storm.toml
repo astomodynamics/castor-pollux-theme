@@ -1,0 +1,18 @@
+# Castor Storm - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Storm"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0d1520"
+foreground = "#b8c8d8"
+cursor_bg = "#f0d050"
+cursor_fg = "#0d1520"
+cursor_border = "#f0d050"
+selection_bg = "#28405080"
+selection_fg = "#b8c8d8"
+
+[colors.ansi]
+ansi = ["#1a2430", "#c87878", "#78b898", "#f0d050", "#6090b8", "#9888b8", "#68a8b8", "#b8c8d8"]
+brights = ["#506878", "#e09898", "#98d8b8", "#f8e080", "#80b0d8", "#b8a8d0", "#88c8d8", "#ffffff"]

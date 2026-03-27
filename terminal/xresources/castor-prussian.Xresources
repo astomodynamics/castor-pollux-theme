@@ -1,0 +1,22 @@
+! Castor Prussian - Castor & Pollux Theme Collection
+
+*.background: #0a1628
+*.foreground: #c8dce8
+*.cursorColor: #4eb8b8
+
+*.color0: #1a3040
+*.color1: #c47a7a
+*.color2: #6cc9a8
+*.color3: #d4a574
+*.color4: #4eb8b8
+*.color5: #b89cd0
+*.color6: #58c8d8
+*.color7: #c8dce8
+*.color8: #406070
+*.color9: #e09090
+*.color10: #90e0c0
+*.color11: #f0c090
+*.color12: #70d8d8
+*.color13: #d0b8e0
+*.color14: #80e0f0
+*.color15: #ffffff

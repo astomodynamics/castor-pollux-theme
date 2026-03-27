@@ -1,0 +1,22 @@
+! Pollux Solar - Castor & Pollux Theme Collection
+
+*.background: #0f1419
+*.foreground: #e6e1cf
+*.cursorColor: #ffa726
+
+*.color0: #1a2437
+*.color1: #ff6b6b
+*.color2: #5dd8a8
+*.color3: #ffcc00
+*.color4: #4d9fff
+*.color5: #c792ea
+*.color6: #36d9d9
+*.color7: #d9d5c7
+*.color8: #4a5670
+*.color9: #ff8787
+*.color10: #80e8bf
+*.color11: #ffd633
+*.color12: #70b3ff
+*.color13: #d9a9f5
+*.color14: #5ce6e6
+*.color15: #ffffff

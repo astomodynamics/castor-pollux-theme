@@ -1,0 +1,14 @@
+# Pollux Mariana - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Mariana'
+background-color='#040810'
+foreground-color='#b8d0e8'
+cursor-background-color='#00b0ff'
+cursor-foreground-color='#040810'
+highlight-background-color='#103058'
+highlight-foreground-color='#b8d0e8'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#0c1828', '#ff5089', '#00e8c8', '#ffe040', '#00b0ff', '#b040ff', '#00d8e8', '#b8d0e8', '#385888', '#ff78a8', '#40ffd8', '#fff080', '#40c8ff', '#d080ff', '#40f0ff', '#ffffff']

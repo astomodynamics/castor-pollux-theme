@@ -1,0 +1,23 @@
+{
+  "name": "Castor Midnight",
+  "background": "#0a0e1a",
+  "foreground": "#e4e8f5",
+  "cursorColor": "#5d8eff",
+  "selectionBackground": "#a285ff44",
+  "black": "#1a2037",
+  "red": "#ff6b9d",
+  "green": "#5fffc4",
+  "yellow": "#ffd95a",
+  "blue": "#5d8eff",
+  "purple": "#a285ff",
+  "cyan": "#5dd7ff",
+  "white": "#d3d9eb",
+  "brightBlack": "#4d5b7a",
+  "brightRed": "#ff8cb3",
+  "brightGreen": "#7effd6",
+  "brightYellow": "#ffe47a",
+  "brightBlue": "#7da6ff",
+  "brightPurple": "#bda5ff",
+  "brightCyan": "#7de3ff",
+  "brightWhite": "#ffffff"
+}

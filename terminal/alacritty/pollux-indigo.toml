@@ -1,0 +1,33 @@
+# Pollux Indigo - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0f1224"
+foreground = "#e5e8f5"
+
+[colors.cursor]
+text = "#0f1224"
+cursor = "#8c9eff"
+
+[colors.selection]
+text = CellForeground
+background = "#667aff44"
+
+[colors.normal]
+black = "#1a1f3d"
+red = "#ff6b93"
+green = "#69f0ae"
+yellow = "#c7b3ff"
+blue = "#667aff"
+magenta = "#b388ff"
+cyan = "#8c9eff"
+white = "#d2d8f0"
+
+[colors.bright]
+black = "#3d4563"
+red = "#ff8bab"
+green = "#8affca"
+yellow = "#d9caff"
+blue = "#8c9eff"
+magenta = "#caa5ff"
+cyan = "#a5b3ff"
+white = "#ffffff"

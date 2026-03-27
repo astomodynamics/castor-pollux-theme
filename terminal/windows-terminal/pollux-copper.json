@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Copper",
+  "background": "#1a1614",
+  "foreground": "#f0e8e4",
+  "cursorColor": "#e8a070",
+  "selectionBackground": "#d0805044",
+  "black": "#2d2420",
+  "red": "#d85050",
+  "green": "#70b870",
+  "yellow": "#d8b050",
+  "blue": "#6090c0",
+  "purple": "#b080b0",
+  "cyan": "#50b0b0",
+  "white": "#e8dcd5",
+  "brightBlack": "#6b5a52",
+  "brightRed": "#e87070",
+  "brightGreen": "#90d890",
+  "brightYellow": "#e8c870",
+  "brightBlue": "#80a8d8",
+  "brightPurple": "#c8a0c8",
+  "brightCyan": "#70c8c8",
+  "brightWhite": "#ffffff"
+}

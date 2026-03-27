@@ -1,0 +1,33 @@
+# Pollux Abyss - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#080b12"
+foreground = "#c5d3e8"
+
+[colors.cursor]
+text = "#080b12"
+cursor = "#4fc3f7"
+
+[colors.selection]
+text = CellForeground
+background = "#29b6f644"
+
+[colors.normal]
+black = "#111926"
+red = "#ef5350"
+green = "#69f0ae"
+yellow = "#ffd740"
+blue = "#29b6f6"
+magenta = "#b388ff"
+cyan = "#4fc3f7"
+white = "#9eb3c7"
+
+[colors.bright]
+black = "#3d4d5e"
+red = "#ff8a80"
+green = "#b9f6ca"
+yellow = "#ffe57f"
+blue = "#81d4fa"
+magenta = "#d1c4e9"
+cyan = "#80deea"
+white = "#eceff1"

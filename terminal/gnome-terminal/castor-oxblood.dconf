@@ -1,0 +1,14 @@
+# Castor Oxblood - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Oxblood'
+background-color='#160d10'
+foreground-color='#c8bcc0'
+cursor-background-color='#d06878'
+cursor-foreground-color='#160d10'
+highlight-background-color='#d0687840'
+highlight-foreground-color='#c8bcc0'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#2e2024', '#d06878', '#80b890', '#d8c8a8', '#7090b8', '#b880b0', '#70b0b0', '#c8bcc0', '#5a4048', '#e88898', '#a0d0a8', '#e8dcc0', '#90aad0', '#d0a0c8', '#90c8c8', '#f0e8ec']

@@ -1,0 +1,23 @@
+{
+  "name": "Castor Admiralty",
+  "background": "#0a1225",
+  "foreground": "#c8d4e6",
+  "cursorColor": "#e8b931",
+  "selectionBackground": "#1e3a6080",
+  "black": "#152240",
+  "red": "#e06c75",
+  "green": "#6bc9a0",
+  "yellow": "#e8b931",
+  "blue": "#5b9bd5",
+  "purple": "#c19af5",
+  "cyan": "#56b6c2",
+  "white": "#c8d4e6",
+  "brightBlack": "#3d5578",
+  "brightRed": "#f08c95",
+  "brightGreen": "#8edbb8",
+  "brightYellow": "#f5d76e",
+  "brightBlue": "#7db5e8",
+  "brightPurple": "#d4b4ff",
+  "brightCyan": "#79cdd6",
+  "brightWhite": "#ffffff"
+}

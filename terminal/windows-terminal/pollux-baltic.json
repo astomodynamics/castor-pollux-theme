@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Baltic",
+  "background": "#08121c",
+  "foreground": "#c8d8e0",
+  "cursorColor": "#88c8e8",
+  "selectionBackground": "#204858",
+  "black": "#142028",
+  "red": "#d08888",
+  "green": "#80d0a8",
+  "yellow": "#d0c888",
+  "blue": "#88c8e8",
+  "purple": "#b0a8c8",
+  "cyan": "#80d0d8",
+  "white": "#c8d8e0",
+  "brightBlack": "#486878",
+  "brightRed": "#e8a8a8",
+  "brightGreen": "#a0e8c8",
+  "brightYellow": "#e8e0a0",
+  "brightBlue": "#a8e0f8",
+  "brightPurple": "#d0c8e0",
+  "brightCyan": "#a0e8f0",
+  "brightWhite": "#ffffff"
+}

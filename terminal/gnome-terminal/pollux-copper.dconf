@@ -1,0 +1,14 @@
+# Pollux Copper - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Copper'
+background-color='#1a1614'
+foreground-color='#f0e8e4'
+cursor-background-color='#e8a070'
+cursor-foreground-color='#1a1614'
+highlight-background-color='#d0805044'
+highlight-foreground-color='#f0e8e4'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#2d2420', '#d85050', '#70b870', '#d8b050', '#6090c0', '#b080b0', '#50b0b0', '#e8dcd5', '#6b5a52', '#e87070', '#90d890', '#e8c870', '#80a8d8', '#c8a0c8', '#70c8c8', '#ffffff']

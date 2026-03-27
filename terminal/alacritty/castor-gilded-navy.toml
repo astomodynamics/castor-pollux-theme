@@ -1,0 +1,33 @@
+# Castor Gilded Navy - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#08101e"
+foreground = "#c0cee2"
+
+[colors.cursor]
+text = "#08101e"
+cursor = "#d4a528"
+
+[colors.selection]
+text = CellForeground
+background = "#1a326070"
+
+[colors.normal]
+black = "#13203a"
+red = "#d96070"
+green = "#5cc48f"
+yellow = "#d4a528"
+blue = "#6b9fcf"
+magenta = "#a580d0"
+cyan = "#50b8c8"
+white = "#c0cee2"
+
+[colors.bright]
+black = "#3a5070"
+red = "#ea8090"
+green = "#80d8aa"
+yellow = "#ecc850"
+blue = "#8ab8dd"
+magenta = "#bfa0e0"
+cyan = "#70ccd8"
+white = "#ffffff"

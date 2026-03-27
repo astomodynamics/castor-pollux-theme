@@ -1,0 +1,14 @@
+# Castor Verdant - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Verdant'
+background-color='#0b1411'
+foreground-color='#d4e5dc'
+cursor-background-color='#3fb87c'
+cursor-foreground-color='#0b1411'
+highlight-background-color='#3fb87c44'
+highlight-foreground-color='#d4e5dc'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1a2e24', '#e85d5d', '#3fb87c', '#d4a642', '#5a9bcf', '#c07ed4', '#49c5b6', '#c2d8cd', '#4a6b5a', '#f07878', '#5fd69a', '#e0ba5e', '#74b0de', '#d49ae6', '#6ad4c7', '#f0f5f2']

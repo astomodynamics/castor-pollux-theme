@@ -1,0 +1,33 @@
+# Pollux Solar - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0f1419"
+foreground = "#e6e1cf"
+
+[colors.cursor]
+text = "#0f1419"
+cursor = "#ffa726"
+
+[colors.selection]
+text = CellForeground
+background = "#ffcc0044"
+
+[colors.normal]
+black = "#1a2437"
+red = "#ff6b6b"
+green = "#5dd8a8"
+yellow = "#ffcc00"
+blue = "#4d9fff"
+magenta = "#c792ea"
+cyan = "#36d9d9"
+white = "#d9d5c7"
+
+[colors.bright]
+black = "#4a5670"
+red = "#ff8787"
+green = "#80e8bf"
+yellow = "#ffd633"
+blue = "#70b3ff"
+magenta = "#d9a9f5"
+cyan = "#5ce6e6"
+white = "#ffffff"

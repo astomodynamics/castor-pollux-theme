@@ -1,0 +1,18 @@
+# Castor Carbon - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Carbon"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#161616"
+foreground = "#f4f4f4"
+cursor_bg = "#0f62fe"
+cursor_fg = "#161616"
+cursor_border = "#0f62fe"
+selection_bg = "#0f62fe44"
+selection_fg = "#f4f4f4"
+
+[colors.ansi]
+ansi = ["#262626", "#fa4d56", "#42be65", "#f1c21b", "#0f62fe", "#a56eff", "#33b1ff", "#c6c6c6"]
+brights = ["#525252", "#ff8389", "#6fdc8c", "#fddc69", "#78a9ff", "#be95ff", "#82cfff", "#ffffff"]

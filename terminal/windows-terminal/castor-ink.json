@@ -1,0 +1,23 @@
+{
+  "name": "Castor Ink",
+  "background": "#0c1420",
+  "foreground": "#d0d0e0",
+  "cursorColor": "#a080d0",
+  "selectionBackground": "#38385880",
+  "black": "#1c2838",
+  "red": "#e07090",
+  "green": "#70c8a0",
+  "yellow": "#e0a050",
+  "blue": "#7090d0",
+  "purple": "#a080d0",
+  "cyan": "#70b0c8",
+  "white": "#d0d0e0",
+  "brightBlack": "#506080",
+  "brightRed": "#f098b0",
+  "brightGreen": "#98e0c0",
+  "brightYellow": "#f0c080",
+  "brightBlue": "#98b0e0",
+  "brightPurple": "#c0a8e8",
+  "brightCyan": "#98d0e0",
+  "brightWhite": "#ffffff"
+}

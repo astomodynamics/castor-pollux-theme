@@ -1,0 +1,18 @@
+# Pollux Steel - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Steel"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#10131a"
+foreground = "#d8dce8"
+cursor_bg = "#8090b0"
+cursor_fg = "#10131a"
+cursor_border = "#8090b0"
+selection_bg = "#5070a044"
+selection_fg = "#d8dce8"
+
+[colors.ansi]
+ansi = ["#1c2230", "#c06060", "#60a080", "#b0a060", "#5070a0", "#8878a0", "#5890a0", "#b8c0d4"]
+brights = ["#4a5468", "#d08080", "#80b090", "#c0b070", "#7090c0", "#a090b8", "#78a8b8", "#f0f2f8"]

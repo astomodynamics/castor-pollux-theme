@@ -1,0 +1,18 @@
+# Castor Georgia Tech - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Georgia Tech"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#001528"
+foreground = "#c0c8d8"
+cursor_bg = "#B3A369"
+cursor_fg = "#001528"
+cursor_border = "#B3A369"
+selection_bg = "#00305770"
+selection_fg = "#c0c8d8"
+
+[colors.ansi]
+ansi = ["#0d2640", "#e06070", "#6cc490", "#B3A369", "#4a88c0", "#a080c8", "#50b0c0", "#c0c8d8"]
+brights = ["#3a5878", "#f08090", "#90d8aa", "#c8bd86", "#70a8d8", "#baa0dd", "#70c8d5", "#ffffff"]

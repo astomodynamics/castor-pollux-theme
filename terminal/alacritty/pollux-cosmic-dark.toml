@@ -1,0 +1,33 @@
+# Pollux Cosmic Dark - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0d1420"
+foreground = "#e6edf3"
+
+[colors.cursor]
+text = "#0d1420"
+cursor = "#4796E3"
+
+[colors.selection]
+text = CellForeground
+background = "#9177C744"
+
+[colors.normal]
+black = "#484f58"
+red = "#ff7b72"
+green = "#3fb950"
+yellow = "#d29922"
+blue = "#4796E3"
+magenta = "#9177C7"
+cyan = "#39c5cf"
+white = "#b1bac4"
+
+[colors.bright]
+black = "#6e7681"
+red = "#CA6673"
+green = "#56d364"
+yellow = "#e3b341"
+blue = "#79c0ff"
+magenta = "#d2a8ff"
+cyan = "#56d4dd"
+white = "#f0f6fc"

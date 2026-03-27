@@ -1,0 +1,23 @@
+{
+  "name": "Castor Gilded Navy",
+  "background": "#08101e",
+  "foreground": "#c0cee2",
+  "cursorColor": "#d4a528",
+  "selectionBackground": "#1a326070",
+  "black": "#13203a",
+  "red": "#d96070",
+  "green": "#5cc48f",
+  "yellow": "#d4a528",
+  "blue": "#6b9fcf",
+  "purple": "#a580d0",
+  "cyan": "#50b8c8",
+  "white": "#c0cee2",
+  "brightBlack": "#3a5070",
+  "brightRed": "#ea8090",
+  "brightGreen": "#80d8aa",
+  "brightYellow": "#ecc850",
+  "brightBlue": "#8ab8dd",
+  "brightPurple": "#bfa0e0",
+  "brightCyan": "#70ccd8",
+  "brightWhite": "#ffffff"
+}

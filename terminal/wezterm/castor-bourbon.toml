@@ -1,0 +1,18 @@
+# Castor Bourbon - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Bourbon"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#151008"
+foreground = "#c8bcaa"
+cursor_bg = "#d4a030"
+cursor_fg = "#151008"
+cursor_border = "#d4a030"
+selection_bg = "#d4a03040"
+selection_fg = "#c8bcaa"
+
+[colors.ansi]
+ansi = ["#2c2418", "#c85840", "#88b470", "#d4a030", "#6a90b8", "#b07898", "#60a8a0", "#c8bcaa"]
+brights = ["#5c4e34", "#e07858", "#a8cc8c", "#e8b848", "#88a8d0", "#c898b4", "#80c0b8", "#ece0cc"]

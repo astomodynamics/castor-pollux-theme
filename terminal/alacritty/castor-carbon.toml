@@ -1,0 +1,33 @@
+# Castor Carbon - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#161616"
+foreground = "#f4f4f4"
+
+[colors.cursor]
+text = "#161616"
+cursor = "#0f62fe"
+
+[colors.selection]
+text = CellForeground
+background = "#0f62fe44"
+
+[colors.normal]
+black = "#262626"
+red = "#fa4d56"
+green = "#42be65"
+yellow = "#f1c21b"
+blue = "#0f62fe"
+magenta = "#a56eff"
+cyan = "#33b1ff"
+white = "#c6c6c6"
+
+[colors.bright]
+black = "#525252"
+red = "#ff8389"
+green = "#6fdc8c"
+yellow = "#fddc69"
+blue = "#78a9ff"
+magenta = "#be95ff"
+cyan = "#82cfff"
+white = "#ffffff"

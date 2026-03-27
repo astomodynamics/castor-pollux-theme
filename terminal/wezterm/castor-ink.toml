@@ -1,0 +1,18 @@
+# Castor Ink - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Ink"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0c1420"
+foreground = "#d0d0e0"
+cursor_bg = "#a080d0"
+cursor_fg = "#0c1420"
+cursor_border = "#a080d0"
+selection_bg = "#38385880"
+selection_fg = "#d0d0e0"
+
+[colors.ansi]
+ansi = ["#1c2838", "#e07090", "#70c8a0", "#e0a050", "#7090d0", "#a080d0", "#70b0c8", "#d0d0e0"]
+brights = ["#506080", "#f098b0", "#98e0c0", "#f0c080", "#98b0e0", "#c0a8e8", "#98d0e0", "#ffffff"]

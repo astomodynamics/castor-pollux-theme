@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Mariana",
+  "background": "#040810",
+  "foreground": "#b8d0e8",
+  "cursorColor": "#00b0ff",
+  "selectionBackground": "#103058",
+  "black": "#0c1828",
+  "red": "#ff5089",
+  "green": "#00e8c8",
+  "yellow": "#ffe040",
+  "blue": "#00b0ff",
+  "purple": "#b040ff",
+  "cyan": "#00d8e8",
+  "white": "#b8d0e8",
+  "brightBlack": "#385888",
+  "brightRed": "#ff78a8",
+  "brightGreen": "#40ffd8",
+  "brightYellow": "#fff080",
+  "brightBlue": "#40c8ff",
+  "brightPurple": "#d080ff",
+  "brightCyan": "#40f0ff",
+  "brightWhite": "#ffffff"
+}

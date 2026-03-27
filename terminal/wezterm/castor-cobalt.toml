@@ -1,0 +1,18 @@
+# Castor Cobalt - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Cobalt"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0a0e1a"
+foreground = "#e4ecf7"
+cursor_bg = "#5c8fcc"
+cursor_fg = "#0a0e1a"
+cursor_border = "#5c8fcc"
+selection_bg = "#2060c044"
+selection_fg = "#e4ecf7"
+
+[colors.ansi]
+ansi = ["#1a2540", "#e05070", "#40c090", "#d0a050", "#2060c0", "#8070c0", "#40a0c0", "#c5d4e8"]
+brights = ["#3a4a6b", "#f07090", "#60d0a0", "#e0b060", "#4080e0", "#a090d0", "#60b0d0", "#ffffff"]

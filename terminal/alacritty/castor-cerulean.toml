@@ -1,0 +1,33 @@
+# Castor Cerulean - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0a1420"
+foreground = "#e0f0f8"
+
+[colors.cursor]
+text = "#0a1420"
+cursor = "#60b8e0"
+
+[colors.selection]
+text = CellForeground
+background = "#00a0d844"
+
+[colors.normal]
+black = "#183040"
+red = "#f06080"
+green = "#40d8a0"
+yellow = "#e8c860"
+blue = "#00a0d8"
+magenta = "#a880d8"
+cyan = "#40c8f0"
+white = "#c8e0f0"
+
+[colors.bright]
+black = "#386080"
+red = "#ff80a0"
+green = "#60f0b8"
+yellow = "#f8d870"
+blue = "#40c0f8"
+magenta = "#c0a0f0"
+cyan = "#60e0ff"
+white = "#ffffff"

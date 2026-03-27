@@ -1,0 +1,33 @@
+# Castor Kyoto - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#12100e"
+foreground = "#c8c0b4"
+
+[colors.cursor]
+text = "#12100e"
+cursor = "#d4453a"
+
+[colors.selection]
+text = CellForeground
+background = "#d4453a40"
+
+[colors.normal]
+black = "#2a2420"
+red = "#d4453a"
+green = "#7aaa68"
+yellow = "#c9a94e"
+blue = "#5a8ab0"
+magenta = "#b07090"
+cyan = "#68a0a0"
+white = "#c8c0b4"
+
+[colors.bright]
+black = "#5a4e42"
+red = "#e86058"
+green = "#98c488"
+yellow = "#dcc06a"
+blue = "#78a8cc"
+magenta = "#cc8aaa"
+cyan = "#88bebe"
+white = "#f0e8dc"

@@ -1,0 +1,14 @@
+# Material Light - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Material Light'
+background-color='#ffffff'
+foreground-color='#202124'
+cursor-background-color='#4285F4'
+cursor-foreground-color='#ffffff'
+highlight-background-color='#4285F433'
+highlight-foreground-color='#202124'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#202124', '#EA4335', '#34A853', '#FBBC04', '#4285F4', '#A142F4', '#24C1E0', '#f8f9fa', '#5f6368', '#F44336', '#0F9D58', '#F9AB00', '#1A73E8', '#9334E6', '#00ACC1', '#ffffff']

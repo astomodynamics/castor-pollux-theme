@@ -1,0 +1,14 @@
+# Castor Zenn Dark - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Zenn Dark'
+background-color='#0f172a'
+foreground-color='#e2e8f0'
+cursor-background-color='#38bdf8'
+cursor-foreground-color='#0f172a'
+highlight-background-color='#3b82f644'
+highlight-foreground-color='#e2e8f0'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1e293b', '#f43f5e', '#22c55e', '#fbbf24', '#3b82f6', '#a855f7', '#06b6d4', '#cbd5e1', '#475569', '#fb7185', '#4ade80', '#fcd34d', '#60a5fa', '#c084fc', '#22d3ee', '#f1f5f9']

@@ -1,0 +1,23 @@
+{
+  "name": "Castor Cerulean",
+  "background": "#0a1420",
+  "foreground": "#e0f0f8",
+  "cursorColor": "#60b8e0",
+  "selectionBackground": "#00a0d844",
+  "black": "#183040",
+  "red": "#f06080",
+  "green": "#40d8a0",
+  "yellow": "#e8c860",
+  "blue": "#00a0d8",
+  "purple": "#a880d8",
+  "cyan": "#40c8f0",
+  "white": "#c8e0f0",
+  "brightBlack": "#386080",
+  "brightRed": "#ff80a0",
+  "brightGreen": "#60f0b8",
+  "brightYellow": "#f8d870",
+  "brightBlue": "#40c0f8",
+  "brightPurple": "#c0a0f0",
+  "brightCyan": "#60e0ff",
+  "brightWhite": "#ffffff"
+}

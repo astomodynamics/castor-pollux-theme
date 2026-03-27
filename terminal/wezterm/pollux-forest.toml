@@ -1,0 +1,18 @@
+# Pollux Forest - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Forest"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0f1a14"
+foreground = "#e0f0e6"
+cursor_bg = "#7dd99a"
+cursor_fg = "#0f1a14"
+cursor_border = "#7dd99a"
+selection_bg = "#4dbd6a44"
+selection_fg = "#e0f0e6"
+
+[colors.ansi]
+ansi = ["#1a3024", "#e06070", "#4dbd6a", "#d9c070", "#60a0d0", "#c080c0", "#50c0b0", "#d5e8db"]
+brights = ["#506858", "#f08090", "#7dd99a", "#e8d890", "#80b8e0", "#d8a0d8", "#70d8c8", "#ffffff"]

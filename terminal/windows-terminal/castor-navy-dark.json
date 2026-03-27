@@ -1,0 +1,23 @@
+{
+  "name": "Castor Navy Dark",
+  "background": "#050d18",
+  "foreground": "#d4e3f7",
+  "cursorColor": "#4796E3",
+  "selectionBackground": "#1e3a5f80",
+  "black": "#1a2d4d",
+  "red": "#CA6673",
+  "green": "#50d4a0",
+  "yellow": "#f0c674",
+  "blue": "#4796E3",
+  "purple": "#9177C7",
+  "cyan": "#5bc5dc",
+  "white": "#d4e3f7",
+  "brightBlack": "#3d5a7f",
+  "brightRed": "#e57a86",
+  "brightGreen": "#7ee9c0",
+  "brightYellow": "#ffd98a",
+  "brightBlue": "#6fb0ff",
+  "brightPurple": "#b099e0",
+  "brightCyan": "#7dd9ed",
+  "brightWhite": "#ffffff"
+}

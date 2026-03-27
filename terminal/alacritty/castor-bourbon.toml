@@ -1,0 +1,33 @@
+# Castor Bourbon - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#151008"
+foreground = "#c8bcaa"
+
+[colors.cursor]
+text = "#151008"
+cursor = "#d4a030"
+
+[colors.selection]
+text = CellForeground
+background = "#d4a03040"
+
+[colors.normal]
+black = "#2c2418"
+red = "#c85840"
+green = "#88b470"
+yellow = "#d4a030"
+blue = "#6a90b8"
+magenta = "#b07898"
+cyan = "#60a8a0"
+white = "#c8bcaa"
+
+[colors.bright]
+black = "#5c4e34"
+red = "#e07858"
+green = "#a8cc8c"
+yellow = "#e8b848"
+blue = "#88a8d0"
+magenta = "#c898b4"
+cyan = "#80c0b8"
+white = "#ece0cc"

@@ -1,0 +1,33 @@
+# Pollux Sovereign - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#060c1f"
+foreground = "#b8c8e0"
+
+[colors.cursor]
+text = "#060c1f"
+cursor = "#ffb627"
+
+[colors.selection]
+text = CellForeground
+background = "#1a357070"
+
+[colors.normal]
+black = "#111d38"
+red = "#f06878"
+green = "#55d49a"
+yellow = "#ffb627"
+blue = "#4a7fb5"
+magenta = "#b085e6"
+cyan = "#4cc9d8"
+white = "#b8c8e0"
+
+[colors.bright]
+black = "#385270"
+red = "#ff8a97"
+green = "#7ae4b5"
+yellow = "#ffc94c"
+blue = "#6e9ecc"
+magenta = "#caa0f5"
+cyan = "#6fd8e5"
+white = "#ffffff"

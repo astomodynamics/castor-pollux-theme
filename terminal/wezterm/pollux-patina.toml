@@ -1,0 +1,18 @@
+# Pollux Patina - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Patina"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0c1614"
+foreground = "#b8ccc6"
+cursor_bg = "#50b8a0"
+cursor_fg = "#0c1614"
+cursor_border = "#50b8a0"
+selection_bg = "#50b8a040"
+selection_fg = "#b8ccc6"
+
+[colors.ansi]
+ansi = ["#1e322c", "#c86858", "#50b8a0", "#c88060", "#5898c0", "#a080b8", "#48b0b8", "#b8ccc6"]
+brights = ["#3e5e54", "#e08878", "#70d0b8", "#e0a080", "#78b0d0", "#bca0d0", "#68c8d0", "#e8f0ec"]

@@ -1,0 +1,22 @@
+! Castor Ink - Castor & Pollux Theme Collection
+
+*.background: #0c1420
+*.foreground: #d0d0e0
+*.cursorColor: #a080d0
+
+*.color0: #1c2838
+*.color1: #e07090
+*.color2: #70c8a0
+*.color3: #e0a050
+*.color4: #7090d0
+*.color5: #a080d0
+*.color6: #70b0c8
+*.color7: #d0d0e0
+*.color8: #506080
+*.color9: #f098b0
+*.color10: #98e0c0
+*.color11: #f0c080
+*.color12: #98b0e0
+*.color13: #c0a8e8
+*.color14: #98d0e0
+*.color15: #ffffff

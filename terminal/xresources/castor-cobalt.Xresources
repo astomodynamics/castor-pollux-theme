@@ -1,0 +1,22 @@
+! Castor Cobalt - Castor & Pollux Theme Collection
+
+*.background: #0a0e1a
+*.foreground: #e4ecf7
+*.cursorColor: #5c8fcc
+
+*.color0: #1a2540
+*.color1: #e05070
+*.color2: #40c090
+*.color3: #d0a050
+*.color4: #2060c0
+*.color5: #8070c0
+*.color6: #40a0c0
+*.color7: #c5d4e8
+*.color8: #3a4a6b
+*.color9: #f07090
+*.color10: #60d0a0
+*.color11: #e0b060
+*.color12: #4080e0
+*.color13: #a090d0
+*.color14: #60b0d0
+*.color15: #ffffff

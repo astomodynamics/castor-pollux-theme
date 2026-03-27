@@ -1,0 +1,33 @@
+# Castor Eclipse - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#1a1d23"
+foreground = "#e8ecf2"
+
+[colors.cursor]
+text = "#1a1d23"
+cursor = "#4796E3"
+
+[colors.selection]
+text = CellForeground
+background = "#9177C744"
+
+[colors.normal]
+black = "#2a2e38"
+red = "#ff5c7a"
+green = "#4dffb8"
+yellow = "#ffc757"
+blue = "#4796E3"
+magenta = "#9177C7"
+cyan = "#3dd7ff"
+white = "#dce2ea"
+
+[colors.bright]
+black = "#5a5f70"
+red = "#ff7a94"
+green = "#71ffc8"
+yellow = "#ffd57a"
+blue = "#6baeff"
+magenta = "#aa94dc"
+cyan = "#63e5ff"
+white = "#ffffff"

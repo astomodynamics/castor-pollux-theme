@@ -1,0 +1,18 @@
+# Castor Midnight - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Midnight"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0a0e1a"
+foreground = "#e4e8f5"
+cursor_bg = "#5d8eff"
+cursor_fg = "#0a0e1a"
+cursor_border = "#5d8eff"
+selection_bg = "#a285ff44"
+selection_fg = "#e4e8f5"
+
+[colors.ansi]
+ansi = ["#1a2037", "#ff6b9d", "#5fffc4", "#ffd95a", "#5d8eff", "#a285ff", "#5dd7ff", "#d3d9eb"]
+brights = ["#4d5b7a", "#ff8cb3", "#7effd6", "#ffe47a", "#7da6ff", "#bda5ff", "#7de3ff", "#ffffff"]

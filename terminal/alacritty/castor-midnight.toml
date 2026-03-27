@@ -1,0 +1,33 @@
+# Castor Midnight - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0a0e1a"
+foreground = "#e4e8f5"
+
+[colors.cursor]
+text = "#0a0e1a"
+cursor = "#5d8eff"
+
+[colors.selection]
+text = CellForeground
+background = "#a285ff44"
+
+[colors.normal]
+black = "#1a2037"
+red = "#ff6b9d"
+green = "#5fffc4"
+yellow = "#ffd95a"
+blue = "#5d8eff"
+magenta = "#a285ff"
+cyan = "#5dd7ff"
+white = "#d3d9eb"
+
+[colors.bright]
+black = "#4d5b7a"
+red = "#ff8cb3"
+green = "#7effd6"
+yellow = "#ffe47a"
+blue = "#7da6ff"
+magenta = "#bda5ff"
+cyan = "#7de3ff"
+white = "#ffffff"

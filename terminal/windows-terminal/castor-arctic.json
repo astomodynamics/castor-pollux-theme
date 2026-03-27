@@ -1,0 +1,23 @@
+{
+  "name": "Castor Arctic",
+  "background": "#0c1520",
+  "foreground": "#e3f2ff",
+  "cursorColor": "#a8d8ff",
+  "selectionBackground": "#5db3ff44",
+  "black": "#19293d",
+  "red": "#ff8fb3",
+  "green": "#7dffd4",
+  "yellow": "#d1eaff",
+  "blue": "#5db3ff",
+  "purple": "#c7e3ff",
+  "cyan": "#a8d8ff",
+  "white": "#d4e8ff",
+  "brightBlack": "#3d5975",
+  "brightRed": "#ffadc7",
+  "brightGreen": "#9cffe3",
+  "brightYellow": "#e8f4ff",
+  "brightBlue": "#7dcaff",
+  "brightPurple": "#dff0ff",
+  "brightCyan": "#c7e3ff",
+  "brightWhite": "#ffffff"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Nebula",
+  "background": "#150a1f",
+  "foreground": "#f0e5ff",
+  "cursorColor": "#ff6bc7",
+  "selectionBackground": "#c77dff44",
+  "black": "#2a1a3f",
+  "red": "#ff6b9d",
+  "green": "#80ff9e",
+  "yellow": "#ffca80",
+  "blue": "#9d5eff",
+  "purple": "#ff6bc7",
+  "cyan": "#78d9ff",
+  "white": "#e8d7ff",
+  "brightBlack": "#6a4d7a",
+  "brightRed": "#ff8cb8",
+  "brightGreen": "#a0ffbc",
+  "brightYellow": "#ffd99d",
+  "brightBlue": "#b882ff",
+  "brightPurple": "#ff8cd8",
+  "brightCyan": "#9de8ff",
+  "brightWhite": "#ffffff"
+}

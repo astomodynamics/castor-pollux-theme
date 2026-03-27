@@ -1,0 +1,23 @@
+{
+  "name": "Castor CLI Dark",
+  "background": "#282A36",
+  "foreground": "#F8F8F2",
+  "cursorColor": "#F8F8F2",
+  "selectionBackground": "#44475A",
+  "black": "#21222C",
+  "red": "#FF5555",
+  "green": "#98C379",
+  "yellow": "#F1FA8C",
+  "blue": "#61AFEF",
+  "purple": "#C678DD",
+  "cyan": "#56B6C2",
+  "white": "#F8F8F2",
+  "brightBlack": "#6272A4",
+  "brightRed": "#FF6E6E",
+  "brightGreen": "#A8D88C",
+  "brightYellow": "#F4FC9F",
+  "brightBlue": "#82AAFF",
+  "brightPurple": "#D9A8F1",
+  "brightCyan": "#8BE9FD",
+  "brightWhite": "#FFFFFF"
+}

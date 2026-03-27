@@ -1,0 +1,23 @@
+{
+  "name": "Castor Verdant",
+  "background": "#0b1411",
+  "foreground": "#d4e5dc",
+  "cursorColor": "#3fb87c",
+  "selectionBackground": "#3fb87c44",
+  "black": "#1a2e24",
+  "red": "#e85d5d",
+  "green": "#3fb87c",
+  "yellow": "#d4a642",
+  "blue": "#5a9bcf",
+  "purple": "#c07ed4",
+  "cyan": "#49c5b6",
+  "white": "#c2d8cd",
+  "brightBlack": "#4a6b5a",
+  "brightRed": "#f07878",
+  "brightGreen": "#5fd69a",
+  "brightYellow": "#e0ba5e",
+  "brightBlue": "#74b0de",
+  "brightPurple": "#d49ae6",
+  "brightCyan": "#6ad4c7",
+  "brightWhite": "#f0f5f2"
+}

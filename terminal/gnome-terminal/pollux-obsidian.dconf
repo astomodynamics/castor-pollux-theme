@@ -1,0 +1,14 @@
+# Pollux Obsidian - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Obsidian'
+background-color='#0c0c0c'
+foreground-color='#d4d4d4'
+cursor-background-color='#00d4ff'
+cursor-foreground-color='#0c0c0c'
+highlight-background-color='#00a8cc44'
+highlight-foreground-color='#d4d4d4'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1a1a1a', '#ff3366', '#00ff88', '#ffcc00', '#00a8cc', '#cc66ff', '#00d4ff', '#b0b0b0', '#505050', '#ff6699', '#66ffaa', '#ffdd55', '#55ccee', '#dd99ff', '#55e5ff', '#ffffff']

@@ -1,0 +1,22 @@
+! Castor Verdant - Castor & Pollux Theme Collection
+
+*.background: #0b1411
+*.foreground: #d4e5dc
+*.cursorColor: #3fb87c
+
+*.color0: #1a2e24
+*.color1: #e85d5d
+*.color2: #3fb87c
+*.color3: #d4a642
+*.color4: #5a9bcf
+*.color5: #c07ed4
+*.color6: #49c5b6
+*.color7: #c2d8cd
+*.color8: #4a6b5a
+*.color9: #f07878
+*.color10: #5fd69a
+*.color11: #e0ba5e
+*.color12: #74b0de
+*.color13: #d49ae6
+*.color14: #6ad4c7
+*.color15: #f0f5f2

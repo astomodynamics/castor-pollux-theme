@@ -1,0 +1,18 @@
+# Castor Verdant - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Verdant"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0b1411"
+foreground = "#d4e5dc"
+cursor_bg = "#3fb87c"
+cursor_fg = "#0b1411"
+cursor_border = "#3fb87c"
+selection_bg = "#3fb87c44"
+selection_fg = "#d4e5dc"
+
+[colors.ansi]
+ansi = ["#1a2e24", "#e85d5d", "#3fb87c", "#d4a642", "#5a9bcf", "#c07ed4", "#49c5b6", "#c2d8cd"]
+brights = ["#4a6b5a", "#f07878", "#5fd69a", "#e0ba5e", "#74b0de", "#d49ae6", "#6ad4c7", "#f0f5f2"]

@@ -1,0 +1,18 @@
+# Pollux Sovereign - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Sovereign"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#060c1f"
+foreground = "#b8c8e0"
+cursor_bg = "#ffb627"
+cursor_fg = "#060c1f"
+cursor_border = "#ffb627"
+selection_bg = "#1a357070"
+selection_fg = "#b8c8e0"
+
+[colors.ansi]
+ansi = ["#111d38", "#f06878", "#55d49a", "#ffb627", "#4a7fb5", "#b085e6", "#4cc9d8", "#b8c8e0"]
+brights = ["#385270", "#ff8a97", "#7ae4b5", "#ffc94c", "#6e9ecc", "#caa0f5", "#6fd8e5", "#ffffff"]

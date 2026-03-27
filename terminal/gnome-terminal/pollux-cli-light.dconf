@@ -1,0 +1,14 @@
+# Pollux CLI Light - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux CLI Light'
+background-color='#FAFAFA'
+foreground-color='#383A42'
+cursor-background-color='#383A42'
+cursor-foreground-color='#FAFAFA'
+highlight-background-color='#C2E0F4'
+highlight-foreground-color='#383A42'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#383A42', '#E45649', '#50A14F', '#C18401', '#0184BC', '#A626A4', '#0997B3', '#FAFAFA', '#9DA5B4', '#E45649', '#50A14F', '#C18401', '#4078F2', '#A626A4', '#0997B3', '#FAFAFA']

@@ -1,0 +1,33 @@
+# Castor Navy Dark - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#050d18"
+foreground = "#d4e3f7"
+
+[colors.cursor]
+text = "#050d18"
+cursor = "#4796E3"
+
+[colors.selection]
+text = CellForeground
+background = "#1e3a5f80"
+
+[colors.normal]
+black = "#1a2d4d"
+red = "#CA6673"
+green = "#50d4a0"
+yellow = "#f0c674"
+blue = "#4796E3"
+magenta = "#9177C7"
+cyan = "#5bc5dc"
+white = "#d4e3f7"
+
+[colors.bright]
+black = "#3d5a7f"
+red = "#e57a86"
+green = "#7ee9c0"
+yellow = "#ffd98a"
+blue = "#6fb0ff"
+magenta = "#b099e0"
+cyan = "#7dd9ed"
+white = "#ffffff"

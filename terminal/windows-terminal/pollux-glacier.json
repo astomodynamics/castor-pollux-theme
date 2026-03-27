@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Glacier",
+  "background": "#0b1018",
+  "foreground": "#e8f2fa",
+  "cursorColor": "#a0d0f0",
+  "selectionBackground": "#70c0e844",
+  "black": "#1a2a3a",
+  "red": "#f08080",
+  "green": "#80e0c0",
+  "yellow": "#e0d090",
+  "blue": "#70c0e8",
+  "purple": "#c0a0e0",
+  "cyan": "#80d8f0",
+  "white": "#d0e4f4",
+  "brightBlack": "#4a6080",
+  "brightRed": "#ffa0a0",
+  "brightGreen": "#a0f0d0",
+  "brightYellow": "#f0e0a0",
+  "brightBlue": "#90d8ff",
+  "brightPurple": "#d0b8f0",
+  "brightCyan": "#a0e8ff",
+  "brightWhite": "#ffffff"
+}

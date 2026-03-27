@@ -1,0 +1,33 @@
+# Pollux Patina - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0c1614"
+foreground = "#b8ccc6"
+
+[colors.cursor]
+text = "#0c1614"
+cursor = "#50b8a0"
+
+[colors.selection]
+text = CellForeground
+background = "#50b8a040"
+
+[colors.normal]
+black = "#1e322c"
+red = "#c86858"
+green = "#50b8a0"
+yellow = "#c88060"
+blue = "#5898c0"
+magenta = "#a080b8"
+cyan = "#48b0b8"
+white = "#b8ccc6"
+
+[colors.bright]
+black = "#3e5e54"
+red = "#e08878"
+green = "#70d0b8"
+yellow = "#e0a080"
+blue = "#78b0d0"
+magenta = "#bca0d0"
+cyan = "#68c8d0"
+white = "#e8f0ec"

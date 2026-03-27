@@ -1,0 +1,18 @@
+# Pollux Copper - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Copper"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#1a1614"
+foreground = "#f0e8e4"
+cursor_bg = "#e8a070"
+cursor_fg = "#1a1614"
+cursor_border = "#e8a070"
+selection_bg = "#d0805044"
+selection_fg = "#f0e8e4"
+
+[colors.ansi]
+ansi = ["#2d2420", "#d85050", "#70b870", "#d8b050", "#6090c0", "#b080b0", "#50b0b0", "#e8dcd5"]
+brights = ["#6b5a52", "#e87070", "#90d890", "#e8c870", "#80a8d8", "#c8a0c8", "#70c8c8", "#ffffff"]

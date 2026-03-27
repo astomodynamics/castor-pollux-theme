@@ -1,0 +1,14 @@
+# Pollux Indigo - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Indigo'
+background-color='#0f1224'
+foreground-color='#e5e8f5'
+cursor-background-color='#8c9eff'
+cursor-foreground-color='#0f1224'
+highlight-background-color='#667aff44'
+highlight-foreground-color='#e5e8f5'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1a1f3d', '#ff6b93', '#69f0ae', '#c7b3ff', '#667aff', '#b388ff', '#8c9eff', '#d2d8f0', '#3d4563', '#ff8bab', '#8affca', '#d9caff', '#8c9eff', '#caa5ff', '#a5b3ff', '#ffffff']

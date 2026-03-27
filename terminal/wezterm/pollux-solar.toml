@@ -1,0 +1,18 @@
+# Pollux Solar - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Solar"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0f1419"
+foreground = "#e6e1cf"
+cursor_bg = "#ffa726"
+cursor_fg = "#0f1419"
+cursor_border = "#ffa726"
+selection_bg = "#ffcc0044"
+selection_fg = "#e6e1cf"
+
+[colors.ansi]
+ansi = ["#1a2437", "#ff6b6b", "#5dd8a8", "#ffcc00", "#4d9fff", "#c792ea", "#36d9d9", "#d9d5c7"]
+brights = ["#4a5670", "#ff8787", "#80e8bf", "#ffd633", "#70b3ff", "#d9a9f5", "#5ce6e6", "#ffffff"]

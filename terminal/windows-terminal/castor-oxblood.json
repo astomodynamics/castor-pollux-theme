@@ -1,0 +1,23 @@
+{
+  "name": "Castor Oxblood",
+  "background": "#160d10",
+  "foreground": "#c8bcc0",
+  "cursorColor": "#d06878",
+  "selectionBackground": "#d0687840",
+  "black": "#2e2024",
+  "red": "#d06878",
+  "green": "#80b890",
+  "yellow": "#d8c8a8",
+  "blue": "#7090b8",
+  "purple": "#b880b0",
+  "cyan": "#70b0b0",
+  "white": "#c8bcc0",
+  "brightBlack": "#5a4048",
+  "brightRed": "#e88898",
+  "brightGreen": "#a0d0a8",
+  "brightYellow": "#e8dcc0",
+  "brightBlue": "#90aad0",
+  "brightPurple": "#d0a0c8",
+  "brightCyan": "#90c8c8",
+  "brightWhite": "#f0e8ec"
+}

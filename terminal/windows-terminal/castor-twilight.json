@@ -1,0 +1,23 @@
+{
+  "name": "Castor Twilight",
+  "background": "#0c0a14",
+  "foreground": "#e4e0f4",
+  "cursorColor": "#9888d0",
+  "selectionBackground": "#7060b044",
+  "black": "#201830",
+  "red": "#d87070",
+  "green": "#70c8a0",
+  "yellow": "#e0c080",
+  "blue": "#6080d0",
+  "purple": "#a080c8",
+  "cyan": "#6098c8",
+  "white": "#ccc4e4",
+  "brightBlack": "#4a4068",
+  "brightRed": "#e89090",
+  "brightGreen": "#90d8b0",
+  "brightYellow": "#f0d090",
+  "brightBlue": "#80a0e8",
+  "brightPurple": "#b898d8",
+  "brightCyan": "#80b0d8",
+  "brightWhite": "#ffffff"
+}

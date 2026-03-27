@@ -1,0 +1,18 @@
+# Pollux Mariana - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Mariana"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#040810"
+foreground = "#b8d0e8"
+cursor_bg = "#00b0ff"
+cursor_fg = "#040810"
+cursor_border = "#00b0ff"
+selection_bg = "#103058"
+selection_fg = "#b8d0e8"
+
+[colors.ansi]
+ansi = ["#0c1828", "#ff5089", "#00e8c8", "#ffe040", "#00b0ff", "#b040ff", "#00d8e8", "#b8d0e8"]
+brights = ["#385888", "#ff78a8", "#40ffd8", "#fff080", "#40c8ff", "#d080ff", "#40f0ff", "#ffffff"]

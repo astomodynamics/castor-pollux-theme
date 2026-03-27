@@ -1,0 +1,14 @@
+# Pollux Dune - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Dune'
+background-color='#1a1610'
+foreground-color='#c4bca8'
+cursor-background-color='#c87850'
+cursor-foreground-color='#1a1610'
+highlight-background-color='#c8785040'
+highlight-foreground-color='#c4bca8'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#302a20', '#cc5544', '#8aad7a', '#c8a848', '#6890b0', '#a87898', '#70a898', '#c4bca8', '#5e5040', '#e07060', '#a8c898', '#dcc060', '#88aac8', '#c498b4', '#90c0b4', '#ece4d4']

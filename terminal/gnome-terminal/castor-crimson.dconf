@@ -1,0 +1,14 @@
+# Castor Crimson - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Crimson'
+background-color='#1a1014'
+foreground-color='#f0e6ea'
+cursor-background-color='#e86080'
+cursor-foreground-color='#1a1014'
+highlight-background-color='#d8406044'
+highlight-foreground-color='#f0e6ea'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#2d1a22', '#d84060', '#60c080', '#d8b060', '#6090d0', '#c070b0', '#50b8c0', '#e8d8dd', '#6b5058', '#e86080', '#80d8a0', '#e8c880', '#80a8e0', '#d890c8', '#70d0d8', '#ffffff']

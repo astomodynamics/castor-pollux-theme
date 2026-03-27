@@ -1,0 +1,18 @@
+# Castor Prussian - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Prussian"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0a1628"
+foreground = "#c8dce8"
+cursor_bg = "#4eb8b8"
+cursor_fg = "#0a1628"
+cursor_border = "#4eb8b8"
+selection_bg = "#1e4a5a80"
+selection_fg = "#c8dce8"
+
+[colors.ansi]
+ansi = ["#1a3040", "#c47a7a", "#6cc9a8", "#d4a574", "#4eb8b8", "#b89cd0", "#58c8d8", "#c8dce8"]
+brights = ["#406070", "#e09090", "#90e0c0", "#f0c090", "#70d8d8", "#d0b8e0", "#80e0f0", "#ffffff"]

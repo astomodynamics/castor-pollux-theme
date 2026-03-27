@@ -1,0 +1,18 @@
+# Castor Azure - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Azure"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0d1621"
+foreground = "#e0f0ff"
+cursor_bg = "#66b3ff"
+cursor_fg = "#0d1621"
+cursor_border = "#66b3ff"
+selection_bg = "#3399ff44"
+selection_fg = "#e0f0ff"
+
+[colors.ansi]
+ansi = ["#1a2b42", "#ff668c", "#52d9c4", "#cce0ff", "#3399ff", "#99ccff", "#66b3ff", "#cfe5ff"]
+brights = ["#385573", "#ff85a3", "#75ead9", "#e6f0ff", "#52adff", "#b3d9ff", "#85c7ff", "#ffffff"]

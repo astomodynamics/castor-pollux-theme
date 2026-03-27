@@ -1,0 +1,22 @@
+! Castor Amethyst - Castor & Pollux Theme Collection
+
+*.background: #16121a
+*.foreground: #ebe6f0
+*.cursorColor: #d4a5f0
+
+*.color0: #2a1e38
+*.color1: #e06080
+*.color2: #70d890
+*.color3: #e0c070
+*.color4: #70a0e0
+*.color5: #b87dd9
+*.color6: #60c8d0
+*.color7: #ddd5e8
+*.color8: #5a506b
+*.color9: #f080a0
+*.color10: #90e8b0
+*.color11: #f0d890
+*.color12: #90b8f0
+*.color13: #d4a5f0
+*.color14: #80d8e0
+*.color15: #ffffff

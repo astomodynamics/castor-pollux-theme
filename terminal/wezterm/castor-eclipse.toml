@@ -1,0 +1,18 @@
+# Castor Eclipse - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Eclipse"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#1a1d23"
+foreground = "#e8ecf2"
+cursor_bg = "#4796E3"
+cursor_fg = "#1a1d23"
+cursor_border = "#4796E3"
+selection_bg = "#9177C744"
+selection_fg = "#e8ecf2"
+
+[colors.ansi]
+ansi = ["#2a2e38", "#ff5c7a", "#4dffb8", "#ffc757", "#4796E3", "#9177C7", "#3dd7ff", "#dce2ea"]
+brights = ["#5a5f70", "#ff7a94", "#71ffc8", "#ffd57a", "#6baeff", "#aa94dc", "#63e5ff", "#ffffff"]

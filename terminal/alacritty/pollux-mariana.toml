@@ -1,0 +1,33 @@
+# Pollux Mariana - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#040810"
+foreground = "#b8d0e8"
+
+[colors.cursor]
+text = "#040810"
+cursor = "#00b0ff"
+
+[colors.selection]
+text = CellForeground
+background = "#103058"
+
+[colors.normal]
+black = "#0c1828"
+red = "#ff5089"
+green = "#00e8c8"
+yellow = "#ffe040"
+blue = "#00b0ff"
+magenta = "#b040ff"
+cyan = "#00d8e8"
+white = "#b8d0e8"
+
+[colors.bright]
+black = "#385888"
+red = "#ff78a8"
+green = "#40ffd8"
+yellow = "#fff080"
+blue = "#40c8ff"
+magenta = "#d080ff"
+cyan = "#40f0ff"
+white = "#ffffff"

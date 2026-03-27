@@ -1,0 +1,23 @@
+{
+  "name": "Castor Slate",
+  "background": "#1e2028",
+  "foreground": "#c9d1d9",
+  "cursorColor": "#58a6ff",
+  "selectionBackground": "#1f6feb44",
+  "black": "#21262d",
+  "red": "#ff7b72",
+  "green": "#7ee787",
+  "yellow": "#e3b341",
+  "blue": "#58a6ff",
+  "purple": "#bc8cff",
+  "cyan": "#79c0ff",
+  "white": "#b1bac4",
+  "brightBlack": "#484f58",
+  "brightRed": "#ffa198",
+  "brightGreen": "#a5d6a7",
+  "brightYellow": "#f3e5ab",
+  "brightBlue": "#79c0ff",
+  "brightPurple": "#d2a8ff",
+  "brightCyan": "#a5d6ff",
+  "brightWhite": "#f0f6fc"
+}

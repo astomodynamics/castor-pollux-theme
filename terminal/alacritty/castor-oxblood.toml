@@ -1,0 +1,33 @@
+# Castor Oxblood - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#160d10"
+foreground = "#c8bcc0"
+
+[colors.cursor]
+text = "#160d10"
+cursor = "#d06878"
+
+[colors.selection]
+text = CellForeground
+background = "#d0687840"
+
+[colors.normal]
+black = "#2e2024"
+red = "#d06878"
+green = "#80b890"
+yellow = "#d8c8a8"
+blue = "#7090b8"
+magenta = "#b880b0"
+cyan = "#70b0b0"
+white = "#c8bcc0"
+
+[colors.bright]
+black = "#5a4048"
+red = "#e88898"
+green = "#a0d0a8"
+yellow = "#e8dcc0"
+blue = "#90aad0"
+magenta = "#d0a0c8"
+cyan = "#90c8c8"
+white = "#f0e8ec"

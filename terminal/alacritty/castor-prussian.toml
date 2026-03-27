@@ -1,0 +1,33 @@
+# Castor Prussian - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0a1628"
+foreground = "#c8dce8"
+
+[colors.cursor]
+text = "#0a1628"
+cursor = "#4eb8b8"
+
+[colors.selection]
+text = CellForeground
+background = "#1e4a5a80"
+
+[colors.normal]
+black = "#1a3040"
+red = "#c47a7a"
+green = "#6cc9a8"
+yellow = "#d4a574"
+blue = "#4eb8b8"
+magenta = "#b89cd0"
+cyan = "#58c8d8"
+white = "#c8dce8"
+
+[colors.bright]
+black = "#406070"
+red = "#e09090"
+green = "#90e0c0"
+yellow = "#f0c090"
+blue = "#70d8d8"
+magenta = "#d0b8e0"
+cyan = "#80e0f0"
+white = "#ffffff"

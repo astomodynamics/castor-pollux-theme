@@ -1,0 +1,33 @@
+# Castor Storm - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0d1520"
+foreground = "#b8c8d8"
+
+[colors.cursor]
+text = "#0d1520"
+cursor = "#f0d050"
+
+[colors.selection]
+text = CellForeground
+background = "#28405080"
+
+[colors.normal]
+black = "#1a2430"
+red = "#c87878"
+green = "#78b898"
+yellow = "#f0d050"
+blue = "#6090b8"
+magenta = "#9888b8"
+cyan = "#68a8b8"
+white = "#b8c8d8"
+
+[colors.bright]
+black = "#506878"
+red = "#e09898"
+green = "#98d8b8"
+yellow = "#f8e080"
+blue = "#80b0d8"
+magenta = "#b8a8d0"
+cyan = "#88c8d8"
+white = "#ffffff"

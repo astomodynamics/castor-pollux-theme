@@ -1,0 +1,14 @@
+# Castor Admiralty - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Admiralty'
+background-color='#0a1225'
+foreground-color='#c8d4e6'
+cursor-background-color='#e8b931'
+cursor-foreground-color='#0a1225'
+highlight-background-color='#1e3a6080'
+highlight-foreground-color='#c8d4e6'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#152240', '#e06c75', '#6bc9a0', '#e8b931', '#5b9bd5', '#c19af5', '#56b6c2', '#c8d4e6', '#3d5578', '#f08c95', '#8edbb8', '#f5d76e', '#7db5e8', '#d4b4ff', '#79cdd6', '#ffffff']

@@ -1,0 +1,22 @@
+! Castor Twilight - Castor & Pollux Theme Collection
+
+*.background: #0c0a14
+*.foreground: #e4e0f4
+*.cursorColor: #9888d0
+
+*.color0: #201830
+*.color1: #d87070
+*.color2: #70c8a0
+*.color3: #e0c080
+*.color4: #6080d0
+*.color5: #a080c8
+*.color6: #6098c8
+*.color7: #ccc4e4
+*.color8: #4a4068
+*.color9: #e89090
+*.color10: #90d8b0
+*.color11: #f0d090
+*.color12: #80a0e8
+*.color13: #b898d8
+*.color14: #80b0d8
+*.color15: #ffffff

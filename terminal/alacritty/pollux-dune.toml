@@ -1,0 +1,33 @@
+# Pollux Dune - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#1a1610"
+foreground = "#c4bca8"
+
+[colors.cursor]
+text = "#1a1610"
+cursor = "#c87850"
+
+[colors.selection]
+text = CellForeground
+background = "#c8785040"
+
+[colors.normal]
+black = "#302a20"
+red = "#cc5544"
+green = "#8aad7a"
+yellow = "#c8a848"
+blue = "#6890b0"
+magenta = "#a87898"
+cyan = "#70a898"
+white = "#c4bca8"
+
+[colors.bright]
+black = "#5e5040"
+red = "#e07060"
+green = "#a8c898"
+yellow = "#dcc060"
+blue = "#88aac8"
+magenta = "#c498b4"
+cyan = "#90c0b4"
+white = "#ece4d4"

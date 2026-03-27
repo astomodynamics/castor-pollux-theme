@@ -1,0 +1,18 @@
+# Pollux Aurora - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Aurora"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0f1218"
+foreground = "#e8eef5"
+cursor_bg = "#ff6b9d"
+cursor_fg = "#0f1218"
+cursor_border = "#ff6b9d"
+selection_bg = "#00d9a044"
+selection_fg = "#e8eef5"
+
+[colors.ansi]
+ansi = ["#1a2030", "#ff6b9d", "#00d9a0", "#ffd060", "#60a0ff", "#d080ff", "#00d0d0", "#dce4ed"]
+brights = ["#4a5568", "#ff8fb8", "#40f0c0", "#ffe080", "#80b8ff", "#e0a0ff", "#40e8e8", "#ffffff"]

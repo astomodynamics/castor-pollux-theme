@@ -1,0 +1,22 @@
+! Pollux Steel - Castor & Pollux Theme Collection
+
+*.background: #10131a
+*.foreground: #d8dce8
+*.cursorColor: #8090b0
+
+*.color0: #1c2230
+*.color1: #c06060
+*.color2: #60a080
+*.color3: #b0a060
+*.color4: #5070a0
+*.color5: #8878a0
+*.color6: #5890a0
+*.color7: #b8c0d4
+*.color8: #4a5468
+*.color9: #d08080
+*.color10: #80b090
+*.color11: #c0b070
+*.color12: #7090c0
+*.color13: #a090b8
+*.color14: #78a8b8
+*.color15: #f0f2f8

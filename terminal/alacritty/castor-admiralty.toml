@@ -1,0 +1,33 @@
+# Castor Admiralty - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0a1225"
+foreground = "#c8d4e6"
+
+[colors.cursor]
+text = "#0a1225"
+cursor = "#e8b931"
+
+[colors.selection]
+text = CellForeground
+background = "#1e3a6080"
+
+[colors.normal]
+black = "#152240"
+red = "#e06c75"
+green = "#6bc9a0"
+yellow = "#e8b931"
+blue = "#5b9bd5"
+magenta = "#c19af5"
+cyan = "#56b6c2"
+white = "#c8d4e6"
+
+[colors.bright]
+black = "#3d5578"
+red = "#f08c95"
+green = "#8edbb8"
+yellow = "#f5d76e"
+blue = "#7db5e8"
+magenta = "#d4b4ff"
+cyan = "#79cdd6"
+white = "#ffffff"

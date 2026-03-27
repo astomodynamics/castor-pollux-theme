@@ -1,0 +1,22 @@
+! Pollux Dune - Castor & Pollux Theme Collection
+
+*.background: #1a1610
+*.foreground: #c4bca8
+*.cursorColor: #c87850
+
+*.color0: #302a20
+*.color1: #cc5544
+*.color2: #8aad7a
+*.color3: #c8a848
+*.color4: #6890b0
+*.color5: #a87898
+*.color6: #70a898
+*.color7: #c4bca8
+*.color8: #5e5040
+*.color9: #e07060
+*.color10: #a8c898
+*.color11: #dcc060
+*.color12: #88aac8
+*.color13: #c498b4
+*.color14: #90c0b4
+*.color15: #ece4d4

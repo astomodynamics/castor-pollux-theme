@@ -1,0 +1,33 @@
+# Castor Ember - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#1a1210"
+foreground = "#f0e6e0"
+
+[colors.cursor]
+text = "#1a1210"
+cursor = "#ff9857"
+
+[colors.selection]
+text = CellForeground
+background = "#ff6b3d44"
+
+[colors.normal]
+black = "#2d211b"
+red = "#ff5555"
+green = "#7dce82"
+yellow = "#ffcc57"
+blue = "#6eb3f7"
+magenta = "#d68fd6"
+cyan = "#5fcfcf"
+white = "#e8dcd5"
+
+[colors.bright]
+black = "#6b5a52"
+red = "#ff7777"
+green = "#9dea9f"
+yellow = "#ffd97a"
+blue = "#8ec7ff"
+magenta = "#e8a9e8"
+cyan = "#7fdfdf"
+white = "#ffffff"

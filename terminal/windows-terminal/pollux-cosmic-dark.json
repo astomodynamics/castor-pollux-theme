@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Cosmic Dark",
+  "background": "#0d1420",
+  "foreground": "#e6edf3",
+  "cursorColor": "#4796E3",
+  "selectionBackground": "#9177C744",
+  "black": "#484f58",
+  "red": "#ff7b72",
+  "green": "#3fb950",
+  "yellow": "#d29922",
+  "blue": "#4796E3",
+  "purple": "#9177C7",
+  "cyan": "#39c5cf",
+  "white": "#b1bac4",
+  "brightBlack": "#6e7681",
+  "brightRed": "#CA6673",
+  "brightGreen": "#56d364",
+  "brightYellow": "#e3b341",
+  "brightBlue": "#79c0ff",
+  "brightPurple": "#d2a8ff",
+  "brightCyan": "#56d4dd",
+  "brightWhite": "#f0f6fc"
+}

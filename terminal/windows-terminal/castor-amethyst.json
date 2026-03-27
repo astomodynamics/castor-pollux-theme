@@ -1,0 +1,23 @@
+{
+  "name": "Castor Amethyst",
+  "background": "#16121a",
+  "foreground": "#ebe6f0",
+  "cursorColor": "#d4a5f0",
+  "selectionBackground": "#b87dd944",
+  "black": "#2a1e38",
+  "red": "#e06080",
+  "green": "#70d890",
+  "yellow": "#e0c070",
+  "blue": "#70a0e0",
+  "purple": "#b87dd9",
+  "cyan": "#60c8d0",
+  "white": "#ddd5e8",
+  "brightBlack": "#5a506b",
+  "brightRed": "#f080a0",
+  "brightGreen": "#90e8b0",
+  "brightYellow": "#f0d890",
+  "brightBlue": "#90b8f0",
+  "brightPurple": "#d4a5f0",
+  "brightCyan": "#80d8e0",
+  "brightWhite": "#ffffff"
+}
