@@ -1,0 +1,33 @@
+# Material Light - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#ffffff"
+foreground = "#202124"
+
+[colors.cursor]
+text = "#ffffff"
+cursor = "#4285F4"
+
+[colors.selection]
+text = CellForeground
+background = "#4285F433"
+
+[colors.normal]
+black = "#202124"
+red = "#EA4335"
+green = "#34A853"
+yellow = "#FBBC04"
+blue = "#4285F4"
+magenta = "#A142F4"
+cyan = "#24C1E0"
+white = "#f8f9fa"
+
+[colors.bright]
+black = "#5f6368"
+red = "#F44336"
+green = "#0F9D58"
+yellow = "#F9AB00"
+blue = "#1A73E8"
+magenta = "#9334E6"
+cyan = "#00ACC1"
+white = "#ffffff"

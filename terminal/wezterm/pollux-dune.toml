@@ -1,0 +1,18 @@
+# Pollux Dune - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Dune"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#1a1610"
+foreground = "#c4bca8"
+cursor_bg = "#c87850"
+cursor_fg = "#1a1610"
+cursor_border = "#c87850"
+selection_bg = "#c8785040"
+selection_fg = "#c4bca8"
+
+[colors.ansi]
+ansi = ["#302a20", "#cc5544", "#8aad7a", "#c8a848", "#6890b0", "#a87898", "#70a898", "#c4bca8"]
+brights = ["#5e5040", "#e07060", "#a8c898", "#dcc060", "#88aac8", "#c498b4", "#90c0b4", "#ece4d4"]

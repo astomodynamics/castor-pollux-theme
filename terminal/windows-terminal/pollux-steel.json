@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Steel",
+  "background": "#10131a",
+  "foreground": "#d8dce8",
+  "cursorColor": "#8090b0",
+  "selectionBackground": "#5070a044",
+  "black": "#1c2230",
+  "red": "#c06060",
+  "green": "#60a080",
+  "yellow": "#b0a060",
+  "blue": "#5070a0",
+  "purple": "#8878a0",
+  "cyan": "#5890a0",
+  "white": "#b8c0d4",
+  "brightBlack": "#4a5468",
+  "brightRed": "#d08080",
+  "brightGreen": "#80b090",
+  "brightYellow": "#c0b070",
+  "brightBlue": "#7090c0",
+  "brightPurple": "#a090b8",
+  "brightCyan": "#78a8b8",
+  "brightWhite": "#f0f2f8"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Nocturne Dark",
+  "background": "#011627",
+  "foreground": "#d6deeb",
+  "cursorColor": "#f9e2af",
+  "selectionBackground": "#1d3b5380",
+  "black": "#011627",
+  "red": "#f38ba8",
+  "green": "#a6e3a1",
+  "yellow": "#f9e2af",
+  "blue": "#89b4fa",
+  "purple": "#cba6f7",
+  "cyan": "#94e2d5",
+  "white": "#d6deeb",
+  "brightBlack": "#4b6479",
+  "brightRed": "#eba0ac",
+  "brightGreen": "#a6e3a1",
+  "brightYellow": "#f9e2af",
+  "brightBlue": "#89b4fa",
+  "brightPurple": "#f5c2e7",
+  "brightCyan": "#94e2d5",
+  "brightWhite": "#ffffff"
+}

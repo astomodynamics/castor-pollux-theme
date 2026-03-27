@@ -1,0 +1,14 @@
+# Castor Georgia Tech - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Georgia Tech'
+background-color='#001528'
+foreground-color='#c0c8d8'
+cursor-background-color='#B3A369'
+cursor-foreground-color='#001528'
+highlight-background-color='#00305770'
+highlight-foreground-color='#c0c8d8'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#0d2640', '#e06070', '#6cc490', '#B3A369', '#4a88c0', '#a080c8', '#50b0c0', '#c0c8d8', '#3a5878', '#f08090', '#90d8aa', '#c8bd86', '#70a8d8', '#baa0dd', '#70c8d5', '#ffffff']

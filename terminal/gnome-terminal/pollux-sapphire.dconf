@@ -1,0 +1,14 @@
+# Pollux Sapphire - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Sapphire'
+background-color='#0a0f1e'
+foreground-color='#dce9ff'
+cursor-background-color='#5d9cff'
+cursor-foreground-color='#0a0f1e'
+highlight-background-color='#3d7aff44'
+highlight-foreground-color='#dce9ff'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#152342', '#ff5c8d', '#66d9ef', '#ffd073', '#3d7aff', '#ae81ff', '#5d9cff', '#c7dcff', '#2d456b', '#ff7aa6', '#87e8ff', '#ffd995', '#5d8fff', '#c49dff', '#80b8ff', '#ffffff']

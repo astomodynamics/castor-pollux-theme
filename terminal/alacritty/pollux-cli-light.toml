@@ -1,0 +1,33 @@
+# Pollux CLI Light - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#FAFAFA"
+foreground = "#383A42"
+
+[colors.cursor]
+text = "#FAFAFA"
+cursor = "#383A42"
+
+[colors.selection]
+text = CellForeground
+background = "#C2E0F4"
+
+[colors.normal]
+black = "#383A42"
+red = "#E45649"
+green = "#50A14F"
+yellow = "#C18401"
+blue = "#0184BC"
+magenta = "#A626A4"
+cyan = "#0997B3"
+white = "#FAFAFA"
+
+[colors.bright]
+black = "#9DA5B4"
+red = "#E45649"
+green = "#50A14F"
+yellow = "#C18401"
+blue = "#4078F2"
+magenta = "#A626A4"
+cyan = "#0997B3"
+white = "#FAFAFA"

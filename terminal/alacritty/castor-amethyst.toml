@@ -1,0 +1,33 @@
+# Castor Amethyst - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#16121a"
+foreground = "#ebe6f0"
+
+[colors.cursor]
+text = "#16121a"
+cursor = "#d4a5f0"
+
+[colors.selection]
+text = CellForeground
+background = "#b87dd944"
+
+[colors.normal]
+black = "#2a1e38"
+red = "#e06080"
+green = "#70d890"
+yellow = "#e0c070"
+blue = "#70a0e0"
+magenta = "#b87dd9"
+cyan = "#60c8d0"
+white = "#ddd5e8"
+
+[colors.bright]
+black = "#5a506b"
+red = "#f080a0"
+green = "#90e8b0"
+yellow = "#f0d890"
+blue = "#90b8f0"
+magenta = "#d4a5f0"
+cyan = "#80d8e0"
+white = "#ffffff"

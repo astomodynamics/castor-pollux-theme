@@ -1,8 +1,8 @@
 # Castor & Pollux Theme Collection
 
-A collection of 38 premium themes for VS Code and Cursor, inspired by the twin stars of the Gemini constellation. Deep navy backgrounds, celestial color palettes, and carefully tuned contrast for long coding sessions.
+A collection of 47 premium themes for VS Code and Cursor, inspired by the twin stars of the Gemini constellation. Deep navy backgrounds, celestial color palettes, and carefully tuned contrast for long coding sessions, plus companion exports for terminal emulators and Zed.
 
-## Themes (38 total)
+## Themes (47 total)
 
 ### Navy & Gold (NEW)
 
@@ -19,6 +19,17 @@ Hand-crafted navy/blue themes with golden yellow highlights, semantic highlighti
 | Theme | Background | Accent | Vibe |
 |-------|-----------|--------|------|
 | **Castor Georgia Tech** | `#001528` GT Navy | `#B3A369` Tech Gold | Official GT colors, teal functions |
+
+### Earth & Patina (NEW)
+
+| Theme | Background | Accent | Vibe |
+|-------|-----------|--------|------|
+| **Castor Verdant** | `#0b1411` Moss green | `#3fb87c` Fresh jade | Botanical, calm, high-legibility green |
+| **Castor Kyoto** | `#161311` Charcoal brown | `#c78f55` Cedar amber | Warm Japanese ink and paper tones |
+| **Pollux Dune** | `#1a1610` Sandstone dusk | `#c87850` Desert copper | Dry earth palette with soft sage support |
+| **Castor Oxblood** | `#160d10` Deep oxblood | `#c85a78` Dusty rose | Dramatic wine-red contrast without neon glare |
+| **Pollux Patina** | `#0f1718` Oxidized teal | `#5bb7ad` Sea-glass patina | Muted teal metals with cool terminal contrast |
+| **Castor Bourbon** | `#17110d` Barrel brown | `#d08a42` Whiskey amber | Toasted oak, tobacco, and honey warmth |
 
 ### Celestial Blues
 
@@ -113,15 +124,44 @@ Then reload and select your theme:
 3. `Ctrl+Shift+P` -> "Preferences: Color Theme"
 4. Pick any Castor or Pollux theme
 
+## Companion Exports
+
+The repo also includes companion exports for terminal emulators under [`terminal/`](terminal/).
+
+- Alacritty
+- Kitty
+- Windows Terminal
+- iTerm2
+- Xresources
+- Foot
+- WezTerm
+- GNOME Terminal / Tilix
+- Ptyxis
+
+For Zed, the helper script builds a single theme family file at `~/.config/zed/themes/castor-pollux.json`.
+
+## Regenerating Exports
+
+Run the conversion helpers from the repository root with Python 3:
+
+```bash
+python3 convert_to_terminal.py
+python3 convert_to_zed.py
+```
+
+`convert_to_terminal.py` regenerates the committed files in [`terminal/`](terminal/). `convert_to_zed.py` writes the Zed theme family into your local Zed themes directory.
+
 ## Features
 
-- 38 themes: 35 dark, 3 light
+- 47 themes: 44 dark, 3 light
 - Semantic highlighting and semantic token colors (Navy & Gold series)
 - Bracket pair colorization with distinct colors
 - Minimap, command center, and modern UI element styling
 - Comprehensive token scopes: decorators, template strings, CSS pseudo-classes, JSON properties, escape characters
 - Italic keywords and control flow for visual scanning
 - Consistent git decoration, diff, and error/warning colors
+- Companion terminal palettes across 9 terminal formats
+- Zed theme family generation via `convert_to_zed.py`
 - Designed for TypeScript, Python, Rust, Go, CSS, HTML, Markdown, and more
 
 ## About

@@ -1,0 +1,18 @@
+# Pollux Indigo - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Indigo"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0f1224"
+foreground = "#e5e8f5"
+cursor_bg = "#8c9eff"
+cursor_fg = "#0f1224"
+cursor_border = "#8c9eff"
+selection_bg = "#667aff44"
+selection_fg = "#e5e8f5"
+
+[colors.ansi]
+ansi = ["#1a1f3d", "#ff6b93", "#69f0ae", "#c7b3ff", "#667aff", "#b388ff", "#8c9eff", "#d2d8f0"]
+brights = ["#3d4563", "#ff8bab", "#8affca", "#d9caff", "#8c9eff", "#caa5ff", "#a5b3ff", "#ffffff"]

@@ -1,0 +1,23 @@
+{
+  "name": "Castor Prussian",
+  "background": "#0a1628",
+  "foreground": "#c8dce8",
+  "cursorColor": "#4eb8b8",
+  "selectionBackground": "#1e4a5a80",
+  "black": "#1a3040",
+  "red": "#c47a7a",
+  "green": "#6cc9a8",
+  "yellow": "#d4a574",
+  "blue": "#4eb8b8",
+  "purple": "#b89cd0",
+  "cyan": "#58c8d8",
+  "white": "#c8dce8",
+  "brightBlack": "#406070",
+  "brightRed": "#e09090",
+  "brightGreen": "#90e0c0",
+  "brightYellow": "#f0c090",
+  "brightBlue": "#70d8d8",
+  "brightPurple": "#d0b8e0",
+  "brightCyan": "#80e0f0",
+  "brightWhite": "#ffffff"
+}

@@ -1,0 +1,33 @@
+# Pollux Forest - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0f1a14"
+foreground = "#e0f0e6"
+
+[colors.cursor]
+text = "#0f1a14"
+cursor = "#7dd99a"
+
+[colors.selection]
+text = CellForeground
+background = "#4dbd6a44"
+
+[colors.normal]
+black = "#1a3024"
+red = "#e06070"
+green = "#4dbd6a"
+yellow = "#d9c070"
+blue = "#60a0d0"
+magenta = "#c080c0"
+cyan = "#50c0b0"
+white = "#d5e8db"
+
+[colors.bright]
+black = "#506858"
+red = "#f08090"
+green = "#7dd99a"
+yellow = "#e8d890"
+blue = "#80b8e0"
+magenta = "#d8a0d8"
+cyan = "#70d8c8"
+white = "#ffffff"

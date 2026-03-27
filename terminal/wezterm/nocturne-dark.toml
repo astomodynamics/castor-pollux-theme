@@ -1,0 +1,18 @@
+# Nocturne Dark - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Nocturne Dark"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#011627"
+foreground = "#d6deeb"
+cursor_bg = "#f9e2af"
+cursor_fg = "#011627"
+cursor_border = "#f9e2af"
+selection_bg = "#1d3b5380"
+selection_fg = "#d6deeb"
+
+[colors.ansi]
+ansi = ["#011627", "#f38ba8", "#a6e3a1", "#f9e2af", "#89b4fa", "#cba6f7", "#94e2d5", "#d6deeb"]
+brights = ["#4b6479", "#eba0ac", "#a6e3a1", "#f9e2af", "#89b4fa", "#f5c2e7", "#94e2d5", "#ffffff"]

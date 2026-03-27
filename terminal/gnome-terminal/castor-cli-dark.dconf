@@ -1,0 +1,14 @@
+# Castor CLI Dark - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor CLI Dark'
+background-color='#282A36'
+foreground-color='#F8F8F2'
+cursor-background-color='#F8F8F2'
+cursor-foreground-color='#282A36'
+highlight-background-color='#44475A'
+highlight-foreground-color='#F8F8F2'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#21222C', '#FF5555', '#98C379', '#F1FA8C', '#61AFEF', '#C678DD', '#56B6C2', '#F8F8F2', '#6272A4', '#FF6E6E', '#A8D88C', '#F4FC9F', '#82AAFF', '#D9A8F1', '#8BE9FD', '#FFFFFF']

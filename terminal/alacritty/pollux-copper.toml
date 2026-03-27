@@ -1,0 +1,33 @@
+# Pollux Copper - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#1a1614"
+foreground = "#f0e8e4"
+
+[colors.cursor]
+text = "#1a1614"
+cursor = "#e8a070"
+
+[colors.selection]
+text = CellForeground
+background = "#d0805044"
+
+[colors.normal]
+black = "#2d2420"
+red = "#d85050"
+green = "#70b870"
+yellow = "#d8b050"
+blue = "#6090c0"
+magenta = "#b080b0"
+cyan = "#50b0b0"
+white = "#e8dcd5"
+
+[colors.bright]
+black = "#6b5a52"
+red = "#e87070"
+green = "#90d890"
+yellow = "#e8c870"
+blue = "#80a8d8"
+magenta = "#c8a0c8"
+cyan = "#70c8c8"
+white = "#ffffff"

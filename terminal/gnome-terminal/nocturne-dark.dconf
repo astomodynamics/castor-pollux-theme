@@ -1,0 +1,14 @@
+# Nocturne Dark - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Nocturne Dark'
+background-color='#011627'
+foreground-color='#d6deeb'
+cursor-background-color='#f9e2af'
+cursor-foreground-color='#011627'
+highlight-background-color='#1d3b5380'
+highlight-foreground-color='#d6deeb'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#011627', '#f38ba8', '#a6e3a1', '#f9e2af', '#89b4fa', '#cba6f7', '#94e2d5', '#d6deeb', '#4b6479', '#eba0ac', '#a6e3a1', '#f9e2af', '#89b4fa', '#f5c2e7', '#94e2d5', '#ffffff']

@@ -1,0 +1,33 @@
+# Castor Twilight - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0c0a14"
+foreground = "#e4e0f4"
+
+[colors.cursor]
+text = "#0c0a14"
+cursor = "#9888d0"
+
+[colors.selection]
+text = CellForeground
+background = "#7060b044"
+
+[colors.normal]
+black = "#201830"
+red = "#d87070"
+green = "#70c8a0"
+yellow = "#e0c080"
+blue = "#6080d0"
+magenta = "#a080c8"
+cyan = "#6098c8"
+white = "#ccc4e4"
+
+[colors.bright]
+black = "#4a4068"
+red = "#e89090"
+green = "#90d8b0"
+yellow = "#f0d090"
+blue = "#80a0e8"
+magenta = "#b898d8"
+cyan = "#80b0d8"
+white = "#ffffff"

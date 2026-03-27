@@ -1,0 +1,22 @@
+! Castor Azure - Castor & Pollux Theme Collection
+
+*.background: #0d1621
+*.foreground: #e0f0ff
+*.cursorColor: #66b3ff
+
+*.color0: #1a2b42
+*.color1: #ff668c
+*.color2: #52d9c4
+*.color3: #cce0ff
+*.color4: #3399ff
+*.color5: #99ccff
+*.color6: #66b3ff
+*.color7: #cfe5ff
+*.color8: #385573
+*.color9: #ff85a3
+*.color10: #75ead9
+*.color11: #e6f0ff
+*.color12: #52adff
+*.color13: #b3d9ff
+*.color14: #85c7ff
+*.color15: #ffffff

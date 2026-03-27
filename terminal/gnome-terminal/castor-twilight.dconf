@@ -1,0 +1,14 @@
+# Castor Twilight - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Twilight'
+background-color='#0c0a14'
+foreground-color='#e4e0f4'
+cursor-background-color='#9888d0'
+cursor-foreground-color='#0c0a14'
+highlight-background-color='#7060b044'
+highlight-foreground-color='#e4e0f4'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#201830', '#d87070', '#70c8a0', '#e0c080', '#6080d0', '#a080c8', '#6098c8', '#ccc4e4', '#4a4068', '#e89090', '#90d8b0', '#f0d090', '#80a0e8', '#b898d8', '#80b0d8', '#ffffff']

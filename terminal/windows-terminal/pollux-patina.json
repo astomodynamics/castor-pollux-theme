@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Patina",
+  "background": "#0c1614",
+  "foreground": "#b8ccc6",
+  "cursorColor": "#50b8a0",
+  "selectionBackground": "#50b8a040",
+  "black": "#1e322c",
+  "red": "#c86858",
+  "green": "#50b8a0",
+  "yellow": "#c88060",
+  "blue": "#5898c0",
+  "purple": "#a080b8",
+  "cyan": "#48b0b8",
+  "white": "#b8ccc6",
+  "brightBlack": "#3e5e54",
+  "brightRed": "#e08878",
+  "brightGreen": "#70d0b8",
+  "brightYellow": "#e0a080",
+  "brightBlue": "#78b0d0",
+  "brightPurple": "#bca0d0",
+  "brightCyan": "#68c8d0",
+  "brightWhite": "#e8f0ec"
+}

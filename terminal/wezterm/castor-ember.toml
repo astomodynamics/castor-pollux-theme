@@ -1,0 +1,18 @@
+# Castor Ember - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Ember"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#1a1210"
+foreground = "#f0e6e0"
+cursor_bg = "#ff9857"
+cursor_fg = "#1a1210"
+cursor_border = "#ff9857"
+selection_bg = "#ff6b3d44"
+selection_fg = "#f0e6e0"
+
+[colors.ansi]
+ansi = ["#2d211b", "#ff5555", "#7dce82", "#ffcc57", "#6eb3f7", "#d68fd6", "#5fcfcf", "#e8dcd5"]
+brights = ["#6b5a52", "#ff7777", "#9dea9f", "#ffd97a", "#8ec7ff", "#e8a9e8", "#7fdfdf", "#ffffff"]

@@ -1,0 +1,14 @@
+# Pollux Nebula - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Nebula'
+background-color='#150a1f'
+foreground-color='#f0e5ff'
+cursor-background-color='#ff6bc7'
+cursor-foreground-color='#150a1f'
+highlight-background-color='#c77dff44'
+highlight-foreground-color='#f0e5ff'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#2a1a3f', '#ff6b9d', '#80ff9e', '#ffca80', '#9d5eff', '#ff6bc7', '#78d9ff', '#e8d7ff', '#6a4d7a', '#ff8cb8', '#a0ffbc', '#ffd99d', '#b882ff', '#ff8cd8', '#9de8ff', '#ffffff']

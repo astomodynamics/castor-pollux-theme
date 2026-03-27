@@ -1,0 +1,18 @@
+# Pollux Baltic - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Baltic"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#08121c"
+foreground = "#c8d8e0"
+cursor_bg = "#88c8e8"
+cursor_fg = "#08121c"
+cursor_border = "#88c8e8"
+selection_bg = "#204858"
+selection_fg = "#c8d8e0"
+
+[colors.ansi]
+ansi = ["#142028", "#d08888", "#80d0a8", "#d0c888", "#88c8e8", "#b0a8c8", "#80d0d8", "#c8d8e0"]
+brights = ["#486878", "#e8a8a8", "#a0e8c8", "#e8e0a0", "#a8e0f8", "#d0c8e0", "#a0e8f0", "#ffffff"]

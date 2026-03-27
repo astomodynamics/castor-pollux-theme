@@ -1,0 +1,18 @@
+# Castor Crimson - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Crimson"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#1a1014"
+foreground = "#f0e6ea"
+cursor_bg = "#e86080"
+cursor_fg = "#1a1014"
+cursor_border = "#e86080"
+selection_bg = "#d8406044"
+selection_fg = "#f0e6ea"
+
+[colors.ansi]
+ansi = ["#2d1a22", "#d84060", "#60c080", "#d8b060", "#6090d0", "#c070b0", "#50b8c0", "#e8d8dd"]
+brights = ["#6b5058", "#e86080", "#80d8a0", "#e8c880", "#80a8e0", "#d890c8", "#70d0d8", "#ffffff"]

@@ -1,0 +1,14 @@
+# Castor Carbon - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Carbon'
+background-color='#161616'
+foreground-color='#f4f4f4'
+cursor-background-color='#0f62fe'
+cursor-foreground-color='#161616'
+highlight-background-color='#0f62fe44'
+highlight-foreground-color='#f4f4f4'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#262626', '#fa4d56', '#42be65', '#f1c21b', '#0f62fe', '#a56eff', '#33b1ff', '#c6c6c6', '#525252', '#ff8389', '#6fdc8c', '#fddc69', '#78a9ff', '#be95ff', '#82cfff', '#ffffff']

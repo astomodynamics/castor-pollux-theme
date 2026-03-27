@@ -1,0 +1,14 @@
+# Pollux Baltic - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Baltic'
+background-color='#08121c'
+foreground-color='#c8d8e0'
+cursor-background-color='#88c8e8'
+cursor-foreground-color='#08121c'
+highlight-background-color='#204858'
+highlight-foreground-color='#c8d8e0'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#142028', '#d08888', '#80d0a8', '#d0c888', '#88c8e8', '#b0a8c8', '#80d0d8', '#c8d8e0', '#486878', '#e8a8a8', '#a0e8c8', '#e8e0a0', '#a8e0f8', '#d0c8e0', '#a0e8f0', '#ffffff']

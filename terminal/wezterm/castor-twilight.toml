@@ -1,0 +1,18 @@
+# Castor Twilight - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Twilight"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0c0a14"
+foreground = "#e4e0f4"
+cursor_bg = "#9888d0"
+cursor_fg = "#0c0a14"
+cursor_border = "#9888d0"
+selection_bg = "#7060b044"
+selection_fg = "#e4e0f4"
+
+[colors.ansi]
+ansi = ["#201830", "#d87070", "#70c8a0", "#e0c080", "#6080d0", "#a080c8", "#6098c8", "#ccc4e4"]
+brights = ["#4a4068", "#e89090", "#90d8b0", "#f0d090", "#80a0e8", "#b898d8", "#80b0d8", "#ffffff"]

@@ -1,0 +1,18 @@
+# Castor Kyoto - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Kyoto"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#12100e"
+foreground = "#c8c0b4"
+cursor_bg = "#d4453a"
+cursor_fg = "#12100e"
+cursor_border = "#d4453a"
+selection_bg = "#d4453a40"
+selection_fg = "#c8c0b4"
+
+[colors.ansi]
+ansi = ["#2a2420", "#d4453a", "#7aaa68", "#c9a94e", "#5a8ab0", "#b07090", "#68a0a0", "#c8c0b4"]
+brights = ["#5a4e42", "#e86058", "#98c488", "#dcc06a", "#78a8cc", "#cc8aaa", "#88bebe", "#f0e8dc"]

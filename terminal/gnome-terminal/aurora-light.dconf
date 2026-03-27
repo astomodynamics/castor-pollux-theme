@@ -1,0 +1,14 @@
+# Aurora Light - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Aurora Light'
+background-color='#eff1f5'
+foreground-color='#4c4f69'
+cursor-background-color='#dc8a78'
+cursor-foreground-color='#eff1f5'
+highlight-background-color='#ccd0da80'
+highlight-foreground-color='#4c4f69'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#5c5f77', '#d20f39', '#40a02b', '#df8e1d', '#1e66f5', '#8839ef', '#179299', '#acb0be', '#6c6f85', '#d20f39', '#40a02b', '#df8e1d', '#1e66f5', '#ea76cb', '#04a5e5', '#bcc0cc']

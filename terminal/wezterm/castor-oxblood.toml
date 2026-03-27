@@ -1,0 +1,18 @@
+# Castor Oxblood - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Oxblood"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#160d10"
+foreground = "#c8bcc0"
+cursor_bg = "#d06878"
+cursor_fg = "#160d10"
+cursor_border = "#d06878"
+selection_bg = "#d0687840"
+selection_fg = "#c8bcc0"
+
+[colors.ansi]
+ansi = ["#2e2024", "#d06878", "#80b890", "#d8c8a8", "#7090b8", "#b880b0", "#70b0b0", "#c8bcc0"]
+brights = ["#5a4048", "#e88898", "#a0d0a8", "#e8dcc0", "#90aad0", "#d0a0c8", "#90c8c8", "#f0e8ec"]

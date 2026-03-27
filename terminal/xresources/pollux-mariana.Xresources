@@ -1,0 +1,22 @@
+! Pollux Mariana - Castor & Pollux Theme Collection
+
+*.background: #040810
+*.foreground: #b8d0e8
+*.cursorColor: #00b0ff
+
+*.color0: #0c1828
+*.color1: #ff5089
+*.color2: #00e8c8
+*.color3: #ffe040
+*.color4: #00b0ff
+*.color5: #b040ff
+*.color6: #00d8e8
+*.color7: #b8d0e8
+*.color8: #385888
+*.color9: #ff78a8
+*.color10: #40ffd8
+*.color11: #fff080
+*.color12: #40c8ff
+*.color13: #d080ff
+*.color14: #40f0ff
+*.color15: #ffffff

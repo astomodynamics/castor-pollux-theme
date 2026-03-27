@@ -1,0 +1,18 @@
+# Castor Gilded Navy - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Gilded Navy"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#08101e"
+foreground = "#c0cee2"
+cursor_bg = "#d4a528"
+cursor_fg = "#08101e"
+cursor_border = "#d4a528"
+selection_bg = "#1a326070"
+selection_fg = "#c0cee2"
+
+[colors.ansi]
+ansi = ["#13203a", "#d96070", "#5cc48f", "#d4a528", "#6b9fcf", "#a580d0", "#50b8c8", "#c0cee2"]
+brights = ["#3a5070", "#ea8090", "#80d8aa", "#ecc850", "#8ab8dd", "#bfa0e0", "#70ccd8", "#ffffff"]

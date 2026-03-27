@@ -1,0 +1,14 @@
+# Pollux Sovereign - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Sovereign'
+background-color='#060c1f'
+foreground-color='#b8c8e0'
+cursor-background-color='#ffb627'
+cursor-foreground-color='#060c1f'
+highlight-background-color='#1a357070'
+highlight-foreground-color='#b8c8e0'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#111d38', '#f06878', '#55d49a', '#ffb627', '#4a7fb5', '#b085e6', '#4cc9d8', '#b8c8e0', '#385270', '#ff8a97', '#7ae4b5', '#ffc94c', '#6e9ecc', '#caa0f5', '#6fd8e5', '#ffffff']

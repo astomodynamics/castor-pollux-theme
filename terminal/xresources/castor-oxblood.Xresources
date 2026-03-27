@@ -1,0 +1,22 @@
+! Castor Oxblood - Castor & Pollux Theme Collection
+
+*.background: #160d10
+*.foreground: #c8bcc0
+*.cursorColor: #d06878
+
+*.color0: #2e2024
+*.color1: #d06878
+*.color2: #80b890
+*.color3: #d8c8a8
+*.color4: #7090b8
+*.color5: #b880b0
+*.color6: #70b0b0
+*.color7: #c8bcc0
+*.color8: #5a4048
+*.color9: #e88898
+*.color10: #a0d0a8
+*.color11: #e8dcc0
+*.color12: #90aad0
+*.color13: #d0a0c8
+*.color14: #90c8c8
+*.color15: #f0e8ec

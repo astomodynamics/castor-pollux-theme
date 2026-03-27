@@ -1,0 +1,14 @@
+# Pollux Steel - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Steel'
+background-color='#10131a'
+foreground-color='#d8dce8'
+cursor-background-color='#8090b0'
+cursor-foreground-color='#10131a'
+highlight-background-color='#5070a044'
+highlight-foreground-color='#d8dce8'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1c2230', '#c06060', '#60a080', '#b0a060', '#5070a0', '#8878a0', '#5890a0', '#b8c0d4', '#4a5468', '#d08080', '#80b090', '#c0b070', '#7090c0', '#a090b8', '#78a8b8', '#f0f2f8']

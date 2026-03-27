@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Aurora",
+  "background": "#0f1218",
+  "foreground": "#e8eef5",
+  "cursorColor": "#ff6b9d",
+  "selectionBackground": "#00d9a044",
+  "black": "#1a2030",
+  "red": "#ff6b9d",
+  "green": "#00d9a0",
+  "yellow": "#ffd060",
+  "blue": "#60a0ff",
+  "purple": "#d080ff",
+  "cyan": "#00d0d0",
+  "white": "#dce4ed",
+  "brightBlack": "#4a5568",
+  "brightRed": "#ff8fb8",
+  "brightGreen": "#40f0c0",
+  "brightYellow": "#ffe080",
+  "brightBlue": "#80b8ff",
+  "brightPurple": "#e0a0ff",
+  "brightCyan": "#40e8e8",
+  "brightWhite": "#ffffff"
+}

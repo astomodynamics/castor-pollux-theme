@@ -1,0 +1,33 @@
+# Pollux Obsidian - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0c0c0c"
+foreground = "#d4d4d4"
+
+[colors.cursor]
+text = "#0c0c0c"
+cursor = "#00d4ff"
+
+[colors.selection]
+text = CellForeground
+background = "#00a8cc44"
+
+[colors.normal]
+black = "#1a1a1a"
+red = "#ff3366"
+green = "#00ff88"
+yellow = "#ffcc00"
+blue = "#00a8cc"
+magenta = "#cc66ff"
+cyan = "#00d4ff"
+white = "#b0b0b0"
+
+[colors.bright]
+black = "#505050"
+red = "#ff6699"
+green = "#66ffaa"
+yellow = "#ffdd55"
+blue = "#55ccee"
+magenta = "#dd99ff"
+cyan = "#55e5ff"
+white = "#ffffff"

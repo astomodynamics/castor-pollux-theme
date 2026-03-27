@@ -1,0 +1,22 @@
+! Castor Eclipse - Castor & Pollux Theme Collection
+
+*.background: #1a1d23
+*.foreground: #e8ecf2
+*.cursorColor: #4796E3
+
+*.color0: #2a2e38
+*.color1: #ff5c7a
+*.color2: #4dffb8
+*.color3: #ffc757
+*.color4: #4796E3
+*.color5: #9177C7
+*.color6: #3dd7ff
+*.color7: #dce2ea
+*.color8: #5a5f70
+*.color9: #ff7a94
+*.color10: #71ffc8
+*.color11: #ffd57a
+*.color12: #6baeff
+*.color13: #aa94dc
+*.color14: #63e5ff
+*.color15: #ffffff

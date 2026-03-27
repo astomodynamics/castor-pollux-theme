@@ -1,0 +1,33 @@
+# Castor Azure - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0d1621"
+foreground = "#e0f0ff"
+
+[colors.cursor]
+text = "#0d1621"
+cursor = "#66b3ff"
+
+[colors.selection]
+text = CellForeground
+background = "#3399ff44"
+
+[colors.normal]
+black = "#1a2b42"
+red = "#ff668c"
+green = "#52d9c4"
+yellow = "#cce0ff"
+blue = "#3399ff"
+magenta = "#99ccff"
+cyan = "#66b3ff"
+white = "#cfe5ff"
+
+[colors.bright]
+black = "#385573"
+red = "#ff85a3"
+green = "#75ead9"
+yellow = "#e6f0ff"
+blue = "#52adff"
+magenta = "#b3d9ff"
+cyan = "#85c7ff"
+white = "#ffffff"

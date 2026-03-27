@@ -1,0 +1,22 @@
+! Pollux CLI Light - Castor & Pollux Theme Collection
+
+*.background: #FAFAFA
+*.foreground: #383A42
+*.cursorColor: #383A42
+
+*.color0: #383A42
+*.color1: #E45649
+*.color2: #50A14F
+*.color3: #C18401
+*.color4: #0184BC
+*.color5: #A626A4
+*.color6: #0997B3
+*.color7: #FAFAFA
+*.color8: #9DA5B4
+*.color9: #E45649
+*.color10: #50A14F
+*.color11: #C18401
+*.color12: #4078F2
+*.color13: #A626A4
+*.color14: #0997B3
+*.color15: #FAFAFA

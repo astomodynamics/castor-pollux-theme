@@ -1,0 +1,33 @@
+# Nocturne Dark - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#011627"
+foreground = "#d6deeb"
+
+[colors.cursor]
+text = "#011627"
+cursor = "#f9e2af"
+
+[colors.selection]
+text = CellForeground
+background = "#1d3b5380"
+
+[colors.normal]
+black = "#011627"
+red = "#f38ba8"
+green = "#a6e3a1"
+yellow = "#f9e2af"
+blue = "#89b4fa"
+magenta = "#cba6f7"
+cyan = "#94e2d5"
+white = "#d6deeb"
+
+[colors.bright]
+black = "#4b6479"
+red = "#eba0ac"
+green = "#a6e3a1"
+yellow = "#f9e2af"
+blue = "#89b4fa"
+magenta = "#f5c2e7"
+cyan = "#94e2d5"
+white = "#ffffff"

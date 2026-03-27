@@ -1,0 +1,23 @@
+{
+  "name": "Pollux CLI Light",
+  "background": "#FAFAFA",
+  "foreground": "#383A42",
+  "cursorColor": "#383A42",
+  "selectionBackground": "#C2E0F4",
+  "black": "#383A42",
+  "red": "#E45649",
+  "green": "#50A14F",
+  "yellow": "#C18401",
+  "blue": "#0184BC",
+  "purple": "#A626A4",
+  "cyan": "#0997B3",
+  "white": "#FAFAFA",
+  "brightBlack": "#9DA5B4",
+  "brightRed": "#E45649",
+  "brightGreen": "#50A14F",
+  "brightYellow": "#C18401",
+  "brightBlue": "#4078F2",
+  "brightPurple": "#A626A4",
+  "brightCyan": "#0997B3",
+  "brightWhite": "#FAFAFA"
+}

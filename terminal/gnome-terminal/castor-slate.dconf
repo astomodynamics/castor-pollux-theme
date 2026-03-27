@@ -1,0 +1,14 @@
+# Castor Slate - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Slate'
+background-color='#1e2028'
+foreground-color='#c9d1d9'
+cursor-background-color='#58a6ff'
+cursor-foreground-color='#1e2028'
+highlight-background-color='#1f6feb44'
+highlight-foreground-color='#c9d1d9'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#21262d', '#ff7b72', '#7ee787', '#e3b341', '#58a6ff', '#bc8cff', '#79c0ff', '#b1bac4', '#484f58', '#ffa198', '#a5d6a7', '#f3e5ab', '#79c0ff', '#d2a8ff', '#a5d6ff', '#f0f6fc']

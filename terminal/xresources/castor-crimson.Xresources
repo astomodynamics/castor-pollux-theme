@@ -1,0 +1,22 @@
+! Castor Crimson - Castor & Pollux Theme Collection
+
+*.background: #1a1014
+*.foreground: #f0e6ea
+*.cursorColor: #e86080
+
+*.color0: #2d1a22
+*.color1: #d84060
+*.color2: #60c080
+*.color3: #d8b060
+*.color4: #6090d0
+*.color5: #c070b0
+*.color6: #50b8c0
+*.color7: #e8d8dd
+*.color8: #6b5058
+*.color9: #e86080
+*.color10: #80d8a0
+*.color11: #e8c880
+*.color12: #80a8e0
+*.color13: #d890c8
+*.color14: #70d0d8
+*.color15: #ffffff

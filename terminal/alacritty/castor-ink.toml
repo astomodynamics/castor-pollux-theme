@@ -1,0 +1,33 @@
+# Castor Ink - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0c1420"
+foreground = "#d0d0e0"
+
+[colors.cursor]
+text = "#0c1420"
+cursor = "#a080d0"
+
+[colors.selection]
+text = CellForeground
+background = "#38385880"
+
+[colors.normal]
+black = "#1c2838"
+red = "#e07090"
+green = "#70c8a0"
+yellow = "#e0a050"
+blue = "#7090d0"
+magenta = "#a080d0"
+cyan = "#70b0c8"
+white = "#d0d0e0"
+
+[colors.bright]
+black = "#506080"
+red = "#f098b0"
+green = "#98e0c0"
+yellow = "#f0c080"
+blue = "#98b0e0"
+magenta = "#c0a8e8"
+cyan = "#98d0e0"
+white = "#ffffff"

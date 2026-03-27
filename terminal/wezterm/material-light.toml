@@ -1,0 +1,18 @@
+# Material Light - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Material Light"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#ffffff"
+foreground = "#202124"
+cursor_bg = "#4285F4"
+cursor_fg = "#ffffff"
+cursor_border = "#4285F4"
+selection_bg = "#4285F433"
+selection_fg = "#202124"
+
+[colors.ansi]
+ansi = ["#202124", "#EA4335", "#34A853", "#FBBC04", "#4285F4", "#A142F4", "#24C1E0", "#f8f9fa"]
+brights = ["#5f6368", "#F44336", "#0F9D58", "#F9AB00", "#1A73E8", "#9334E6", "#00ACC1", "#ffffff"]

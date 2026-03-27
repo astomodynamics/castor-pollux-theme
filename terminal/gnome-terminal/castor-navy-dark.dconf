@@ -1,0 +1,14 @@
+# Castor Navy Dark - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Navy Dark'
+background-color='#050d18'
+foreground-color='#d4e3f7'
+cursor-background-color='#4796E3'
+cursor-foreground-color='#050d18'
+highlight-background-color='#1e3a5f80'
+highlight-foreground-color='#d4e3f7'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1a2d4d', '#CA6673', '#50d4a0', '#f0c674', '#4796E3', '#9177C7', '#5bc5dc', '#d4e3f7', '#3d5a7f', '#e57a86', '#7ee9c0', '#ffd98a', '#6fb0ff', '#b099e0', '#7dd9ed', '#ffffff']

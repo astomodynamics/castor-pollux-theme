@@ -1,0 +1,14 @@
+# Castor Gilded Navy - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Gilded Navy'
+background-color='#08101e'
+foreground-color='#c0cee2'
+cursor-background-color='#d4a528'
+cursor-foreground-color='#08101e'
+highlight-background-color='#1a326070'
+highlight-foreground-color='#c0cee2'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#13203a', '#d96070', '#5cc48f', '#d4a528', '#6b9fcf', '#a580d0', '#50b8c8', '#c0cee2', '#3a5070', '#ea8090', '#80d8aa', '#ecc850', '#8ab8dd', '#bfa0e0', '#70ccd8', '#ffffff']

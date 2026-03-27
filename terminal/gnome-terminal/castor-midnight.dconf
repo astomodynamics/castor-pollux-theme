@@ -1,0 +1,14 @@
+# Castor Midnight - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Midnight'
+background-color='#0a0e1a'
+foreground-color='#e4e8f5'
+cursor-background-color='#5d8eff'
+cursor-foreground-color='#0a0e1a'
+highlight-background-color='#a285ff44'
+highlight-foreground-color='#e4e8f5'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1a2037', '#ff6b9d', '#5fffc4', '#ffd95a', '#5d8eff', '#a285ff', '#5dd7ff', '#d3d9eb', '#4d5b7a', '#ff8cb3', '#7effd6', '#ffe47a', '#7da6ff', '#bda5ff', '#7de3ff', '#ffffff']

@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Dune",
+  "background": "#1a1610",
+  "foreground": "#c4bca8",
+  "cursorColor": "#c87850",
+  "selectionBackground": "#c8785040",
+  "black": "#302a20",
+  "red": "#cc5544",
+  "green": "#8aad7a",
+  "yellow": "#c8a848",
+  "blue": "#6890b0",
+  "purple": "#a87898",
+  "cyan": "#70a898",
+  "white": "#c4bca8",
+  "brightBlack": "#5e5040",
+  "brightRed": "#e07060",
+  "brightGreen": "#a8c898",
+  "brightYellow": "#dcc060",
+  "brightBlue": "#88aac8",
+  "brightPurple": "#c498b4",
+  "brightCyan": "#90c0b4",
+  "brightWhite": "#ece4d4"
+}

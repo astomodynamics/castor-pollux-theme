@@ -1,0 +1,22 @@
+! Castor Arctic - Castor & Pollux Theme Collection
+
+*.background: #0c1520
+*.foreground: #e3f2ff
+*.cursorColor: #a8d8ff
+
+*.color0: #19293d
+*.color1: #ff8fb3
+*.color2: #7dffd4
+*.color3: #d1eaff
+*.color4: #5db3ff
+*.color5: #c7e3ff
+*.color6: #a8d8ff
+*.color7: #d4e8ff
+*.color8: #3d5975
+*.color9: #ffadc7
+*.color10: #9cffe3
+*.color11: #e8f4ff
+*.color12: #7dcaff
+*.color13: #dff0ff
+*.color14: #c7e3ff
+*.color15: #ffffff

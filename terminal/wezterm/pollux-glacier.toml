@@ -1,0 +1,18 @@
+# Pollux Glacier - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Glacier"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0b1018"
+foreground = "#e8f2fa"
+cursor_bg = "#a0d0f0"
+cursor_fg = "#0b1018"
+cursor_border = "#a0d0f0"
+selection_bg = "#70c0e844"
+selection_fg = "#e8f2fa"
+
+[colors.ansi]
+ansi = ["#1a2a3a", "#f08080", "#80e0c0", "#e0d090", "#70c0e8", "#c0a0e0", "#80d8f0", "#d0e4f4"]
+brights = ["#4a6080", "#ffa0a0", "#a0f0d0", "#f0e0a0", "#90d8ff", "#d0b8f0", "#a0e8ff", "#ffffff"]

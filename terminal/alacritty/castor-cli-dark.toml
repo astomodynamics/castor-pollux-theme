@@ -1,0 +1,33 @@
+# Castor CLI Dark - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#282A36"
+foreground = "#F8F8F2"
+
+[colors.cursor]
+text = "#282A36"
+cursor = "#F8F8F2"
+
+[colors.selection]
+text = CellForeground
+background = "#44475A"
+
+[colors.normal]
+black = "#21222C"
+red = "#FF5555"
+green = "#98C379"
+yellow = "#F1FA8C"
+blue = "#61AFEF"
+magenta = "#C678DD"
+cyan = "#56B6C2"
+white = "#F8F8F2"
+
+[colors.bright]
+black = "#6272A4"
+red = "#FF6E6E"
+green = "#A8D88C"
+yellow = "#F4FC9F"
+blue = "#82AAFF"
+magenta = "#D9A8F1"
+cyan = "#8BE9FD"
+white = "#FFFFFF"

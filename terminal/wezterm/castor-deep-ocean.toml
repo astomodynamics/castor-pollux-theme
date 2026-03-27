@@ -1,0 +1,18 @@
+# Castor Deep Ocean - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Deep Ocean"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0a1520"
+foreground = "#d9f0ff"
+cursor_bg = "#3dd9ff"
+cursor_fg = "#0a1520"
+cursor_border = "#3dd9ff"
+selection_bg = "#20b8d844"
+selection_fg = "#d9f0ff"
+
+[colors.ansi]
+ansi = ["#16293a", "#ff577f", "#3fffa8", "#ffdb70", "#3dd9ff", "#8cd4ff", "#5dffc7", "#c5e8f7"]
+brights = ["#3a5566", "#ff799c", "#6fffbf", "#ffe68f", "#63e5ff", "#a6e0ff", "#82ffd6", "#ffffff"]

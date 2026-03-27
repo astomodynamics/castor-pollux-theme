@@ -1,0 +1,22 @@
+! Pollux Abyss - Castor & Pollux Theme Collection
+
+*.background: #080b12
+*.foreground: #c5d3e8
+*.cursorColor: #4fc3f7
+
+*.color0: #111926
+*.color1: #ef5350
+*.color2: #69f0ae
+*.color3: #ffd740
+*.color4: #29b6f6
+*.color5: #b388ff
+*.color6: #4fc3f7
+*.color7: #9eb3c7
+*.color8: #3d4d5e
+*.color9: #ff8a80
+*.color10: #b9f6ca
+*.color11: #ffe57f
+*.color12: #81d4fa
+*.color13: #d1c4e9
+*.color14: #80deea
+*.color15: #eceff1

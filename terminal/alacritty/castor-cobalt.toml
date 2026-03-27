@@ -1,0 +1,33 @@
+# Castor Cobalt - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0a0e1a"
+foreground = "#e4ecf7"
+
+[colors.cursor]
+text = "#0a0e1a"
+cursor = "#5c8fcc"
+
+[colors.selection]
+text = CellForeground
+background = "#2060c044"
+
+[colors.normal]
+black = "#1a2540"
+red = "#e05070"
+green = "#40c090"
+yellow = "#d0a050"
+blue = "#2060c0"
+magenta = "#8070c0"
+cyan = "#40a0c0"
+white = "#c5d4e8"
+
+[colors.bright]
+black = "#3a4a6b"
+red = "#f07090"
+green = "#60d0a0"
+yellow = "#e0b060"
+blue = "#4080e0"
+magenta = "#a090d0"
+cyan = "#60b0d0"
+white = "#ffffff"

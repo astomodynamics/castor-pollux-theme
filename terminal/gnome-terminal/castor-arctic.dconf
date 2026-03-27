@@ -1,0 +1,14 @@
+# Castor Arctic - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Arctic'
+background-color='#0c1520'
+foreground-color='#e3f2ff'
+cursor-background-color='#a8d8ff'
+cursor-foreground-color='#0c1520'
+highlight-background-color='#5db3ff44'
+highlight-foreground-color='#e3f2ff'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#19293d', '#ff8fb3', '#7dffd4', '#d1eaff', '#5db3ff', '#c7e3ff', '#a8d8ff', '#d4e8ff', '#3d5975', '#ffadc7', '#9cffe3', '#e8f4ff', '#7dcaff', '#dff0ff', '#c7e3ff', '#ffffff']

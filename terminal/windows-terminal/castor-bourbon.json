@@ -1,0 +1,23 @@
+{
+  "name": "Castor Bourbon",
+  "background": "#151008",
+  "foreground": "#c8bcaa",
+  "cursorColor": "#d4a030",
+  "selectionBackground": "#d4a03040",
+  "black": "#2c2418",
+  "red": "#c85840",
+  "green": "#88b470",
+  "yellow": "#d4a030",
+  "blue": "#6a90b8",
+  "purple": "#b07898",
+  "cyan": "#60a8a0",
+  "white": "#c8bcaa",
+  "brightBlack": "#5c4e34",
+  "brightRed": "#e07858",
+  "brightGreen": "#a8cc8c",
+  "brightYellow": "#e8b848",
+  "brightBlue": "#88a8d0",
+  "brightPurple": "#c898b4",
+  "brightCyan": "#80c0b8",
+  "brightWhite": "#ece0cc"
+}

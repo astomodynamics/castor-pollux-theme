@@ -1,0 +1,33 @@
+# Pollux Sapphire - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0a0f1e"
+foreground = "#dce9ff"
+
+[colors.cursor]
+text = "#0a0f1e"
+cursor = "#5d9cff"
+
+[colors.selection]
+text = CellForeground
+background = "#3d7aff44"
+
+[colors.normal]
+black = "#152342"
+red = "#ff5c8d"
+green = "#66d9ef"
+yellow = "#ffd073"
+blue = "#3d7aff"
+magenta = "#ae81ff"
+cyan = "#5d9cff"
+white = "#c7dcff"
+
+[colors.bright]
+black = "#2d456b"
+red = "#ff7aa6"
+green = "#87e8ff"
+yellow = "#ffd995"
+blue = "#5d8fff"
+magenta = "#c49dff"
+cyan = "#80b8ff"
+white = "#ffffff"

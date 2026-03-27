@@ -1,0 +1,18 @@
+# Castor Amethyst - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Amethyst"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#16121a"
+foreground = "#ebe6f0"
+cursor_bg = "#d4a5f0"
+cursor_fg = "#16121a"
+cursor_border = "#d4a5f0"
+selection_bg = "#b87dd944"
+selection_fg = "#ebe6f0"
+
+[colors.ansi]
+ansi = ["#2a1e38", "#e06080", "#70d890", "#e0c070", "#70a0e0", "#b87dd9", "#60c8d0", "#ddd5e8"]
+brights = ["#5a506b", "#f080a0", "#90e8b0", "#f0d890", "#90b8f0", "#d4a5f0", "#80d8e0", "#ffffff"]

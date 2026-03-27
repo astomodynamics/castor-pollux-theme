@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Sovereign",
+  "background": "#060c1f",
+  "foreground": "#b8c8e0",
+  "cursorColor": "#ffb627",
+  "selectionBackground": "#1a357070",
+  "black": "#111d38",
+  "red": "#f06878",
+  "green": "#55d49a",
+  "yellow": "#ffb627",
+  "blue": "#4a7fb5",
+  "purple": "#b085e6",
+  "cyan": "#4cc9d8",
+  "white": "#b8c8e0",
+  "brightBlack": "#385270",
+  "brightRed": "#ff8a97",
+  "brightGreen": "#7ae4b5",
+  "brightYellow": "#ffc94c",
+  "brightBlue": "#6e9ecc",
+  "brightPurple": "#caa0f5",
+  "brightCyan": "#6fd8e5",
+  "brightWhite": "#ffffff"
+}

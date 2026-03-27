@@ -1,0 +1,33 @@
+# Castor Zenn Dark - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0f172a"
+foreground = "#e2e8f0"
+
+[colors.cursor]
+text = "#0f172a"
+cursor = "#38bdf8"
+
+[colors.selection]
+text = CellForeground
+background = "#3b82f644"
+
+[colors.normal]
+black = "#1e293b"
+red = "#f43f5e"
+green = "#22c55e"
+yellow = "#fbbf24"
+blue = "#3b82f6"
+magenta = "#a855f7"
+cyan = "#06b6d4"
+white = "#cbd5e1"
+
+[colors.bright]
+black = "#475569"
+red = "#fb7185"
+green = "#4ade80"
+yellow = "#fcd34d"
+blue = "#60a5fa"
+magenta = "#c084fc"
+cyan = "#22d3ee"
+white = "#f1f5f9"

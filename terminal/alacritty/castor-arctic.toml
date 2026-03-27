@@ -1,0 +1,33 @@
+# Castor Arctic - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0c1520"
+foreground = "#e3f2ff"
+
+[colors.cursor]
+text = "#0c1520"
+cursor = "#a8d8ff"
+
+[colors.selection]
+text = CellForeground
+background = "#5db3ff44"
+
+[colors.normal]
+black = "#19293d"
+red = "#ff8fb3"
+green = "#7dffd4"
+yellow = "#d1eaff"
+blue = "#5db3ff"
+magenta = "#c7e3ff"
+cyan = "#a8d8ff"
+white = "#d4e8ff"
+
+[colors.bright]
+black = "#3d5975"
+red = "#ffadc7"
+green = "#9cffe3"
+yellow = "#e8f4ff"
+blue = "#7dcaff"
+magenta = "#dff0ff"
+cyan = "#c7e3ff"
+white = "#ffffff"

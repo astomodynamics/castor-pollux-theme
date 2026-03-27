@@ -1,0 +1,18 @@
+# Castor Arctic - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Arctic"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0c1520"
+foreground = "#e3f2ff"
+cursor_bg = "#a8d8ff"
+cursor_fg = "#0c1520"
+cursor_border = "#a8d8ff"
+selection_bg = "#5db3ff44"
+selection_fg = "#e3f2ff"
+
+[colors.ansi]
+ansi = ["#19293d", "#ff8fb3", "#7dffd4", "#d1eaff", "#5db3ff", "#c7e3ff", "#a8d8ff", "#d4e8ff"]
+brights = ["#3d5975", "#ffadc7", "#9cffe3", "#e8f4ff", "#7dcaff", "#dff0ff", "#c7e3ff", "#ffffff"]

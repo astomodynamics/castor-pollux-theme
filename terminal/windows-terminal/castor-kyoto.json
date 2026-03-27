@@ -1,0 +1,23 @@
+{
+  "name": "Castor Kyoto",
+  "background": "#12100e",
+  "foreground": "#c8c0b4",
+  "cursorColor": "#d4453a",
+  "selectionBackground": "#d4453a40",
+  "black": "#2a2420",
+  "red": "#d4453a",
+  "green": "#7aaa68",
+  "yellow": "#c9a94e",
+  "blue": "#5a8ab0",
+  "purple": "#b07090",
+  "cyan": "#68a0a0",
+  "white": "#c8c0b4",
+  "brightBlack": "#5a4e42",
+  "brightRed": "#e86058",
+  "brightGreen": "#98c488",
+  "brightYellow": "#dcc06a",
+  "brightBlue": "#78a8cc",
+  "brightPurple": "#cc8aaa",
+  "brightCyan": "#88bebe",
+  "brightWhite": "#f0e8dc"
+}

@@ -1,0 +1,33 @@
+# Pollux Nebula - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#150a1f"
+foreground = "#f0e5ff"
+
+[colors.cursor]
+text = "#150a1f"
+cursor = "#ff6bc7"
+
+[colors.selection]
+text = CellForeground
+background = "#c77dff44"
+
+[colors.normal]
+black = "#2a1a3f"
+red = "#ff6b9d"
+green = "#80ff9e"
+yellow = "#ffca80"
+blue = "#9d5eff"
+magenta = "#ff6bc7"
+cyan = "#78d9ff"
+white = "#e8d7ff"
+
+[colors.bright]
+black = "#6a4d7a"
+red = "#ff8cb8"
+green = "#a0ffbc"
+yellow = "#ffd99d"
+blue = "#b882ff"
+magenta = "#ff8cd8"
+cyan = "#9de8ff"
+white = "#ffffff"

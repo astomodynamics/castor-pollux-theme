@@ -1,0 +1,18 @@
+# Pollux Cosmic Dark - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Cosmic Dark"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0d1420"
+foreground = "#e6edf3"
+cursor_bg = "#4796E3"
+cursor_fg = "#0d1420"
+cursor_border = "#4796E3"
+selection_bg = "#9177C744"
+selection_fg = "#e6edf3"
+
+[colors.ansi]
+ansi = ["#484f58", "#ff7b72", "#3fb950", "#d29922", "#4796E3", "#9177C7", "#39c5cf", "#b1bac4"]
+brights = ["#6e7681", "#CA6673", "#56d364", "#e3b341", "#79c0ff", "#d2a8ff", "#56d4dd", "#f0f6fc"]

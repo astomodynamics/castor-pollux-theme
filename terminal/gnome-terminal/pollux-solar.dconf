@@ -1,0 +1,14 @@
+# Pollux Solar - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Solar'
+background-color='#0f1419'
+foreground-color='#e6e1cf'
+cursor-background-color='#ffa726'
+cursor-foreground-color='#0f1419'
+highlight-background-color='#ffcc0044'
+highlight-foreground-color='#e6e1cf'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1a2437', '#ff6b6b', '#5dd8a8', '#ffcc00', '#4d9fff', '#c792ea', '#36d9d9', '#d9d5c7', '#4a5670', '#ff8787', '#80e8bf', '#ffd633', '#70b3ff', '#d9a9f5', '#5ce6e6', '#ffffff']

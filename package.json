@@ -217,6 +217,36 @@
         "label": "Castor Georgia Tech",
         "uiTheme": "vs-dark",
         "path": "./themes/castor-georgia-tech-dark.json"
+      },
+      {
+        "label": "Castor Verdant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-verdant-dark.json"
+      },
+      {
+        "label": "Castor Kyoto",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-kyoto-dark.json"
+      },
+      {
+        "label": "Pollux Dune",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-dune-dark.json"
+      },
+      {
+        "label": "Castor Oxblood",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-oxblood-dark.json"
+      },
+      {
+        "label": "Pollux Patina",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-patina-dark.json"
+      },
+      {
+        "label": "Castor Bourbon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-bourbon-dark.json"
       }
     ]
   },

@@ -1,0 +1,22 @@
+! Pollux Baltic - Castor & Pollux Theme Collection
+
+*.background: #08121c
+*.foreground: #c8d8e0
+*.cursorColor: #88c8e8
+
+*.color0: #142028
+*.color1: #d08888
+*.color2: #80d0a8
+*.color3: #d0c888
+*.color4: #88c8e8
+*.color5: #b0a8c8
+*.color6: #80d0d8
+*.color7: #c8d8e0
+*.color8: #486878
+*.color9: #e8a8a8
+*.color10: #a0e8c8
+*.color11: #e8e0a0
+*.color12: #a8e0f8
+*.color13: #d0c8e0
+*.color14: #a0e8f0
+*.color15: #ffffff

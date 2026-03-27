@@ -1,0 +1,23 @@
+{
+  "name": "Castor Storm",
+  "background": "#0d1520",
+  "foreground": "#b8c8d8",
+  "cursorColor": "#f0d050",
+  "selectionBackground": "#28405080",
+  "black": "#1a2430",
+  "red": "#c87878",
+  "green": "#78b898",
+  "yellow": "#f0d050",
+  "blue": "#6090b8",
+  "purple": "#9888b8",
+  "cyan": "#68a8b8",
+  "white": "#b8c8d8",
+  "brightBlack": "#506878",
+  "brightRed": "#e09898",
+  "brightGreen": "#98d8b8",
+  "brightYellow": "#f8e080",
+  "brightBlue": "#80b0d8",
+  "brightPurple": "#b8a8d0",
+  "brightCyan": "#88c8d8",
+  "brightWhite": "#ffffff"
+}

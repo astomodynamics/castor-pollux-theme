@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Obsidian",
+  "background": "#0c0c0c",
+  "foreground": "#d4d4d4",
+  "cursorColor": "#00d4ff",
+  "selectionBackground": "#00a8cc44",
+  "black": "#1a1a1a",
+  "red": "#ff3366",
+  "green": "#00ff88",
+  "yellow": "#ffcc00",
+  "blue": "#00a8cc",
+  "purple": "#cc66ff",
+  "cyan": "#00d4ff",
+  "white": "#b0b0b0",
+  "brightBlack": "#505050",
+  "brightRed": "#ff6699",
+  "brightGreen": "#66ffaa",
+  "brightYellow": "#ffdd55",
+  "brightBlue": "#55ccee",
+  "brightPurple": "#dd99ff",
+  "brightCyan": "#55e5ff",
+  "brightWhite": "#ffffff"
+}

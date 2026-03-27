@@ -1,0 +1,18 @@
+# Pollux Sapphire - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Sapphire"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0a0f1e"
+foreground = "#dce9ff"
+cursor_bg = "#5d9cff"
+cursor_fg = "#0a0f1e"
+cursor_border = "#5d9cff"
+selection_bg = "#3d7aff44"
+selection_fg = "#dce9ff"
+
+[colors.ansi]
+ansi = ["#152342", "#ff5c8d", "#66d9ef", "#ffd073", "#3d7aff", "#ae81ff", "#5d9cff", "#c7dcff"]
+brights = ["#2d456b", "#ff7aa6", "#87e8ff", "#ffd995", "#5d8fff", "#c49dff", "#80b8ff", "#ffffff"]

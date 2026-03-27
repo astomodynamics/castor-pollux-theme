@@ -1,0 +1,14 @@
+# Pollux Aurora - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Aurora'
+background-color='#0f1218'
+foreground-color='#e8eef5'
+cursor-background-color='#ff6b9d'
+cursor-foreground-color='#0f1218'
+highlight-background-color='#00d9a044'
+highlight-foreground-color='#e8eef5'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1a2030', '#ff6b9d', '#00d9a0', '#ffd060', '#60a0ff', '#d080ff', '#00d0d0', '#dce4ed', '#4a5568', '#ff8fb8', '#40f0c0', '#ffe080', '#80b8ff', '#e0a0ff', '#40e8e8', '#ffffff']

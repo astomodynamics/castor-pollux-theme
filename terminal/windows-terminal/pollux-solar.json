@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Solar",
+  "background": "#0f1419",
+  "foreground": "#e6e1cf",
+  "cursorColor": "#ffa726",
+  "selectionBackground": "#ffcc0044",
+  "black": "#1a2437",
+  "red": "#ff6b6b",
+  "green": "#5dd8a8",
+  "yellow": "#ffcc00",
+  "blue": "#4d9fff",
+  "purple": "#c792ea",
+  "cyan": "#36d9d9",
+  "white": "#d9d5c7",
+  "brightBlack": "#4a5670",
+  "brightRed": "#ff8787",
+  "brightGreen": "#80e8bf",
+  "brightYellow": "#ffd633",
+  "brightBlue": "#70b3ff",
+  "brightPurple": "#d9a9f5",
+  "brightCyan": "#5ce6e6",
+  "brightWhite": "#ffffff"
+}

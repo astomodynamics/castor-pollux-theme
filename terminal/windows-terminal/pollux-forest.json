@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Forest",
+  "background": "#0f1a14",
+  "foreground": "#e0f0e6",
+  "cursorColor": "#7dd99a",
+  "selectionBackground": "#4dbd6a44",
+  "black": "#1a3024",
+  "red": "#e06070",
+  "green": "#4dbd6a",
+  "yellow": "#d9c070",
+  "blue": "#60a0d0",
+  "purple": "#c080c0",
+  "cyan": "#50c0b0",
+  "white": "#d5e8db",
+  "brightBlack": "#506858",
+  "brightRed": "#f08090",
+  "brightGreen": "#7dd99a",
+  "brightYellow": "#e8d890",
+  "brightBlue": "#80b8e0",
+  "brightPurple": "#d8a0d8",
+  "brightCyan": "#70d8c8",
+  "brightWhite": "#ffffff"
+}

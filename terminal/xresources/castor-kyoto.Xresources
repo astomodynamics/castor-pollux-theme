@@ -1,0 +1,22 @@
+! Castor Kyoto - Castor & Pollux Theme Collection
+
+*.background: #12100e
+*.foreground: #c8c0b4
+*.cursorColor: #d4453a
+
+*.color0: #2a2420
+*.color1: #d4453a
+*.color2: #7aaa68
+*.color3: #c9a94e
+*.color4: #5a8ab0
+*.color5: #b07090
+*.color6: #68a0a0
+*.color7: #c8c0b4
+*.color8: #5a4e42
+*.color9: #e86058
+*.color10: #98c488
+*.color11: #dcc06a
+*.color12: #78a8cc
+*.color13: #cc8aaa
+*.color14: #88bebe
+*.color15: #f0e8dc

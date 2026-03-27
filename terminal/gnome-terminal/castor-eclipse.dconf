@@ -1,0 +1,14 @@
+# Castor Eclipse - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Eclipse'
+background-color='#1a1d23'
+foreground-color='#e8ecf2'
+cursor-background-color='#4796E3'
+cursor-foreground-color='#1a1d23'
+highlight-background-color='#9177C744'
+highlight-foreground-color='#e8ecf2'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#2a2e38', '#ff5c7a', '#4dffb8', '#ffc757', '#4796E3', '#9177C7', '#3dd7ff', '#dce2ea', '#5a5f70', '#ff7a94', '#71ffc8', '#ffd57a', '#6baeff', '#aa94dc', '#63e5ff', '#ffffff']

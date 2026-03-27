@@ -1,0 +1,33 @@
+# Castor Georgia Tech - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#001528"
+foreground = "#c0c8d8"
+
+[colors.cursor]
+text = "#001528"
+cursor = "#B3A369"
+
+[colors.selection]
+text = CellForeground
+background = "#00305770"
+
+[colors.normal]
+black = "#0d2640"
+red = "#e06070"
+green = "#6cc490"
+yellow = "#B3A369"
+blue = "#4a88c0"
+magenta = "#a080c8"
+cyan = "#50b0c0"
+white = "#c0c8d8"
+
+[colors.bright]
+black = "#3a5878"
+red = "#f08090"
+green = "#90d8aa"
+yellow = "#c8bd86"
+blue = "#70a8d8"
+magenta = "#baa0dd"
+cyan = "#70c8d5"
+white = "#ffffff"

@@ -1,0 +1,23 @@
+{
+  "name": "Castor Georgia Tech",
+  "background": "#001528",
+  "foreground": "#c0c8d8",
+  "cursorColor": "#B3A369",
+  "selectionBackground": "#00305770",
+  "black": "#0d2640",
+  "red": "#e06070",
+  "green": "#6cc490",
+  "yellow": "#B3A369",
+  "blue": "#4a88c0",
+  "purple": "#a080c8",
+  "cyan": "#50b0c0",
+  "white": "#c0c8d8",
+  "brightBlack": "#3a5878",
+  "brightRed": "#f08090",
+  "brightGreen": "#90d8aa",
+  "brightYellow": "#c8bd86",
+  "brightBlue": "#70a8d8",
+  "brightPurple": "#baa0dd",
+  "brightCyan": "#70c8d5",
+  "brightWhite": "#ffffff"
+}

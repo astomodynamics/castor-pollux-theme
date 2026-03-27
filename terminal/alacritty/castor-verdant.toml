@@ -1,0 +1,33 @@
+# Castor Verdant - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0b1411"
+foreground = "#d4e5dc"
+
+[colors.cursor]
+text = "#0b1411"
+cursor = "#3fb87c"
+
+[colors.selection]
+text = CellForeground
+background = "#3fb87c44"
+
+[colors.normal]
+black = "#1a2e24"
+red = "#e85d5d"
+green = "#3fb87c"
+yellow = "#d4a642"
+blue = "#5a9bcf"
+magenta = "#c07ed4"
+cyan = "#49c5b6"
+white = "#c2d8cd"
+
+[colors.bright]
+black = "#4a6b5a"
+red = "#f07878"
+green = "#5fd69a"
+yellow = "#e0ba5e"
+blue = "#74b0de"
+magenta = "#d49ae6"
+cyan = "#6ad4c7"
+white = "#f0f5f2"

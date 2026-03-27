@@ -1,0 +1,23 @@
+{
+  "name": "Castor Carbon",
+  "background": "#161616",
+  "foreground": "#f4f4f4",
+  "cursorColor": "#0f62fe",
+  "selectionBackground": "#0f62fe44",
+  "black": "#262626",
+  "red": "#fa4d56",
+  "green": "#42be65",
+  "yellow": "#f1c21b",
+  "blue": "#0f62fe",
+  "purple": "#a56eff",
+  "cyan": "#33b1ff",
+  "white": "#c6c6c6",
+  "brightBlack": "#525252",
+  "brightRed": "#ff8389",
+  "brightGreen": "#6fdc8c",
+  "brightYellow": "#fddc69",
+  "brightBlue": "#78a9ff",
+  "brightPurple": "#be95ff",
+  "brightCyan": "#82cfff",
+  "brightWhite": "#ffffff"
+}

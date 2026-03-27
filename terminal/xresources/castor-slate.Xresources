@@ -1,0 +1,22 @@
+! Castor Slate - Castor & Pollux Theme Collection
+
+*.background: #1e2028
+*.foreground: #c9d1d9
+*.cursorColor: #58a6ff
+
+*.color0: #21262d
+*.color1: #ff7b72
+*.color2: #7ee787
+*.color3: #e3b341
+*.color4: #58a6ff
+*.color5: #bc8cff
+*.color6: #79c0ff
+*.color7: #b1bac4
+*.color8: #484f58
+*.color9: #ffa198
+*.color10: #a5d6a7
+*.color11: #f3e5ab
+*.color12: #79c0ff
+*.color13: #d2a8ff
+*.color14: #a5d6ff
+*.color15: #f0f6fc

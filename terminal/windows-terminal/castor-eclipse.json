@@ -1,0 +1,23 @@
+{
+  "name": "Castor Eclipse",
+  "background": "#1a1d23",
+  "foreground": "#e8ecf2",
+  "cursorColor": "#4796E3",
+  "selectionBackground": "#9177C744",
+  "black": "#2a2e38",
+  "red": "#ff5c7a",
+  "green": "#4dffb8",
+  "yellow": "#ffc757",
+  "blue": "#4796E3",
+  "purple": "#9177C7",
+  "cyan": "#3dd7ff",
+  "white": "#dce2ea",
+  "brightBlack": "#5a5f70",
+  "brightRed": "#ff7a94",
+  "brightGreen": "#71ffc8",
+  "brightYellow": "#ffd57a",
+  "brightBlue": "#6baeff",
+  "brightPurple": "#aa94dc",
+  "brightCyan": "#63e5ff",
+  "brightWhite": "#ffffff"
+}

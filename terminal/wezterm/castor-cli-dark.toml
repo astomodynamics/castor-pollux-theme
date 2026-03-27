@@ -1,0 +1,18 @@
+# Castor CLI Dark - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor CLI Dark"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#282A36"
+foreground = "#F8F8F2"
+cursor_bg = "#F8F8F2"
+cursor_fg = "#282A36"
+cursor_border = "#F8F8F2"
+selection_bg = "#44475A"
+selection_fg = "#F8F8F2"
+
+[colors.ansi]
+ansi = ["#21222C", "#FF5555", "#98C379", "#F1FA8C", "#61AFEF", "#C678DD", "#56B6C2", "#F8F8F2"]
+brights = ["#6272A4", "#FF6E6E", "#A8D88C", "#F4FC9F", "#82AAFF", "#D9A8F1", "#8BE9FD", "#FFFFFF"]

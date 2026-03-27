@@ -1,0 +1,22 @@
+! Pollux Glacier - Castor & Pollux Theme Collection
+
+*.background: #0b1018
+*.foreground: #e8f2fa
+*.cursorColor: #a0d0f0
+
+*.color0: #1a2a3a
+*.color1: #f08080
+*.color2: #80e0c0
+*.color3: #e0d090
+*.color4: #70c0e8
+*.color5: #c0a0e0
+*.color6: #80d8f0
+*.color7: #d0e4f4
+*.color8: #4a6080
+*.color9: #ffa0a0
+*.color10: #a0f0d0
+*.color11: #f0e0a0
+*.color12: #90d8ff
+*.color13: #d0b8f0
+*.color14: #a0e8ff
+*.color15: #ffffff

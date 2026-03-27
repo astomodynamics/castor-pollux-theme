@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Indigo",
+  "background": "#0f1224",
+  "foreground": "#e5e8f5",
+  "cursorColor": "#8c9eff",
+  "selectionBackground": "#667aff44",
+  "black": "#1a1f3d",
+  "red": "#ff6b93",
+  "green": "#69f0ae",
+  "yellow": "#c7b3ff",
+  "blue": "#667aff",
+  "purple": "#b388ff",
+  "cyan": "#8c9eff",
+  "white": "#d2d8f0",
+  "brightBlack": "#3d4563",
+  "brightRed": "#ff8bab",
+  "brightGreen": "#8affca",
+  "brightYellow": "#d9caff",
+  "brightBlue": "#8c9eff",
+  "brightPurple": "#caa5ff",
+  "brightCyan": "#a5b3ff",
+  "brightWhite": "#ffffff"
+}

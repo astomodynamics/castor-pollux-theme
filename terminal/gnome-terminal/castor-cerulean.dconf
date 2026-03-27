@@ -1,0 +1,14 @@
+# Castor Cerulean - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Cerulean'
+background-color='#0a1420'
+foreground-color='#e0f0f8'
+cursor-background-color='#60b8e0'
+cursor-foreground-color='#0a1420'
+highlight-background-color='#00a0d844'
+highlight-foreground-color='#e0f0f8'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#183040', '#f06080', '#40d8a0', '#e8c860', '#00a0d8', '#a880d8', '#40c8f0', '#c8e0f0', '#386080', '#ff80a0', '#60f0b8', '#f8d870', '#40c0f8', '#c0a0f0', '#60e0ff', '#ffffff']

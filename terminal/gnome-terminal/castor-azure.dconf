@@ -1,0 +1,14 @@
+# Castor Azure - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Azure'
+background-color='#0d1621'
+foreground-color='#e0f0ff'
+cursor-background-color='#66b3ff'
+cursor-foreground-color='#0d1621'
+highlight-background-color='#3399ff44'
+highlight-foreground-color='#e0f0ff'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1a2b42', '#ff668c', '#52d9c4', '#cce0ff', '#3399ff', '#99ccff', '#66b3ff', '#cfe5ff', '#385573', '#ff85a3', '#75ead9', '#e6f0ff', '#52adff', '#b3d9ff', '#85c7ff', '#ffffff']

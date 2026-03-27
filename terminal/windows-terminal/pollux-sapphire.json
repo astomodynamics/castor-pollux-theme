@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Sapphire",
+  "background": "#0a0f1e",
+  "foreground": "#dce9ff",
+  "cursorColor": "#5d9cff",
+  "selectionBackground": "#3d7aff44",
+  "black": "#152342",
+  "red": "#ff5c8d",
+  "green": "#66d9ef",
+  "yellow": "#ffd073",
+  "blue": "#3d7aff",
+  "purple": "#ae81ff",
+  "cyan": "#5d9cff",
+  "white": "#c7dcff",
+  "brightBlack": "#2d456b",
+  "brightRed": "#ff7aa6",
+  "brightGreen": "#87e8ff",
+  "brightYellow": "#ffd995",
+  "brightBlue": "#5d8fff",
+  "brightPurple": "#c49dff",
+  "brightCyan": "#80b8ff",
+  "brightWhite": "#ffffff"
+}

@@ -1,0 +1,22 @@
+! Pollux Patina - Castor & Pollux Theme Collection
+
+*.background: #0c1614
+*.foreground: #b8ccc6
+*.cursorColor: #50b8a0
+
+*.color0: #1e322c
+*.color1: #c86858
+*.color2: #50b8a0
+*.color3: #c88060
+*.color4: #5898c0
+*.color5: #a080b8
+*.color6: #48b0b8
+*.color7: #b8ccc6
+*.color8: #3e5e54
+*.color9: #e08878
+*.color10: #70d0b8
+*.color11: #e0a080
+*.color12: #78b0d0
+*.color13: #bca0d0
+*.color14: #68c8d0
+*.color15: #e8f0ec
