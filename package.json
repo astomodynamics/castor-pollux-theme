@@ -247,6 +247,31 @@
         "label": "Castor Bourbon",
         "uiTheme": "vs-dark",
         "path": "./themes/castor-bourbon-dark.json"
+      },
+      {
+        "label": "Castor Solaris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-solaris-dark.json"
+      },
+      {
+        "label": "Pollux Meridian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-meridian-dark.json"
+      },
+      {
+        "label": "Castor Voltage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-voltage-dark.json"
+      },
+      {
+        "label": "Pollux Ironside",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pollux-ironside-dark.json"
+      },
+      {
+        "label": "Castor Flagship",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-flagship-dark.json"
       }
     ]
   },

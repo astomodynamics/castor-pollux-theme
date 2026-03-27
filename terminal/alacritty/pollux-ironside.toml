@@ -1,0 +1,33 @@
+# Pollux Ironside - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#081820"
+foreground = "#E0E8EC"
+
+[colors.cursor]
+text = "#081820"
+cursor = "#E07030"
+
+[colors.selection]
+text = CellForeground
+background = "#E0703038"
+
+[colors.normal]
+black = "#102838"
+red = "#E04840"
+green = "#40C870"
+yellow = "#E07030"
+blue = "#3890D0"
+magenta = "#B860C8"
+cyan = "#30B8C8"
+white = "#E0E8EC"
+
+[colors.bright]
+black = "#385060"
+red = "#F07068"
+green = "#68E090"
+yellow = "#F09050"
+blue = "#60A8E0"
+magenta = "#D080E0"
+cyan = "#58D0D8"
+white = "#ffffff"

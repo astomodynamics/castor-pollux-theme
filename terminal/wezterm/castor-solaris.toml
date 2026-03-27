@@ -1,0 +1,18 @@
+# Castor Solaris - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Solaris"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#041830"
+foreground = "#e8ecf4"
+cursor_bg = "#FF8C00"
+cursor_fg = "#041830"
+cursor_border = "#FF8C00"
+selection_bg = "#FF8C0038"
+selection_fg = "#e8ecf4"
+
+[colors.ansi]
+ansi = ["#0c2a50", "#FF4136", "#2ECC40", "#FF8C00", "#2EA4FF", "#E040A0", "#20C4D4", "#e8ecf4"]
+brights = ["#3a5878", "#FF6B60", "#5EE070", "#FFAA40", "#60BBFF", "#F070C0", "#50D8E4", "#ffffff"]

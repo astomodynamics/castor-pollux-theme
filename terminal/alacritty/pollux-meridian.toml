@@ -1,0 +1,33 @@
+# Pollux Meridian - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#021A28"
+foreground = "#e4ecf0"
+
+[colors.cursor]
+text = "#021A28"
+cursor = "#00D48C"
+
+[colors.selection]
+text = CellForeground
+background = "#00D48C38"
+
+[colors.normal]
+black = "#0a3048"
+red = "#F04848"
+green = "#00D48C"
+yellow = "#F0C040"
+blue = "#3898E0"
+magenta = "#C868E0"
+cyan = "#00C0D8"
+white = "#e4ecf0"
+
+[colors.bright]
+black = "#2e5468"
+red = "#F87070"
+green = "#40E8A8"
+yellow = "#F8D060"
+blue = "#60B0F0"
+magenta = "#E090F0"
+cyan = "#40D8E8"
+white = "#ffffff"

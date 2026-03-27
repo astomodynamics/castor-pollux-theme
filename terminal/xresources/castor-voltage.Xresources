@@ -1,0 +1,22 @@
+! Castor Voltage - Castor & Pollux Theme Collection
+
+*.background: #0A0A2E
+*.foreground: #E8E4F4
+*.cursorColor: #FFD600
+
+*.color0: #181850
+*.color1: #FF2D78
+*.color2: #48E880
+*.color3: #FFD600
+*.color4: #4488FF
+*.color5: #D050FF
+*.color6: #00D4F0
+*.color7: #E8E4F4
+*.color8: #383870
+*.color9: #FF5898
+*.color10: #78F0A0
+*.color11: #FFE440
+*.color12: #70A8FF
+*.color13: #E080FF
+*.color14: #40E0FF
+*.color15: #ffffff

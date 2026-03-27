@@ -1,0 +1,23 @@
+{
+  "name": "Castor Solaris",
+  "background": "#041830",
+  "foreground": "#e8ecf4",
+  "cursorColor": "#FF8C00",
+  "selectionBackground": "#FF8C0038",
+  "black": "#0c2a50",
+  "red": "#FF4136",
+  "green": "#2ECC40",
+  "yellow": "#FF8C00",
+  "blue": "#2EA4FF",
+  "purple": "#E040A0",
+  "cyan": "#20C4D4",
+  "white": "#e8ecf4",
+  "brightBlack": "#3a5878",
+  "brightRed": "#FF6B60",
+  "brightGreen": "#5EE070",
+  "brightYellow": "#FFAA40",
+  "brightBlue": "#60BBFF",
+  "brightPurple": "#F070C0",
+  "brightCyan": "#50D8E4",
+  "brightWhite": "#ffffff"
+}

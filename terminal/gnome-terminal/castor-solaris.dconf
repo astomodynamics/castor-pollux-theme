@@ -1,0 +1,14 @@
+# Castor Solaris - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Solaris'
+background-color='#041830'
+foreground-color='#e8ecf4'
+cursor-background-color='#FF8C00'
+cursor-foreground-color='#041830'
+highlight-background-color='#FF8C0038'
+highlight-foreground-color='#e8ecf4'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#0c2a50', '#FF4136', '#2ECC40', '#FF8C00', '#2EA4FF', '#E040A0', '#20C4D4', '#e8ecf4', '#3a5878', '#FF6B60', '#5EE070', '#FFAA40', '#60BBFF', '#F070C0', '#50D8E4', '#ffffff']

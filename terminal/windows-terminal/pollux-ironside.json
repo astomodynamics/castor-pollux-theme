@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Ironside",
+  "background": "#081820",
+  "foreground": "#E0E8EC",
+  "cursorColor": "#E07030",
+  "selectionBackground": "#E0703038",
+  "black": "#102838",
+  "red": "#E04840",
+  "green": "#40C870",
+  "yellow": "#E07030",
+  "blue": "#3890D0",
+  "purple": "#B860C8",
+  "cyan": "#30B8C8",
+  "white": "#E0E8EC",
+  "brightBlack": "#385060",
+  "brightRed": "#F07068",
+  "brightGreen": "#68E090",
+  "brightYellow": "#F09050",
+  "brightBlue": "#60A8E0",
+  "brightPurple": "#D080E0",
+  "brightCyan": "#58D0D8",
+  "brightWhite": "#ffffff"
+}

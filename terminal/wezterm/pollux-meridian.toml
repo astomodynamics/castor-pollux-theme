@@ -1,0 +1,18 @@
+# Pollux Meridian - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Meridian"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#021A28"
+foreground = "#e4ecf0"
+cursor_bg = "#00D48C"
+cursor_fg = "#021A28"
+cursor_border = "#00D48C"
+selection_bg = "#00D48C38"
+selection_fg = "#e4ecf0"
+
+[colors.ansi]
+ansi = ["#0a3048", "#F04848", "#00D48C", "#F0C040", "#3898E0", "#C868E0", "#00C0D8", "#e4ecf0"]
+brights = ["#2e5468", "#F87070", "#40E8A8", "#F8D060", "#60B0F0", "#E090F0", "#40D8E8", "#ffffff"]

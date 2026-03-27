@@ -1,0 +1,14 @@
+# Pollux Ironside - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Ironside'
+background-color='#081820'
+foreground-color='#E0E8EC'
+cursor-background-color='#E07030'
+cursor-foreground-color='#081820'
+highlight-background-color='#E0703038'
+highlight-foreground-color='#E0E8EC'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#102838', '#E04840', '#40C870', '#E07030', '#3890D0', '#B860C8', '#30B8C8', '#E0E8EC', '#385060', '#F07068', '#68E090', '#F09050', '#60A8E0', '#D080E0', '#58D0D8', '#ffffff']

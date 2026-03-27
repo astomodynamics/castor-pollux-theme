@@ -1,0 +1,18 @@
+# Pollux Ironside - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Pollux Ironside"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#081820"
+foreground = "#E0E8EC"
+cursor_bg = "#E07030"
+cursor_fg = "#081820"
+cursor_border = "#E07030"
+selection_bg = "#E0703038"
+selection_fg = "#E0E8EC"
+
+[colors.ansi]
+ansi = ["#102838", "#E04840", "#40C870", "#E07030", "#3890D0", "#B860C8", "#30B8C8", "#E0E8EC"]
+brights = ["#385060", "#F07068", "#68E090", "#F09050", "#60A8E0", "#D080E0", "#58D0D8", "#ffffff"]

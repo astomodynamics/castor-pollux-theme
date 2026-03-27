@@ -1,0 +1,14 @@
+# Castor Voltage - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Voltage'
+background-color='#0A0A2E'
+foreground-color='#E8E4F4'
+cursor-background-color='#FFD600'
+cursor-foreground-color='#0A0A2E'
+highlight-background-color='#FFD60038'
+highlight-foreground-color='#E8E4F4'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#181850', '#FF2D78', '#48E880', '#FFD600', '#4488FF', '#D050FF', '#00D4F0', '#E8E4F4', '#383870', '#FF5898', '#78F0A0', '#FFE440', '#70A8FF', '#E080FF', '#40E0FF', '#ffffff']

@@ -1,0 +1,23 @@
+{
+  "name": "Castor Voltage",
+  "background": "#0A0A2E",
+  "foreground": "#E8E4F4",
+  "cursorColor": "#FFD600",
+  "selectionBackground": "#FFD60038",
+  "black": "#181850",
+  "red": "#FF2D78",
+  "green": "#48E880",
+  "yellow": "#FFD600",
+  "blue": "#4488FF",
+  "purple": "#D050FF",
+  "cyan": "#00D4F0",
+  "white": "#E8E4F4",
+  "brightBlack": "#383870",
+  "brightRed": "#FF5898",
+  "brightGreen": "#78F0A0",
+  "brightYellow": "#FFE440",
+  "brightBlue": "#70A8FF",
+  "brightPurple": "#E080FF",
+  "brightCyan": "#40E0FF",
+  "brightWhite": "#ffffff"
+}

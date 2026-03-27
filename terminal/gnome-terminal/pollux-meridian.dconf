@@ -1,0 +1,14 @@
+# Pollux Meridian - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Pollux Meridian'
+background-color='#021A28'
+foreground-color='#e4ecf0'
+cursor-background-color='#00D48C'
+cursor-foreground-color='#021A28'
+highlight-background-color='#00D48C38'
+highlight-foreground-color='#e4ecf0'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#0a3048', '#F04848', '#00D48C', '#F0C040', '#3898E0', '#C868E0', '#00C0D8', '#e4ecf0', '#2e5468', '#F87070', '#40E8A8', '#F8D060', '#60B0F0', '#E090F0', '#40D8E8', '#ffffff']

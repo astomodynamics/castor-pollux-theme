@@ -1,0 +1,14 @@
+# Castor Flagship - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Flagship'
+background-color='#041A3B'
+foreground-color='#F2F2F2'
+cursor-background-color='#FFC005'
+cursor-foreground-color='#041A3B'
+highlight-background-color='#FFC00538'
+highlight-foreground-color='#F2F2F2'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#0C2E58', '#E1321A', '#6AB017', '#FFC005', '#729FCF', '#EC0048', '#2AA7E7', '#F2F2F2', '#3A5A80', '#FF361E', '#7BC91F', '#FFD00A', '#0071FF', '#FF1D62', '#4BB8FD', '#ffffff']

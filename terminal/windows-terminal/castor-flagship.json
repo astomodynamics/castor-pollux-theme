@@ -1,0 +1,23 @@
+{
+  "name": "Castor Flagship",
+  "background": "#041A3B",
+  "foreground": "#F2F2F2",
+  "cursorColor": "#FFC005",
+  "selectionBackground": "#FFC00538",
+  "black": "#0C2E58",
+  "red": "#E1321A",
+  "green": "#6AB017",
+  "yellow": "#FFC005",
+  "blue": "#729FCF",
+  "purple": "#EC0048",
+  "cyan": "#2AA7E7",
+  "white": "#F2F2F2",
+  "brightBlack": "#3A5A80",
+  "brightRed": "#FF361E",
+  "brightGreen": "#7BC91F",
+  "brightYellow": "#FFD00A",
+  "brightBlue": "#0071FF",
+  "brightPurple": "#FF1D62",
+  "brightCyan": "#4BB8FD",
+  "brightWhite": "#ffffff"
+}

@@ -1,0 +1,18 @@
+# Castor Flagship - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Flagship"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#041A3B"
+foreground = "#F2F2F2"
+cursor_bg = "#FFC005"
+cursor_fg = "#041A3B"
+cursor_border = "#FFC005"
+selection_bg = "#FFC00538"
+selection_fg = "#F2F2F2"
+
+[colors.ansi]
+ansi = ["#0C2E58", "#E1321A", "#6AB017", "#FFC005", "#729FCF", "#EC0048", "#2AA7E7", "#F2F2F2"]
+brights = ["#3A5A80", "#FF361E", "#7BC91F", "#FFD00A", "#0071FF", "#FF1D62", "#4BB8FD", "#ffffff"]

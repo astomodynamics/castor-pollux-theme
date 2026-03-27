@@ -1,0 +1,18 @@
+# Castor Voltage - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Voltage"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0A0A2E"
+foreground = "#E8E4F4"
+cursor_bg = "#FFD600"
+cursor_fg = "#0A0A2E"
+cursor_border = "#FFD600"
+selection_bg = "#FFD60038"
+selection_fg = "#E8E4F4"
+
+[colors.ansi]
+ansi = ["#181850", "#FF2D78", "#48E880", "#FFD600", "#4488FF", "#D050FF", "#00D4F0", "#E8E4F4"]
+brights = ["#383870", "#FF5898", "#78F0A0", "#FFE440", "#70A8FF", "#E080FF", "#40E0FF", "#ffffff"]

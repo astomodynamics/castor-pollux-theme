@@ -1,0 +1,33 @@
+# Castor Voltage - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0A0A2E"
+foreground = "#E8E4F4"
+
+[colors.cursor]
+text = "#0A0A2E"
+cursor = "#FFD600"
+
+[colors.selection]
+text = CellForeground
+background = "#FFD60038"
+
+[colors.normal]
+black = "#181850"
+red = "#FF2D78"
+green = "#48E880"
+yellow = "#FFD600"
+blue = "#4488FF"
+magenta = "#D050FF"
+cyan = "#00D4F0"
+white = "#E8E4F4"
+
+[colors.bright]
+black = "#383870"
+red = "#FF5898"
+green = "#78F0A0"
+yellow = "#FFE440"
+blue = "#70A8FF"
+magenta = "#E080FF"
+cyan = "#40E0FF"
+white = "#ffffff"

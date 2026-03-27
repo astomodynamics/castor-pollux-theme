@@ -1,0 +1,33 @@
+# Castor Solaris - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#041830"
+foreground = "#e8ecf4"
+
+[colors.cursor]
+text = "#041830"
+cursor = "#FF8C00"
+
+[colors.selection]
+text = CellForeground
+background = "#FF8C0038"
+
+[colors.normal]
+black = "#0c2a50"
+red = "#FF4136"
+green = "#2ECC40"
+yellow = "#FF8C00"
+blue = "#2EA4FF"
+magenta = "#E040A0"
+cyan = "#20C4D4"
+white = "#e8ecf4"
+
+[colors.bright]
+black = "#3a5878"
+red = "#FF6B60"
+green = "#5EE070"
+yellow = "#FFAA40"
+blue = "#60BBFF"
+magenta = "#F070C0"
+cyan = "#50D8E4"
+white = "#ffffff"

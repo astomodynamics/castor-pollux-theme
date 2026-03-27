@@ -1,0 +1,33 @@
+# Castor Flagship - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#041A3B"
+foreground = "#F2F2F2"
+
+[colors.cursor]
+text = "#041A3B"
+cursor = "#FFC005"
+
+[colors.selection]
+text = CellForeground
+background = "#FFC00538"
+
+[colors.normal]
+black = "#0C2E58"
+red = "#E1321A"
+green = "#6AB017"
+yellow = "#FFC005"
+blue = "#729FCF"
+magenta = "#EC0048"
+cyan = "#2AA7E7"
+white = "#F2F2F2"
+
+[colors.bright]
+black = "#3A5A80"
+red = "#FF361E"
+green = "#7BC91F"
+yellow = "#FFD00A"
+blue = "#0071FF"
+magenta = "#FF1D62"
+cyan = "#4BB8FD"
+white = "#ffffff"

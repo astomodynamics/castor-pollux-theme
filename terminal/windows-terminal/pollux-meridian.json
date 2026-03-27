@@ -1,0 +1,23 @@
+{
+  "name": "Pollux Meridian",
+  "background": "#021A28",
+  "foreground": "#e4ecf0",
+  "cursorColor": "#00D48C",
+  "selectionBackground": "#00D48C38",
+  "black": "#0a3048",
+  "red": "#F04848",
+  "green": "#00D48C",
+  "yellow": "#F0C040",
+  "blue": "#3898E0",
+  "purple": "#C868E0",
+  "cyan": "#00C0D8",
+  "white": "#e4ecf0",
+  "brightBlack": "#2e5468",
+  "brightRed": "#F87070",
+  "brightGreen": "#40E8A8",
+  "brightYellow": "#F8D060",
+  "brightBlue": "#60B0F0",
+  "brightPurple": "#E090F0",
+  "brightCyan": "#40D8E8",
+  "brightWhite": "#ffffff"
+}
