@@ -1,0 +1,18 @@
+# Castor Naval Ember - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Naval Ember"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#071828"
+foreground = "#F0E8DC"
+cursor_bg = "#E07828"
+cursor_fg = "#071828"
+cursor_border = "#E07828"
+selection_bg = "#E0782838"
+selection_fg = "#F0E8DC"
+
+[colors.ansi]
+ansi = ["#1A2840", "#CC5848", "#8AAC48", "#E0A038", "#608AAC", "#C06878", "#58A880", "#F0E8DC"]
+brights = ["#4A5A70", "#E87060", "#A0C860", "#F0B850", "#80A8CC", "#D88898", "#78C8A0", "#FFFFFF"]

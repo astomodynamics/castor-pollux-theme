@@ -1,0 +1,14 @@
+# Castor Dark Harbor - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Dark Harbor'
+background-color='#081424'
+foreground-color='#E4DCD0'
+cursor-background-color='#D09038'
+cursor-foreground-color='#081424'
+highlight-background-color='#D0903838'
+highlight-foreground-color='#E4DCD0'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1A2C44', '#B84848', '#78A858', '#D09038', '#5C84A0', '#A86060', '#58B890', '#E4DCD0', '#4A6078', '#D06868', '#90C070', '#E0A848', '#7CA0C0', '#C08080', '#78D8B0', '#FFFFFF']

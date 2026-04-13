@@ -1,0 +1,18 @@
+# Castor Forge Navy - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Forge Navy"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0C1420"
+foreground = "#F0E4D4"
+cursor_bg = "#E06820"
+cursor_fg = "#0C1420"
+cursor_border = "#E06820"
+selection_bg = "#E0682038"
+selection_fg = "#F0E4D4"
+
+[colors.ansi]
+ansi = ["#1E2C3C", "#C84040", "#80A050", "#D88020", "#607898", "#B85848", "#509878", "#F0E4D4"]
+brights = ["#506070", "#E06060", "#98B868", "#E89838", "#8098B8", "#D07068", "#70B898", "#FFFFFF"]

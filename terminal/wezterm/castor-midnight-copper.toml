@@ -1,0 +1,18 @@
+# Castor Midnight Copper - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Midnight Copper"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#061420"
+foreground = "#E8E0D4"
+cursor_bg = "#C07838"
+cursor_fg = "#061420"
+cursor_border = "#C07838"
+selection_bg = "#C0783838"
+selection_fg = "#E8E0D4"
+
+[colors.ansi]
+ansi = ["#182840", "#C86868", "#80B070", "#C07838", "#5888A8", "#B07070", "#58A890", "#E8E0D4"]
+brights = ["#486070", "#D88888", "#98C888", "#D89040", "#78A8C8", "#C89090", "#78C8B0", "#FFFFFF"]

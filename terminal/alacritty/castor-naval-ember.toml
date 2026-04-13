@@ -1,0 +1,33 @@
+# Castor Naval Ember - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#071828"
+foreground = "#F0E8DC"
+
+[colors.cursor]
+text = "#071828"
+cursor = "#E07828"
+
+[colors.selection]
+text = CellForeground
+background = "#E0782838"
+
+[colors.normal]
+black = "#1A2840"
+red = "#CC5848"
+green = "#8AAC48"
+yellow = "#E0A038"
+blue = "#608AAC"
+magenta = "#C06878"
+cyan = "#58A880"
+white = "#F0E8DC"
+
+[colors.bright]
+black = "#4A5A70"
+red = "#E87060"
+green = "#A0C860"
+yellow = "#F0B850"
+blue = "#80A8CC"
+magenta = "#D88898"
+cyan = "#78C8A0"
+white = "#FFFFFF"

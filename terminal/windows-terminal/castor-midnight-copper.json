@@ -1,0 +1,23 @@
+{
+  "name": "Castor Midnight Copper",
+  "background": "#061420",
+  "foreground": "#E8E0D4",
+  "cursorColor": "#C07838",
+  "selectionBackground": "#C0783838",
+  "black": "#182840",
+  "red": "#C86868",
+  "green": "#80B070",
+  "yellow": "#C07838",
+  "blue": "#5888A8",
+  "purple": "#B07070",
+  "cyan": "#58A890",
+  "white": "#E8E0D4",
+  "brightBlack": "#486070",
+  "brightRed": "#D88888",
+  "brightGreen": "#98C888",
+  "brightYellow": "#D89040",
+  "brightBlue": "#78A8C8",
+  "brightPurple": "#C89090",
+  "brightCyan": "#78C8B0",
+  "brightWhite": "#FFFFFF"
+}

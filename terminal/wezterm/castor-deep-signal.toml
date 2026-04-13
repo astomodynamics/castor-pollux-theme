@@ -1,0 +1,18 @@
+# Castor Deep Signal - Castor & Pollux Theme Collection
+
+[metadata]
+name = "Castor Deep Signal"
+origin_url = "https://github.com/yourusername/castor-pollux-theme"
+
+[colors]
+background = "#0A1628"
+foreground = "#F2ECE0"
+cursor_bg = "#E8A820"
+cursor_fg = "#0A1628"
+cursor_border = "#E8A820"
+selection_bg = "#E8A82038"
+selection_fg = "#F2ECE0"
+
+[colors.ansi]
+ansi = ["#1C3450", "#D03828", "#50B858", "#E8A820", "#5880A8", "#C05058", "#48A878", "#F2ECE0"]
+brights = ["#486878", "#E85848", "#68D870", "#F8C040", "#78A0C8", "#D87078", "#68C898", "#FFFFFF"]

@@ -1,0 +1,14 @@
+# Castor Midnight Copper - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Midnight Copper'
+background-color='#061420'
+foreground-color='#E8E0D4'
+cursor-background-color='#C07838'
+cursor-foreground-color='#061420'
+highlight-background-color='#C0783838'
+highlight-foreground-color='#E8E0D4'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#182840', '#C86868', '#80B070', '#C07838', '#5888A8', '#B07070', '#58A890', '#E8E0D4', '#486070', '#D88888', '#98C888', '#D89040', '#78A8C8', '#C89090', '#78C8B0', '#FFFFFF']

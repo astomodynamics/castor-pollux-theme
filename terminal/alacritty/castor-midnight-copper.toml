@@ -1,0 +1,33 @@
+# Castor Midnight Copper - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#061420"
+foreground = "#E8E0D4"
+
+[colors.cursor]
+text = "#061420"
+cursor = "#C07838"
+
+[colors.selection]
+text = CellForeground
+background = "#C0783838"
+
+[colors.normal]
+black = "#182840"
+red = "#C86868"
+green = "#80B070"
+yellow = "#C07838"
+blue = "#5888A8"
+magenta = "#B07070"
+cyan = "#58A890"
+white = "#E8E0D4"
+
+[colors.bright]
+black = "#486070"
+red = "#D88888"
+green = "#98C888"
+yellow = "#D89040"
+blue = "#78A8C8"
+magenta = "#C89090"
+cyan = "#78C8B0"
+white = "#FFFFFF"
