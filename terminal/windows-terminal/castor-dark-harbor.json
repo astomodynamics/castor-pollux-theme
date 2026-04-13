@@ -1,0 +1,23 @@
+{
+  "name": "Castor Dark Harbor",
+  "background": "#081424",
+  "foreground": "#E4DCD0",
+  "cursorColor": "#D09038",
+  "selectionBackground": "#D0903838",
+  "black": "#1A2C44",
+  "red": "#B84848",
+  "green": "#78A858",
+  "yellow": "#D09038",
+  "blue": "#5C84A0",
+  "purple": "#A86060",
+  "cyan": "#58B890",
+  "white": "#E4DCD0",
+  "brightBlack": "#4A6078",
+  "brightRed": "#D06868",
+  "brightGreen": "#90C070",
+  "brightYellow": "#E0A848",
+  "brightBlue": "#7CA0C0",
+  "brightPurple": "#C08080",
+  "brightCyan": "#78D8B0",
+  "brightWhite": "#FFFFFF"
+}

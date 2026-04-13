@@ -272,6 +272,31 @@
         "label": "Castor Flagship",
         "uiTheme": "vs-dark",
         "path": "./themes/castor-flagship-dark.json"
+      },
+      {
+        "label": "Castor Naval Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-naval-ember-dark.json"
+      },
+      {
+        "label": "Castor Midnight Copper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-midnight-copper-dark.json"
+      },
+      {
+        "label": "Castor Deep Signal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-deep-signal-dark.json"
+      },
+      {
+        "label": "Castor Dark Harbor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-dark-harbor-dark.json"
+      },
+      {
+        "label": "Castor Forge Navy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/castor-forge-navy-dark.json"
       }
     ]
   },

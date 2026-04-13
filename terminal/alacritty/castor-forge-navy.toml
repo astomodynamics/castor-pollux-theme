@@ -1,0 +1,33 @@
+# Castor Forge Navy - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#0C1420"
+foreground = "#F0E4D4"
+
+[colors.cursor]
+text = "#0C1420"
+cursor = "#E06820"
+
+[colors.selection]
+text = CellForeground
+background = "#E0682038"
+
+[colors.normal]
+black = "#1E2C3C"
+red = "#C84040"
+green = "#80A050"
+yellow = "#D88020"
+blue = "#607898"
+magenta = "#B85848"
+cyan = "#509878"
+white = "#F0E4D4"
+
+[colors.bright]
+black = "#506070"
+red = "#E06060"
+green = "#98B868"
+yellow = "#E89838"
+blue = "#8098B8"
+magenta = "#D07068"
+cyan = "#70B898"
+white = "#FFFFFF"

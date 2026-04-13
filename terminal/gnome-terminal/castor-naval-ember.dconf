@@ -1,0 +1,14 @@
+# Castor Naval Ember - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Naval Ember'
+background-color='#071828'
+foreground-color='#F0E8DC'
+cursor-background-color='#E07828'
+cursor-foreground-color='#071828'
+highlight-background-color='#E0782838'
+highlight-foreground-color='#F0E8DC'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1A2840', '#CC5848', '#8AAC48', '#E0A038', '#608AAC', '#C06878', '#58A880', '#F0E8DC', '#4A5A70', '#E87060', '#A0C860', '#F0B850', '#80A8CC', '#D88898', '#78C8A0', '#FFFFFF']

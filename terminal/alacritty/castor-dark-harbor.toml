@@ -1,0 +1,33 @@
+# Castor Dark Harbor - Castor & Pollux Theme Collection
+
+[colors.primary]
+background = "#081424"
+foreground = "#E4DCD0"
+
+[colors.cursor]
+text = "#081424"
+cursor = "#D09038"
+
+[colors.selection]
+text = CellForeground
+background = "#D0903838"
+
+[colors.normal]
+black = "#1A2C44"
+red = "#B84848"
+green = "#78A858"
+yellow = "#D09038"
+blue = "#5C84A0"
+magenta = "#A86060"
+cyan = "#58B890"
+white = "#E4DCD0"
+
+[colors.bright]
+black = "#4A6078"
+red = "#D06868"
+green = "#90C070"
+yellow = "#E0A848"
+blue = "#7CA0C0"
+magenta = "#C08080"
+cyan = "#78D8B0"
+white = "#FFFFFF"

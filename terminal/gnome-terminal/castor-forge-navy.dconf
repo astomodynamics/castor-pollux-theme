@@ -1,0 +1,14 @@
+# Castor Forge Navy - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Forge Navy'
+background-color='#0C1420'
+foreground-color='#F0E4D4'
+cursor-background-color='#E06820'
+cursor-foreground-color='#0C1420'
+highlight-background-color='#E0682038'
+highlight-foreground-color='#F0E4D4'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1E2C3C', '#C84040', '#80A050', '#D88020', '#607898', '#B85848', '#509878', '#F0E4D4', '#506070', '#E06060', '#98B868', '#E89838', '#8098B8', '#D07068', '#70B898', '#FFFFFF']

@@ -1,0 +1,23 @@
+{
+  "name": "Castor Deep Signal",
+  "background": "#0A1628",
+  "foreground": "#F2ECE0",
+  "cursorColor": "#E8A820",
+  "selectionBackground": "#E8A82038",
+  "black": "#1C3450",
+  "red": "#D03828",
+  "green": "#50B858",
+  "yellow": "#E8A820",
+  "blue": "#5880A8",
+  "purple": "#C05058",
+  "cyan": "#48A878",
+  "white": "#F2ECE0",
+  "brightBlack": "#486878",
+  "brightRed": "#E85848",
+  "brightGreen": "#68D870",
+  "brightYellow": "#F8C040",
+  "brightBlue": "#78A0C8",
+  "brightPurple": "#D87078",
+  "brightCyan": "#68C898",
+  "brightWhite": "#FFFFFF"
+}

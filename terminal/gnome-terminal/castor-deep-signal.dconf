@@ -1,0 +1,14 @@
+# Castor Deep Signal - Castor & Pollux Theme Collection
+# Apply with: dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < this_file
+
+[/]
+visible-name='Castor Deep Signal'
+background-color='#0A1628'
+foreground-color='#F2ECE0'
+cursor-background-color='#E8A820'
+cursor-foreground-color='#0A1628'
+highlight-background-color='#E8A82038'
+highlight-foreground-color='#F2ECE0'
+use-theme-colors=false
+bold-is-bright=true
+palette=['#1C3450', '#D03828', '#50B858', '#E8A820', '#5880A8', '#C05058', '#48A878', '#F2ECE0', '#486878', '#E85848', '#68D870', '#F8C040', '#78A0C8', '#D87078', '#68C898', '#FFFFFF']

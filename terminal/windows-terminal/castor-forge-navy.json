@@ -1,0 +1,23 @@
+{
+  "name": "Castor Forge Navy",
+  "background": "#0C1420",
+  "foreground": "#F0E4D4",
+  "cursorColor": "#E06820",
+  "selectionBackground": "#E0682038",
+  "black": "#1E2C3C",
+  "red": "#C84040",
+  "green": "#80A050",
+  "yellow": "#D88020",
+  "blue": "#607898",
+  "purple": "#B85848",
+  "cyan": "#509878",
+  "white": "#F0E4D4",
+  "brightBlack": "#506070",
+  "brightRed": "#E06060",
+  "brightGreen": "#98B868",
+  "brightYellow": "#E89838",
+  "brightBlue": "#8098B8",
+  "brightPurple": "#D07068",
+  "brightCyan": "#70B898",
+  "brightWhite": "#FFFFFF"
+}
