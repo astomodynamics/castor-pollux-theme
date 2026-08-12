@@ -1,8 +1,8 @@
 # Castor & Pollux Theme Collection
 
-A collection of 47 premium themes for VS Code and Cursor, inspired by the twin stars of the Gemini constellation. Deep navy backgrounds, celestial color palettes, and carefully tuned contrast for long coding sessions, plus companion exports for terminal emulators and Zed.
+A collection of 57 premium themes for VS Code and Cursor, inspired by the twin stars of the Gemini constellation. Deep navy backgrounds, celestial color palettes, and carefully tuned contrast for long coding sessions, plus companion exports for terminal emulators and Zed.
 
-## Themes (47 total)
+## Themes (57 total)
 
 ### Navy & Gold (NEW)
 
@@ -140,6 +140,11 @@ The repo also includes companion exports for terminal emulators under [`terminal
 
 For Zed, the helper script builds a single theme family file at `~/.config/zed/themes/castor-pollux.json`.
 
+For the Codex app, the helper script builds supported `codex-theme-v1:` share
+strings that can be pasted into the app's Appearance settings. Codex share
+strings customize the app palette but use a built-in Codex code theme for
+syntax highlighting.
+
 ## Regenerating Exports
 
 Run the conversion helpers from the repository root with Python 3:
@@ -147,13 +152,26 @@ Run the conversion helpers from the repository root with Python 3:
 ```bash
 python3 convert_to_terminal.py
 python3 convert_to_zed.py
+python3 convert_to_codex.py --theme "Castor Georgia Tech" --code-theme github
 ```
 
 `convert_to_terminal.py` regenerates the committed files in [`terminal/`](terminal/). `convert_to_zed.py` writes the Zed theme family into your local Zed themes directory.
+`convert_to_codex.py` writes Codex theme share strings into
+[`codex-themes/`](codex-themes/). Omit `--theme` to export the full collection.
+
+To import Castor Georgia Tech:
+
+1. Open **Settings > Appearance** in the Codex app.
+2. Under **Dark theme**, select **Import**.
+3. Paste the contents of `codex-themes/castor-georgia-tech.txt`.
+
+The imported app colors match Castor Georgia Tech. Code blocks use the selected
+built-in Codex theme (`GitHub` in the example) because the share format does not
+carry VS Code TextMate token rules.
 
 ## Features
 
-- 47 themes: 44 dark, 3 light
+- 57 themes: 54 dark, 3 light
 - Semantic highlighting and semantic token colors (Navy & Gold series)
 - Bracket pair colorization with distinct colors
 - Minimap, command center, and modern UI element styling

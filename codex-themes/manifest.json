@@ -1,0 +1,406 @@
+{
+  "format": "codex-theme-v1",
+  "generatedBy": "convert_to_codex.py",
+  "themeCount": 57,
+  "themes": [
+    {
+      "label": "Castor Navy Dark",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-navy-dark.json",
+      "file": "castor-navy-dark.txt"
+    },
+    {
+      "label": "Pollux Cosmic Dark",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-cosmic-dark.json",
+      "file": "pollux-cosmic-dark.txt"
+    },
+    {
+      "label": "Castor Midnight",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-midnight-dark.json",
+      "file": "castor-midnight.txt"
+    },
+    {
+      "label": "Pollux Nebula",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-nebula-dark.json",
+      "file": "pollux-nebula.txt"
+    },
+    {
+      "label": "Castor Eclipse",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-eclipse-dark.json",
+      "file": "castor-eclipse.txt"
+    },
+    {
+      "label": "Castor Deep Ocean",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-deep-ocean-dark.json",
+      "file": "castor-deep-ocean.txt"
+    },
+    {
+      "label": "Pollux Solar",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-solar-dark.json",
+      "file": "pollux-solar.txt"
+    },
+    {
+      "label": "Castor Arctic",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-arctic-dark.json",
+      "file": "castor-arctic.txt"
+    },
+    {
+      "label": "Pollux Sapphire",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-sapphire-dark.json",
+      "file": "pollux-sapphire.txt"
+    },
+    {
+      "label": "Castor Azure",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-azure-dark.json",
+      "file": "castor-azure.txt"
+    },
+    {
+      "label": "Pollux Indigo",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-indigo-dark.json",
+      "file": "pollux-indigo.txt"
+    },
+    {
+      "label": "Material Light",
+      "variant": "light",
+      "codeThemeId": "github",
+      "source": "themes/material-light.json",
+      "file": "material-light.txt"
+    },
+    {
+      "label": "Nocturne Dark",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/nocturne-dark-theme.json",
+      "file": "nocturne-dark.txt"
+    },
+    {
+      "label": "Aurora Light",
+      "variant": "light",
+      "codeThemeId": "github",
+      "source": "themes/aurora-light-theme.json",
+      "file": "aurora-light.txt"
+    },
+    {
+      "label": "Castor CLI Dark",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-cli-dark-theme.json",
+      "file": "castor-cli-dark.txt"
+    },
+    {
+      "label": "Pollux CLI Light",
+      "variant": "light",
+      "codeThemeId": "github",
+      "source": "themes/pollux-cli-light-theme.json",
+      "file": "pollux-cli-light.txt"
+    },
+    {
+      "label": "Castor Cobalt",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-cobalt-dark.json",
+      "file": "castor-cobalt.txt"
+    },
+    {
+      "label": "Pollux Glacier",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-glacier-dark.json",
+      "file": "pollux-glacier.txt"
+    },
+    {
+      "label": "Castor Twilight",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-twilight-dark.json",
+      "file": "castor-twilight.txt"
+    },
+    {
+      "label": "Pollux Steel",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-steel-dark.json",
+      "file": "pollux-steel.txt"
+    },
+    {
+      "label": "Castor Cerulean",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-cerulean-dark.json",
+      "file": "castor-cerulean.txt"
+    },
+    {
+      "label": "Castor Ember",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-ember-dark.json",
+      "file": "castor-ember.txt"
+    },
+    {
+      "label": "Pollux Forest",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-forest-dark.json",
+      "file": "pollux-forest.txt"
+    },
+    {
+      "label": "Castor Amethyst",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-amethyst-dark.json",
+      "file": "castor-amethyst.txt"
+    },
+    {
+      "label": "Pollux Copper",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-copper-dark.json",
+      "file": "pollux-copper.txt"
+    },
+    {
+      "label": "Castor Crimson",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-crimson-dark.json",
+      "file": "castor-crimson.txt"
+    },
+    {
+      "label": "Pollux Aurora",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-aurora-dark.json",
+      "file": "pollux-aurora.txt"
+    },
+    {
+      "label": "Castor Zenn Dark",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-zenn-dark.json",
+      "file": "castor-zenn-dark.txt"
+    },
+    {
+      "label": "Pollux Obsidian",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-obsidian-dark.json",
+      "file": "pollux-obsidian.txt"
+    },
+    {
+      "label": "Castor Slate",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-slate-dark.json",
+      "file": "castor-slate.txt"
+    },
+    {
+      "label": "Pollux Abyss",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-abyss-dark.json",
+      "file": "pollux-abyss.txt"
+    },
+    {
+      "label": "Castor Carbon",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-carbon-dark.json",
+      "file": "castor-carbon.txt"
+    },
+    {
+      "label": "Castor Prussian",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-prussian-dark.json",
+      "file": "castor-prussian.txt"
+    },
+    {
+      "label": "Pollux Mariana",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-mariana-dark.json",
+      "file": "pollux-mariana.txt"
+    },
+    {
+      "label": "Castor Ink",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-ink-dark.json",
+      "file": "castor-ink.txt"
+    },
+    {
+      "label": "Pollux Baltic",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-baltic-dark.json",
+      "file": "pollux-baltic.txt"
+    },
+    {
+      "label": "Castor Storm",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-storm-dark.json",
+      "file": "castor-storm.txt"
+    },
+    {
+      "label": "Castor Admiralty",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-admiralty-dark.json",
+      "file": "castor-admiralty.txt"
+    },
+    {
+      "label": "Pollux Sovereign",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-sovereign-dark.json",
+      "file": "pollux-sovereign.txt"
+    },
+    {
+      "label": "Castor Gilded Navy",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-gilded-navy-dark.json",
+      "file": "castor-gilded-navy.txt"
+    },
+    {
+      "label": "Castor Georgia Tech",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-georgia-tech-dark.json",
+      "file": "castor-georgia-tech.txt"
+    },
+    {
+      "label": "Castor Verdant",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-verdant-dark.json",
+      "file": "castor-verdant.txt"
+    },
+    {
+      "label": "Castor Kyoto",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-kyoto-dark.json",
+      "file": "castor-kyoto.txt"
+    },
+    {
+      "label": "Pollux Dune",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-dune-dark.json",
+      "file": "pollux-dune.txt"
+    },
+    {
+      "label": "Castor Oxblood",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-oxblood-dark.json",
+      "file": "castor-oxblood.txt"
+    },
+    {
+      "label": "Pollux Patina",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-patina-dark.json",
+      "file": "pollux-patina.txt"
+    },
+    {
+      "label": "Castor Bourbon",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-bourbon-dark.json",
+      "file": "castor-bourbon.txt"
+    },
+    {
+      "label": "Castor Solaris",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-solaris-dark.json",
+      "file": "castor-solaris.txt"
+    },
+    {
+      "label": "Pollux Meridian",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-meridian-dark.json",
+      "file": "pollux-meridian.txt"
+    },
+    {
+      "label": "Castor Voltage",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-voltage-dark.json",
+      "file": "castor-voltage.txt"
+    },
+    {
+      "label": "Pollux Ironside",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/pollux-ironside-dark.json",
+      "file": "pollux-ironside.txt"
+    },
+    {
+      "label": "Castor Flagship",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-flagship-dark.json",
+      "file": "castor-flagship.txt"
+    },
+    {
+      "label": "Castor Naval Ember",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-naval-ember-dark.json",
+      "file": "castor-naval-ember.txt"
+    },
+    {
+      "label": "Castor Midnight Copper",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-midnight-copper-dark.json",
+      "file": "castor-midnight-copper.txt"
+    },
+    {
+      "label": "Castor Deep Signal",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-deep-signal-dark.json",
+      "file": "castor-deep-signal.txt"
+    },
+    {
+      "label": "Castor Dark Harbor",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-dark-harbor-dark.json",
+      "file": "castor-dark-harbor.txt"
+    },
+    {
+      "label": "Castor Forge Navy",
+      "variant": "dark",
+      "codeThemeId": "github",
+      "source": "themes/castor-forge-navy-dark.json",
+      "file": "castor-forge-navy.txt"
+    }
+  ]
+}
